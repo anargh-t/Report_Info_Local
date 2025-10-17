@@ -1,0 +1,96 @@
+Technology and innovation 
+Driving a customer‑first transformation while modernising Enterprise Digital 
+Capabilities were the focal points of the year gone by. Technology and innovation 
+will power a future‑ready enterprise that is efficient, intelligent, and deeply 
+customer‑centric.
+Customer experience: 
+personalised, predictive, and 
+connected
+Customer‑centricity remains at the 
+heart of Tata Motors’ innovation 
+journey. Through the deployment 
+of intelligent digital solutions, we 
+are enhancing vehicle ownership 
+experience from pre‑purchase 
+engagement to post‑sale service.
+Generative AI‑powered solutions 
+were deployed to enrich customer 
+experience. An advanced email 
+responder was introduced to manage 
+new customer complaint emails, 
+generating over 22,000 personalised, 
+policy‑compliant responses. Trained on 
+historical interactions and enterprise 
+knowledge, the system reduced 
+average response time from ~3 hours 
+to under 5 minutes – ensuring real‑time 
+resolution, enhanced consistency, and 
+service excellence at scale. Another 
+Gen AI solution delivered real‑time, 
+policy‑compliant responses to investor 
+queries during the sensitive Tata 
+Technologies IPO window and during 
+the conversion of TML DVR shares. 
+Focused enhancements in service 
+quality and customer support, 
+achieved a 25% reduction in customer 
+service station revisits and a 15% 
+decline in complaints per thousand 
+vehicles – reinforcing our drive 
+towards service excellence and 
+customer delight. 
+A first‑in‑industry C75 drive cycle was 
+introduced for EV range prediction. 
+Built on synthesised data from 4 billion 
+kilometres of actual EV usage and 
+calibrated to individual driving styles 
+and terrain conditions, it delivered 
+highly accurate range estimates. 
+Introduced as part of our Curvv.ev 
+launch in August 2024, this innovation 
+was instrumental in improving 
+consumer trust, reducing range 
+anxiety, and accelerating EV adoption.
+To boost charging infrastructure, 
+we operationalised an AI‑based 
+Geo‑Spatial Analytics model to 
+optimise fast‑charger deployment. 
+Factoring in traffic density, usage 
+patterns, and infrastructure gaps, 
+the tool facilitated a 10% increase 
+in fast charging network coverage 
+year‑over‑year. As of FY25, 85% of 
+national highways and 73% of state 
+highways are now within 50 km of a 
+fast charger, while metro cities offer 
+a charging station every 5–7 km, 
+improving EV convenience.
+In our vehicle logistics operations 
+spanning 400+ dealers across 
+India, a mobile‑first Proof of 
+Delivery solution‑integrated with 
+our Transporter Portal and Dealer 
+Management System — has digitised 
+last‑mile vehicle deliveries. This has 
+enhanced transparency, enabled 
+real‑time tracking, and eliminated 
+manual reconciliation, ensuring 
+a seamless handover experience 
+for customers.
+We reached 1 million Connected 
+Commercial vehicles during the year. 
+This expanding ecosystem enables 
+us to deliver personalised contextual 
+recommendations, over‑the‑air 
+updates, and intelligent alerts for 
+predictive maintenance, besides 
+usage‑based promotions, enriching 
+the ownership journey and fostering 
+brand affinity.
+Through these initiatives, 
+Tata Motors is driving the transition 
+to experience‑led mobility, merging 
+technological innovation with 
+human‑centred design to create 
+enduring customer value.
+58

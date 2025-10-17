@@ -1,0 +1,107 @@
+1  Background and operations
+Tata  Motors  Limited  referred  to  as  (“the  Company” 
+or  “Tata  Motors”),  designs,  manufactures  and  sells  a 
+wide  range  of  automotive  vehicles.  The  Company  also 
+manufactures engines for industrial applications.
+The Company is a public limited Company incorporated 
+and  domiciled  in  India  and  has  its  registered  office  at 
+Mumbai, India. As at March 31, 2025, Tata Sons Private 
+Limited,  together  with  its  subsidiaries  owns  42.51%  of 
+the Ordinary shares of the Company and has the ability 
+to significantly influence the Company’s operations.
+The standalone financial statements were approved by 
+the Board of Directors and authorised for issue on May 
+13, 2025.
+2  Material accounting policies
+(a)  Statement of compliance
+These  financial  statements  have  been  prepared 
+in  accordance  with  Indian  Accounting  Standards 
+(“Ind AS”) as notified under the Companies (Indian 
+Accounting  Standards)  Rules,  2015  read  with 
+Section 133 of the Companies Act, 2013 (the “Act”) 
+as amended from time to time.
+(b)  Basis of preparation
+These  financial  statements  have  been  prepared 
+on historical cost basis except for certain financial 
+instruments  which  are  measured  at  fair  value  at 
+the  end  of  each  reporting  period  as  explained 
+in  the  accounting  policies  below.  All  amounts 
+have  been  rounded  to  the  nearest  crores,  unless 
+otherwise  indicated.  “0”  refers  to  amounts  less 
+than ₹ 0.50 crore.
+is  a 
+Joint operations :
+Certain of the Company’s activities, are conducted 
+through  a 
+joint 
+joint  operation,  which 
+arrangement  whereby  the  parties  that  have  joint 
+control  of  the  arrangement  have  rights  to  the 
+assets,  and  obligations  for  the  liabilities,  relating 
+to  the  arrangement.  As  per  Ind  AS  111  -  Joint 
+arrangements, in its separate financial statements, 
+the Company being a joint operator has recognised 
+its  share  of  the  assets,  liabilities,  income  and 
+expenses of these joint operations incurred jointly 
+with  the  other  partners,  along  with  its  share  of 
+income from the sale of the output and any assets, 
+liabilities  and  expenses  that  it  has  incurred  in 
+relation to the joint operation.
+Although not required by Ind AS, the Company has 
+provided in note 47 additional information of Tata 
+Motors Limited on a standalone basis excluding its 
+interest  in  its  Joint  Operation  viz.  Tata  Cummins 
+Private Limited (including its subsidiary company).
+(c)  Use of estimates and judgments
+The  preparation  of  financial  statements 
+in 
+conformity  with  Ind  AS  requires  management 
+to  make  judgments,  estimates  and  assumptions, 
+that  affect  the  application  of  accounting  policies 
+and  the  reported  amounts  of  assets,  liabilities 
+and disclosures of contingent assets and liabilities 
+at  the  date  of  these  financial  statements  and  the 
+reported  amounts  of  revenues  and  expenses  for 
+the  periods  presented.  Actual  results  may  differ 
+from these estimates and judgements.
+Estimates
+Estimates and underlying assumptions are reviewed 
+at each balance sheet date. Revisions to accounting 
+estimates are recognised in the period in which the 
+estimate is revised and future periods affected.
+In  particular,  information  about  significant  areas 
+of  estimation  uncertainty  and  critical  judgments 
+in  applying  accounting  policies  that  have  the 
+most significant effect on the amounts recognised 
+in  the  financial  statements  are  included  in  the 
+following notes:
+i)   Note  3  and  Note  5  -  Property,  plant  and 
+equipment  and  Intangible  assets-  useful  life 
+and impairment
+ii)   Note 27 - Provision for product warranty
+iii)   Note 33(B) - Assets and obligations relating to 
+employee benefits
+Judgements
+i) 
+Revenue  recognition:  The  Company  uses 
+judgement  to  determine  when  control  of  its 
+goods,  primarily  vehicles  and  parts,  pass  to 
+the customer. This is assessed with reference 
+to  indicators  of  control,  including  the  risks 
+and  rewards  of  ownership  and  legal  title 
+with  reference  to  the  underlying  terms  of 
+the  customer  contract.  Refer  to  note  31  for 
+further information.
+ii) 
+of 
+product 
+engineering 
+Capitalisation 
+costs:  The  Company  applies 
+judgement 
+in  determining  at  what  point  in  a  vehicle 
+recognition 
+programme’s 
+life  cycle 
+the 
+438

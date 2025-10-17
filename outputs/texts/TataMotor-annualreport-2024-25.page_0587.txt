@@ -1,0 +1,165 @@
+Breakdown of employee (management) turnover rate by age
+Total employee turnover rate
+Category
+<30 years
+30- 50 years
+> 50 years
+Total Voluntary employee turnover rate
+<30 years
+30- 50 years
+> 50 years
+Category
+Employees*
+Workers*
+Work Related Injuries
+Number  of  Fatalities  as  a  result  of  work-
+related injury
+Rate of Fatalities as a result of work-related 
+injury
+Number of High-consequence work-related 
+injuries (excluding fatalities)
+Rate  of  High-consequence  work-related 
+injuries (excluding fatalities)
+Number of recordable work-related injuries
+Rate of recordable work-related injuries
+Number of hours worked
+Number  of  Fatalities  as  a  result  of  work-
+related injury
+Rate of Fatalities as a result of work-related 
+injury
+Number of High-consequence work-related 
+injuries (excluding fatalities)
+Rate  of  High-consequence  work-related 
+injuries (excluding fatalities)
+Number of recordable work-related injuries
+Rate of recordable work-related injuries
+Number of hours worked
+Unit
+%
+%
+%
+%
+%
+%
+Unit
+Number
+%
+Number
+%
+Number
+%
+Hours
+Number
+%
+Number
+%
+Number
+%
+Hours
+FY25
+11.70
+7.00
+10.60
+11.60
+6.80
+2.30
+FY25
+0
+0.00
+0
+0
+FY24
+13.60
+7.70
+7.60
+13.60
+7.50
+2.10
+FY24
+1
+0.01
+1
+0.01
+67**
+0.52
+12,91,77,919
+1
+102
+0.76
+13,42,14,382
+1
+0.02
+0.01
+0
+0
+0
+0
+25
+0.38
+6,58,75,454
+30
+0.44
+6,78,96,703
+*For safety metrics employees include both white collar employees & blue-collar workers on roll with Tata Motors while workers consist of the third-party 
+contractual workforce and business partners.
+**One LTI case was reported for a permanent employee that was later retracted in regulatory filings post investigation. This has been excluded from 
+reporting.
+Category
+Employees
+Workers
+Work related Ill Health
+No.  of  Fatalities  because  of  Occupational 
+Health Illness
+No.  of  cases  of  recordable  Occupational 
+Health Illness
+No.  of  Fatalities  because  of  Occupational 
+Health Illness
+No.  of  cases  of  recordable  Occupational 
+Health Illness
+Average hours of training per year per employee
+Management Employees
+Non-Management Technicians
+Category
+Male
+Female
+Total
+Male
+Female
+Total
+583
+Unit
+Number
+Number
+Number
+Number
+Unit
+Hours
+Hours
+Hours
+Hours
+Hours
+Hours
+FY25
+FY24
+-
+-
+-
+-
+FY25
+24.92
+28.50
+25.28
+33.03
+32.57
+32.97
+-
+-
+-
+-
+FY24
+24.90
+27.70
+25.10
+46.25
+7.90
+35.01

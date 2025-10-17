@@ -1,0 +1,67 @@
+JLR  considers  the  variable  profit  and  volumes  assumptions  to  be  interdependent  as  movement  in  one  assumption  will 
+impact the other, impacting the overall variable profit. For example, the profit optimisation efforts discussed above will 
+likely result in higher average variable profit per unit with lower volumes whereas a focus on volumes would likely see 
+a  reduction  in  the  average  variable  profit  per  unit.  Consequently,  the  terminal  value  variable  profit  sensitivity  below 
+incorporates sensitivity in volumes via the impact on variable profit.
+The table below shows the amount by which the value assigned to the key assumptions must change for the recoverable 
+amount of the CGU to be equal to its carrying amount, none of which are considered to be reasonably plausible:
+Forecast period (Yr1-5) variable profit
+Pre-tax discount rate
+Terminal value variable profit (%GVR)
+Terminal value capital expenditures (%GVR)
+8 
+Investments in equity accounted investees:
+(A)  Associates
+As at  
+January 31, 2025
+As at  
+January 31, 2024
+% change
+(22.9%)
+23.1% 
+(18.8%)
+31.8% 
+% change
+(22.2%)
+66.0% 
+(12.5%)
+37.7% 
+The Company has no material associates as at March 31, 2025. The aggregate summarized financial information in 
+respect of the Company’s immaterial associates that are accounted for using the equity method is set forth below.
+Carrying amount of the Company's interest in associates
+Company’s share of Profit in associates *
+Company’s share of other comprehensive income in associates
+Company’s share of total comprehensive income in associates
+(₹ in crores)
+As at  
+March  31, 2025
+As at  
+March  31, 2024
+ 2,108
+1,892 
+As at  
+March  31, 2025
+As at  
+March  31, 2024
+315
+(4)
+311
+445
+(0)
+445
+i) 
+Fair value of investment in an equity accounted associate for which published price quotation is available, which 
+is a level 1 input, was ₹ 379  crores and ₹ 656  crores as at March 31, 2025 and 2024, respectively. The carrying 
+amount as at March 31, 2025 and 2024 was ₹ 180  crores and ₹ 163  crores, respectively. 
+ii)  During the year, the Company has incorporated an associate company viz. BMW TechWorks India Private Limited 
+(BTIPL)  pursuant  to  its  agreement  with  BMW  Holding  B.V  (other  investor).  Pursuant  to  the  agreement,  the 
+partners  have  call  and  put  options  for  purchase  /  sale  of  stake  in  the  BTIPL  as  defined  in  the  agreement.  As 
+required by Ind AS 109, the call/put option is a financial instrument which is required to be measured at fair value 
+at inception and the gain on initial recognition of the financial instrument is recognized on a systematic basis 
+over the period as defined in the agreement. Accordingly other income includes an amount of ₹ 17 crores for 
+unwinding of liability and ₹ 2 crores towards fair valuation of financial asset for the year ended March 31, 2025. 
+iii)  Further,  stake  of  Automobile  Corporation  of  Goa  Limited  and  Tata  Hitachi  Construction  Machinery  Company 
+Private Limited has been reduced during the year due to merger of Tata Motors Finance Ltd with Tata Capital 
+Ltd (refer note 51). Accordingly, investment in equity accounted investees has been reduced by ₹ 3 crores for 
+the year.
+335

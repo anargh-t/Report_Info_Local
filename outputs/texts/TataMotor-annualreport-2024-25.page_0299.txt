@@ -1,0 +1,79 @@
+Estimation of warranty provision
+See Note 33 to consolidated financial statements
+The key audit matter
+How the matter was addressed in our audit
+The  Group  incurs  a  liability  for  warranty  contracts  on 
+new  vehicle  sales,  in  terms  of  which  it  is  obligated  to 
+provide  repair  services  for  manufacturing  defects  over  the 
+contractual  warranty  period,  as  well  as  recall  campaigns, 
+customer  goodwill  and  the  Group’s  other  obligations  under 
+the warranty. As at 31 March 2025, the Group has warranty 
+provisions of Rs. 28,080 crores.
+The Group records a warranty provision at period end which 
+involves  complexity,  judgement  and  significant 
+level  of 
+uncertainty. The computation of the provision considers the 
+historical  actual  claims  data  and  the  recent  data  trends  to 
+estimate the expected payouts for vehicles sold in respective 
+years.  Such  expected  payouts  are  adjusted  for  any  cost 
+savings  expected  from  various  ongoing  quality  initiatives.  
+There  is  an  inherent  uncertainty  related  to  future  events 
+which  may  not  mirror  past  experience.  The  likelihood  of 
+risk  of  material  misstatement  has  further  increased  due  to 
+increasing  warranty  spend  in  the  year  which  has  diverged 
+from provision levels.
+For JLR Group, there is an additional risk of fraud in relation 
+to  warranties  in  respect  of  campaigns  as  each  individual 
+campaign  is  influenced  by  distinct  factors  relevant  to  its 
+specific  context  thus  complicating  costs  predictions  and 
+increasing the potential for management bias.
+Provision  for  product  warranty 
+is  a  key  audit  matter 
+due  to  high  estimation  uncertainty  and  involvement  of 
+significant judgement.
+In view of the significance of the matter, we and the auditor 
+of  the  component  (JLR  Group)  applied  the  following  audit 
+procedures in this area:
+Test of Controls:
+Evaluated  the  design  and  implementation  and  tested  the 
+operating effectiveness of controls related to computation and 
+approval of the warranty provisions. This includes evaluation 
+of assumptions and information related to expected warranty 
+cost  per  vehicle  and  future  events  related  to  expected  cost 
+savings underlying the warranty provision computation.
+Test of details:
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Evaluated any changes made to the provision policy and 
+computation model;
+Assessed  and  challenged  the  assumptions  applied, 
+including  repair  cost  per  vehicle  under  campaigns  and 
+disbursement curve analysis through analysis of historic 
+data  and  sensitivity  analysis.  Further,  for  JLR  Group, 
+recomputed  warranty  provision  by  involving  the  data 
+analytics team;
+Identified  and  tested  the  completeness  and  accuracy 
+in  computation  of 
+of  underlying 
+provision  with  the  assistance  of  our 
+Information 
+technology specialists;
+information  used 
+Tested  actualization  of  estimated  warranty  provision 
+using statistical sampling;
+Performed  retrospective  assessment  of  provision  by 
+comparing  estimated  and  actual  payments  against 
+warranty claims;
+For  JLR  Group,  assessed  the  assumptions  applied 
+using  our  own  knowledge  of  recent  campaigns  and 
+product  recalls  in  the  industry  based  on  independent 
+research; and
+Evaluated  the  adequacy  of  Group’s  disclosures  relating 
+to  the  estimation  of  Product  warranty  provisions  and 
+related sensitivities.
+295

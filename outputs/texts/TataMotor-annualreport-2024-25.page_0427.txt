@@ -1,0 +1,107 @@
+feature  was  not  enabled  in  respect  of 
+direct create action at the database level.
+• 
+its  payroll  records,  the 
+feature  of 
+recording audit trail (edit log) facility was 
+not enabled for the period from 1 April 
+2024 to 21 March 2025.
+Further, where audit trail (edit log) facility was enabled 
+and operated, we did not come across any instance of 
+the audit trail feature being tampered with. Additionally, 
+except  where  the  audit  trail  (edit  log)  facility  was  not 
+enabled  in  the  previous  year,  the  audit  trail  has  been 
+preserved  by  the  Company  and  its  joint  operation 
+company  (including  its  subsidiary  company)  as  per  the 
+statutory  requirements  for  record  retention,  except 
+for  the  accounting  software  used  for  preparation  of 
+financial  statements  where  the  audit  trail  has  not 
+been preserved.
+C.  With respect to the matter to be included in the Auditor’s 
+Report under Section 197(16) of the Act:
+In  our  opinion  and  according  to  the  information  and 
+explanations  given  to  us  the  remuneration  paid  by 
+the  Company  to  its  directors  during  the  current  year 
+is  in  accordance  with  the  provisions  of  Section  197  of 
+the  Act.  The  remuneration  paid  to  any  director  by  the 
+Company  is  not  in  excess  of  the  limit  laid  down  under 
+Section 197 of the Act. The Ministry of Corporate Affairs 
+has not prescribed other details under Section 197(16) 
+of  the  Act  which  are  required  to  be  commented  upon 
+by us.
+Further,  with  respect  to  the  joint  operation  company 
+(including  its  subsidiary  company)  included  in  the 
+standalone  financial  statements,  in  our  opinion  and 
+according  to  the  information  and  explanations  given 
+to  us,  the  provisions  of  Section  197  of  the  Act  are  not 
+applicable to the joint operation company (including its 
+subsidiary company) incorporated in India since it is not 
+a public company.
+For B S R & Co. LLP
+Chartered Accountants
+Firm’s Registration No.:101248W/W-100022
+Vijay Mathur
+Partner
+Membership No.: 046476
+ICAI UDIN:25046476BMOWLY1411
+Place: Mumbai
+Date: 13 May 2025
+f. 
+As  stated  in  Note  21(B)(g)  to  the  standalone 
+financial statements, the Board of Directors of the 
+Company has proposed final dividend for the year 
+which  is  subject  to  the  approval  of  the  members 
+at  the  ensuing  Annual  General  Meeting.  The 
+dividend  declared  is  in  accordance  with  Section 
+123 of the Act to the extent it applies to declaration 
+of dividend.
+The interim dividend declared and paid by the joint 
+operation company during the year is in accordance 
+with Section 123 of the Act.
+Based  on  our  examination  which  included  test 
+checks, except for the instances mentioned below, 
+the  Company  and  its  joint  operation  company 
+(including 
+its  subsidiary  company)  have  used 
+accounting  softwares  for  maintaining  its  books 
+of  account  which,  along  with  privilege  access 
+management  tool,  wherever  applicable,  have  a 
+feature  of  recording  audit  trail  (edit  log)  facility 
+and  the  same  has  operated  throughout  the  year 
+for  all  relevant  transactions  recorded 
+in  the 
+respective softwares:
+i. 
+ii. 
+In  respect  of  the  Company,  the  feature  of 
+recording audit trail (edit log) facility was not 
+enabled at the database level to log any direct 
+data  changes  for  the  accounting  software 
+used  for  maintaining  price  master,  variable 
+marketing  expenses  and  time  records  for 
+product development cost.
+In respect of the Company, in the absence of 
+coverage of audit trail (edit log) with respect 
+to database level in the independent auditor’s 
+report  in  relation  to  controls  at  the  service 
+organization for accounting software used for 
+preparation  of  financial  statements,  which 
+is  operated  by  third  party  software  service 
+provider, we are unable to comment whether 
+the  audit  trail  feature  of  the  database 
+level  of  the  said  software  was  enabled  and 
+operated throughout the year for all relevant 
+transactions recorded in the software.
+iii. 
+In  respect  of  the  joint  operation  company 
+(including  its  subsidiary  company),  for  the 
+accounting software used for maintaining:
+the 
+ledger, 
+feature  of 
+its  general 
+recording  audit  trail  (edit  log)  facility 
+was  not  enabled  from  1  April  2024  to 
+29 January 2025. Further, the audit trail 
+• 
+423

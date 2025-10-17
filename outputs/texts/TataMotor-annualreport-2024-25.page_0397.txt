@@ -1,0 +1,61 @@
+Further the Company transfers certain trade receivables under the debt factoring arrangements. These do not 
+qualify for derecognition, due to existence of the recourse arrangement. Consequently the proceeds received 
+from such transfers with a recourse arrangements are recorded as loans from banks / financial institutions and 
+classified under short-term borrowings.
+(c)   Cash flow hedges
+As at March 31, 2025, the Company have a number of financial instruments designated in a hedging relationship. 
+The  Company  and  its  subsidiaries  use  both  foreign  currency  forward  and  option  contracts,  cross  currency 
+interest  rate  swaps  and  other  currency  options  to  hedge  changes  in  future  cash  flows  as  a  result  of  foreign 
+currency and interest rate risk arising from forecasted sales and purchases and repayment of foreign currency 
+bonds. The Company and its subsidiaries have also designated some of its U.S. dollar denominated bonds as 
+hedging instruments in a cash flow hedging relationship to hedge the changes in future cash flows as a result of 
+foreign currency risk arising from future anticipated sales. 
+The Company also have a number of foreign currency options and other currency options, which are entered into 
+as an economic hedge of the financial risks of the Company. These contracts do not meet the hedge accounting 
+criteria of Ind AS 109, hence the change in fair value of these derivatives are recognised in the consolidated 
+statement of Profit and Loss. 
+Options  are  designated  on  spot  discounted  basis.  The  time  value  of  options  are  identified  as  cost  of  hedge. 
+Changes in the time value of options are recognised in Cost of Hedge reserve to the extent they relate to the 
+hedged  item.  Changes  in  the  spot  intrinsic  value  of  options  is  recognized  in  Hedge  reserve.  Changes  in  fair 
+value arising from own and counterparty credit risk in options and forward exchange contracts are considered 
+ineffective in the hedge relationship and thus the change in fair value of options and forward exchange contracts 
+attributable to changes in credit spread are recognised in the consolidated statement of profit and loss. Cross 
+currency basis spread was historically included in the hedging relationship. Any ineffectiveness arising out of 
+cross currency basis spread is recognised in the consolidated statement of profit and loss as it arises.
+Changes in fair value of foreign currency derivative and bonds, to the extent determined to be an effective hedge, 
+is recognized in other comprehensive income and the ineffective portion of the fair value change is recognized 
+in consolidated statement of Profit and Loss. The fair value gain/losses recorded in Hedge reserve and Cost of 
+Hedge reserve is recognised in the consolidated statement of profit and loss when the forecasted transactions 
+affects profit or loss. The accumulated gain/losses in hedge reserve and cost of hedge reserve are expected to 
+be recognized in consolidated statement of profit or loss during the years ending March 31, 2026 to 2027.
+It is anticipated that the hedged sales will take place over the next one to five years, at which time the amount 
+deferred in equity will be reclassified to revenue in the consolidated statement of profit or loss. 
+It is anticipated that the hedged purchases will take place over the next one to five years, at which time the 
+amount deferred in equity will be included in the carrying amount of the raw materials. On sale of the finished 
+product, the amount previously deferred in equity and subsequently recognised in inventory will be reclassified 
+to raw materials, components, and consumables in the consolidated statement of profit or loss. 
+Fair value gain/(loss) on foreign currency derivative contracts entered for cash flow 
+hedges of forecast sales recognised in hedging reserve
+Fair value gain/(loss)  on foreign currency derivative contracts entered for cash flow 
+hedges of forecast inventory purchases recognized in hedging reserve
+Fair value gain/(loss) on derivatives entered for cash flow hedges of repayment of 
+foreign currency denominated borrowings recognized in hedging reserve
+Fair value gain/(loss) on interest rate swaps entered for cash flow hedges of payment 
+of interest on borrowings benchmarked to LIBOR
+Fair value gain/(loss) recognized in other comprehensive income during the year
+Year ended       
+March 31 2025
+(₹ in crores)
+Year ended       
+March 31 2024
+5,890
+8,760
+-
+(128)
+83
+5,845
+(1)
+(61)
+-
+8,698
+393

@@ -1,0 +1,146 @@
+Sr. 
+No.
+1
+2
+3
+NIC code (Group)
+Name of product/ 
+service
+% of total turnover 
+contributed
+291
+291
+291
+Small commercial 
+vehicle
+Light medium 
+commercial vehicle
+Heavy Commercial 
+Vehicle
+10
+13
+48
+Boundary for 
+which the life 
+cycle perspective/ 
+assessment was 
+conducted
+Cradle to TML 
+gate (Excluding 
+Transportation)
+Cradle to TML 
+gate (Excluding 
+Transportation)
+Cradle to TML 
+gate (Excluding 
+Transportation)
+Whether conducted 
+by independent 
+external agency
+Results 
+communicated in 
+public domain. If Yes, 
+provide the web-link
+No
+No
+No
+No
+No
+No
+2. 
+If there are any significant social or environmental concerns and / or risks arising from production or disposal of your 
+products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly 
+describe the same along-with action taken to mitigate the same.
+Sr. 
+No.
+1
+Name of product/ 
+service
+Small commercial 
+vehicle
+Global warming potential - 
+Carbon Footprint
+Description of the risk / concern
+Action taken
+2
+3
+Light & Intermediate 
+commercial vehicle
+Global warming potential - 
+Carbon Footprint
+Heavy Commercial 
+Vehicle
+Global warming potential - 
+Carbon Footprint
+Materials/components  with  higher  carbon  footprint  contributions 
+have  been  identified.  Actions  have  been  initiated  with  engineering 
+teams and suppliers to increase material circularity and reduce carbon 
+footprint impact.
+Materials/components  with  higher  carbon  footprint  contributions 
+have  been  identified.  Actions  have  been  initiated  with  engineering 
+teams and suppliers to increase material circularity and reduce carbon 
+footprint impact.
+Materials/components  with  higher  carbon  footprint  contributions 
+have  been  identified.  Actions  have  been  initiated  with  engineering 
+teams and suppliers to increase material circularity and reduce carbon 
+footprint impact.
+3. 
+Percentage  of  recycled  or  reused  input  material  to  total  material  (by  value)  used  in  production  (for  manufacturing 
+industry) or providing services (for service industry).
+Sr. 
+No.
+1
+2
+Indicate input material
+ Steel used in BIW 
+Aluminium used in alloy wheels & engines
+*As per Supplier declarations
+FY 25 (%)
+7-8*
+30-40*
+FY 24 (%)
+6-7*
+30-40*
+4.  Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled and 
+safely disposed.
+FY 25
+FY 24
+Re-Used
+Recycled
+Safely  Disposed
+Re-Used
+Recycled
+Safely  Disposed
+Plastics (including packaging)#
+E-waste
+Hazardous waste
+Other waste
+-
+-
+-
+-
+11,204*
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+9,118**
+-
+-
+-
+-
+-
+-
+-
+* FY25 EPR target for plastic waste for TML, which has been complied. EPR credits have been procured from Producer Responsibility Organisation 
+(PRO) for pre and post- consumer packaging waste.
+** The numbers for FY24 has been restated to account for additional EPR credits procured over and above the EPR obligation.
+# Plastic used for protecting/packaging sold vehicles & packaging used in Spare Parts Business.
+203

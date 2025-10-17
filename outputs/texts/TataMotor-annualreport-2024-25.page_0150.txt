@@ -1,0 +1,54 @@
+Governance
+Prioritising cybersecurity in 
+a transforming world
+As a leading global innovator, Tata Motors recognises the critical importance of 
+robust cybersecurity. We leverage technology to safeguard information assets, 
+ensure customer privacy, and minimise human risk. Ever vigilant of evolving 
+cyber‑threats, our efforts proactively minimise information security vulnerabilities 
+while enhancing customer experiences and shareholder value.
+Our commitment to cyber resilience
+•  Documented and tested:  
+A comprehensive Business Continuity Plan and Incident Response 
+Procedure are in place, reinforced by biannual disaster recovery drills 
+ensuring effectiveness.
+• 
+ISO-certified excellence:  
+Our ISO 27001:2022 certification reflects our commitment to information 
+security. We maintain 28 Information Security Management System (ISMS) 
+policies subject to annual review and audit. Furthermore, the iProtect 
+awareness and E‑module training on Cybersecurity awareness campaign 
+empowers employees to actively participate in information security.
+•  Customer privacy first:  
+Customer privacy is paramount, governed by the strong data privacy principles, 
+and Indian Privacy Act with a detailed privacy notice outlining data handling 
+procedures, applicable to all personal data received from the European 
+Economic Area (EEA).
+•  Connected Vehicle Platform Security:  
+Tata Motors has taken significant and adequate cyber security protection 
+measures for its connected vehicle platform for all the segments.
+Cybersecurity governance
+Tata Motors prioritises strong 
+governance structures for 
+cybersecurity. Cybersecurity 
+governance includes a board member 
+overseeing the cybersecurity strategy, 
+and the executive management 
+team, including the CDIO, CISO, 
+CTO and CSO, are accountable 
+for managing cybersecurity. 
+The Technical Committee, led by the 
+Board of Directors, includes senior 
+leadership from Tata Motors and its 
+IT team to manage related issues. 
+In addition to this, Risk Management 
+Committee of Tata Motors track all 
+the recent happenings related to 
+Cybersecurity risks on an ongoing and 
+periodical basis.
+ZERO
+Incidents of IT 
+security breaches
+ZERO
+Breaches of 
+customer privacy
+146

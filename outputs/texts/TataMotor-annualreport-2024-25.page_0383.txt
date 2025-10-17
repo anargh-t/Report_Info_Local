@@ -1,0 +1,57 @@
+As at March 31, 2025, the schemes held Gilt Repos. The net value of these transactions is included in the value of 
+government bonds in the table above. The value of the funding obligation for the Repo transactions is ₹ 10,683 crores 
+as at March 31, 2025 (2024: ₹ 7,331  crores).
+JLR assigns an accounting level (1, 2 or 3) to asset holdings in order to reflect the level of judgement involved in the 
+valuation of an asset. In assigning the level JLR balances consistency between asset holdings, consistency from year 
+to year and manager/other assessments. JLR designates level 1 to direct holdings of liquid assets where an active 
+market exists.
+Custodian accounts where underlying assets are regularly traded or where comparable assets have traded values 
+are designated level 2, for example derivatives (including net value of swaps) and some property holdings. Assets 
+which are not designated as level 1 or 2 are designated as level 3. Level 1 assets are reported as quoted, level 2 and 3 
+unquoted. Repo obligations are noted separately.
+Private  Equity  holdings  have  been  measured  using  the  most  recent  valuations,  adjusted  for  cash  and  currency 
+movements between the last valuation date and March 31, 2025. Given the movements in listed equity markets, the 
+valuation of Private Equity holdings may vary significantly. The value of the Private Equity holdings in the JLR UK Plans 
+included above is ₹ 13,284 crores as at March 31, 2025  (2024:  ₹ 7,184 crores).
+The sensitivity analysis below is based on a change in an assumption while holding all other assumptions constant. In 
+practice, this is unlikely to occur, and changes in some of the assumptions may be correlated. When calculating the 
+sensitivity of the defined benefit obligation to significant actuarial assumptions the same methods (present value of 
+the defined benefit obligation calculated with the projected unit credit method at the end of the reporting period) has 
+been applied as when calculating the pension liability recognised within the consolidated balance sheet.
+The  methods  and  types  of  assumptions  used  in  preparing  the  sensitivity  analysis  did  not  change  compared  to 
+previous periods.
+Assumption
+Change in assumption
+Impact on scheme liabilities
+Impact on service cost
+Discount rate
+ Increase/Decrease by 0.25% 
+ Decrease/ Increase by ₹ 1,621 crores 
+ Decrease/ Increase by ₹ 22 crores 
+Inflation rate
+ Increase/Decrease by 0.25% 
+ Increase/Decrease by ₹ 928 crores 
+ Increase/Decrease by ₹ 11 crores 
+Mortality rate
+ Increase/Decrease by 1 year 
+ Increase/Decrease by ₹ 1,509 crores 
+ Increase/Decrease by ₹ 11 crores 
+In June 2023, the High Court handed down a decision in the case of Virgin Media Limited v NTL Pension Trustees II 
+Limited and others relating to the validity of certain historical pension changes due to the lack of actuarial confirmation 
+required by law. In July 2024, the Court of Appeal dismissed the appeal brought by Virgin Media Ltd against aspects of 
+the June 2023 decision. The conclusions reached by the court in this case may have implications for other UK defined 
+benefit plans including JLR schemes. The Company and pension trustees are currently considering the implications of 
+the case for the JLR UK defined benefit schemes. The defined benefit obligation has been calculated on the basis of 
+the pension benefits currently being administered, and at this stage the directors do not consider it necessary to make 
+any adjustments as a result of the Virgin Media case, however as further information emerges over the coming year 
+JLR will review whether and to what extent there are changes in its liabilities
+JLR has taken legal advice considering the documentation of the UK schemes and the regulatory environment. This 
+confirmed the recoverability of any surplus in the scheme via reduced future contributions or settlement and JLR has 
+based its accounting judgement on this advice.
+The average duration of the benefit obligation at March 31, 2025 is 12.8 years (2024: 14.2 years).
+The expected net periodic pension cost for the year ended March 31, 2026 is expected to be ₹ 476 crores. JLR expects 
+to pay ₹ 399 crores to its defined benefit schemes, in total, for the year ended March 31, 2026.
+Defined contribution plan
+The Company’s contribution to defined contribution plans aggregated ₹ 1,919 crores and ₹ 1,708  crores for years 
+ended March 31, 2025 and 2024, respectively.
+379

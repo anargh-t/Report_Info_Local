@@ -1,0 +1,52 @@
+Contractor Safety Program
+Contractor safety is structured through corporate oversight. Business partners are categorized by risk, assessed via a 
+Star Rating System and engaged through 169 self-managed teams.
+Key focus areas for FY25
+Focus on safe equipment maintenance, vehicle operations, utilities, housekeeping, and facility installations.
+• 
+Digital & AI Initiatives
+AI-driven  analytics  and  PPE  monitoring  are  being  deployed,  focusing  on  connected  workforce,  assets,  video 
+analytics, and skill development. Thirteen pilots are complete; full PPE monitoring is targeted by FY26.
+• 
+People and Recognition
+Continuous learning (E-modules), multi-level recognition (Spot Awards, Safety Stewards), and quarterly rewards 
+for contractors drive safety engagement. 244 trainers have been developed under the Train-the-Trainer initiative.
+• 
+Compliance and Continuous Improvement
+Rigorous audits and proactive safety measures ensure compliance and accountability. Tata Motors is committed 
+to a zero-harm future through continuous innovation and data-driven safety strategies.
+b)  What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis 
+by the entity?
+Tata Motors uses a structured, proactive risk assessment approach to identify and mitigate hazards across routine 
+and non-routine activities. Through continuous monitoring, advanced analytics, and worker engagement, risks are 
+prioritized based on likelihood and severity, ensuring effective control measures.
+A.  Routine Hazard Identification & Risk Assessment
+• 
+Hazard Identification & Risk Assessment (HIRA):
+Conducted bi-annually to assign a Risk Priority Number (RPN) based on severity, likelihood, and exposure, 
+applying the Hierarchy of Controls (elimination prioritized). All assessments are digitally recorded for real-
+time tracking and trend analysis.
+• 
+Continuous Safety Monitoring & Audits:
+Safety  observations,  walkthroughs,  and  layered  audits  (factory,  department,  corporate)  ensure  control 
+adherence. Performance is measured via the Proactive Safety Index (PSI), combining proactive and incident-
+based metrics.
+•  Worker Involvement:
+Toolbox Talks and “TAKE 2” sessions engage workers in hazard assessment before tasks. Behavior-Based 
+Safety (BBS) observations promote safe practices.
+B.  Non-Routine Hazard Identification & Risk Assessment
+• 
+Job Safety Analysis (JSA):
+Conducted before non-routine or high-risk tasks, providing step-by-step hazard controls.
+• 
+Permit-to-Work (PTW) System:
+Mandatory  for  high-risk  activities  like  hot  work,  confined  space  entry,  electrical  maintenance,  work  at 
+heights, excavation, and lifting, ensuring authorization and training compliance.
+• 
+Access Control & Work Area Safety:
+Barricading and Lockout/Tag-out (LOTO) systems prevent unauthorized access and control hazardous energy.
+• 
+Advanced Risk Assessments:
+Specialized assessments like HAZOP (process safety), QRA (risk quantification), and FMEA (failure prevention) 
+are deployed for high-risk or complex operations.
+208

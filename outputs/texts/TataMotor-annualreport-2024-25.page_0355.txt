@@ -1,0 +1,102 @@
+(d)  The movement of Hedging reserve is as follows:
+Balance at the beginning
+Disposal due to merger of Tata Motors Finance Ltd with Tata Capital Ltd (refer note 51)
+Gain/ (Loss) recognised on cash flow hedges
+Income tax relating to loss recognized on cash flow hedges
+Cash flow hedges reclassified to profit or loss
+Income tax relating to gain reclassified to profit or loss
+Amounts reclassified from hedge reserve to inventory
+Income tax related to amounts reclassified from hedge reserve to inventory
+Balance at the end
+Of the above balance related to :
+Continued Hedges
+Discontinued Hedges
+(e)  The movement of Cost of hedging reserve is as follows:
+Balance at the beginning
+Disposal due to merger of Tata Motors Finance Ltd with Tata Capital Ltd (refer note 51)
+Gain/(Loss) recognised on cash flow hedges
+Income tax relating to loss recognized on cash flow hedges
+Cash flow hedges reclassified to profit or loss
+Income tax relating to gain reclassified to profit or loss
+Amounts removed from hedge reserve and recognised in inventory
+Balance at the end
+Of the above balance related to :
+Continued Hedges
+Discontinued Hedges
+(f)  Summary of Other components of equity:
+Currency translation reserve
+Equity instruments through FVTOCI
+Debt instruments through FVTOCI
+Hedging reserve
+Cost of hedging reserve
+Total
+351
+(₹ in crores)
+Year ended
+March 31, 2025
+Year ended
+March 31, 2024
+1,054
+(16)
+5,596
+(1,411)
+(1,895)
+473
+302
+(75)
+4,028
+4,039
+(11)
+(6,556)
+-
+7,832
+(702)
+632
+(163)
+21
+(10)
+1,054
+1,033
+21
+(₹ in crores)
+Year ended
+March 31, 2025
+Year ended
+March 31, 2024
+(34)
+(15)
+249
+(60)
+(145)
+33
+22
+50
+50
+-
+(1,005)
+-
+865
+(20)
+152
+(36)
+10
+(34)
+(34)
+-
+(₹ in crores)
+Year ended
+March 31, 2025
+Year ended
+March 31, 2024
+13,651
+908
+-
+4,028
+50
+18,637
+10,042
+950
+392
+1,054
+(34)
+12,404

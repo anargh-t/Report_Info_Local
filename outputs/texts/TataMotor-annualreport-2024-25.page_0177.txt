@@ -1,0 +1,201 @@
+P  Golden  Peacock  Eco-Innovation  Award 
+Major technology imports include-
+P 
+P 
+P 
+P 
+P 
+P 
+P 
+(GPEIA) for innovation in Tata Ace EV.
+Prestigious Apollo Commercial Vehicle Awards 
+2024 across multiple categories 
+The  Company  was  honored  with  SAE  India 
+Foundation  Awards 
+in  the  category  of 
+“Corporate Association.”
+in  multiple  categories 
+CII  Awards 
+Digitalization, 
+Sustainable material solutions etc.
+like 
+Robotics  Automation  & 
+The  Jury  Mention  Award  for  “Prima-  Safe 
+and  Smart  Truck”  at  the  6th  Edition  of  FICCI 
+Road  Safety  Awards  and  Conclave  2024  in 
+“Road  Safety  Initiatives  /  Interventions  by 
+Automobile Companies” category
+The  Company  won  four  awards  at  the 
+Intrapreneurship 
+(Vanguard 
+Awards).
+Conclave 
+The  Company  participated  at  the  INSAAN 
+National  Convention  and  bagged  multiple 
+awards across various categories.
+The Company was declared Winner of ‘Asia IP 
+Elite 2024’ at IP Business Congress (IPBC) Asia 
+@ Tokyo.
+(iii)   Major technology absorption projects 
+undertaken during the last year includes:
+Sr. No. Technology
+In-House  Development 
+Multi 
+Speed 
+Control Unit
+of 
+Transmission 
+Status
+Technology 
+Absorbed
+In-House  Development 
+Torque Vectoring Technology
+of 
+In the process 
+of Absorption
+In-house 
+Controller 
+platforms
+EV 
+Powertrain 
+for  all  CV  EV 
+In the process 
+of Absorption
+HIL  testing  lab  for  all  Battery 
+Management 
+till 
+systems 
+1000V with cell emulation
+Technology 
+Absorbed 
+Development  of  in-house  HV 
+architecture simulation model 
+In the process 
+of Absorption
+Alternate material for DPF 
+Dynamic  Spark  advance  for 
+gasoline engines
+Extension  of  VGT 
+(variable 
+geometry  turbo)  technology 
+for CNG engines & other heavy 
+duty Diesel engines
+In the process 
+of Absorption
+Technology 
+Absorbed
+Technology 
+Absorbed
+1
+2
+3
+4
+5
+6
+7
+8
+173
+Sr. 
+No.
+1
+2
+3
+4
+5
+6
+7
+Technology For
+Wireless  Technologies 
+for Electrification
+Integrated 
+Electronics controller
+Power 
+Advanced 
+energy 
+storage systems – UOT*
+Year of 
+Import
+FY23
+FY23
+FY23
+Test 
+Hydrogen IC engines
+facility 
+for 
+FY24
+Development  of  Axle 
+system 
+for  Double 
+decker Bus
+Development  of  Co-
+axial 
+eAxle 
+based 
+system
+Integrated 
+Digitally 
+Dynamic  Performance 
+Validation 
+EV 
+Powertrain.
+for 
+FY24
+FY25
+FY25
+Status
+Technology 
+Absorbed
+Technology 
+Absorbed
+Technology 
+Not 
+Absorbed
+Technology 
+Absorbed
+Technology 
+Absorbed
+Technology 
+Absorbed
+Technology 
+Absorbed
+ * Areas where Technology not fully absorbed and the reasons 
+thereof: The Advanced energy storage systems – UOT project 
+had been discontinued, as the expected deliverables outlined 
+in the agreement had not been met.
+(iv)   The expenditure incurred on Research and 
+Development: 
+The  Company  spent  ₹2,089  crore  (including 
+₹1,056 
+for  
+Research & Development work during FY25, which 
+was approximately 3.01% of the total turnover.
+crore  on  Capital  Expenditure) 
+ Specific areas in which R & D was carried 
+out by the Company
+• 
+trucks 
+The Company is focused on developing high-
+performance,  energy-efficient 
+for 
+the  market,  alongside  advancing  ILMCV  and 
+HCV  trucks  built  on  the  BEV  platform  with 
+various voltage architectures. In parallel, the 
+Company has been working on vehicle control 
+strategies designed  to  optimize EV  efficiency 
+by leveraging multiple efficiency levers. 
+• 
+important  role 
+As  a  responsible  Automaker,  the  Company 
+has  been  playing  an 
+in 
+democratizing  road  safety,  categorized  into 
+Active  (Accident  Prevention)  and  Passive 
+Safety 
+Injuries).  Globally 
+Advanced  Driver  Assistance  Systems  (ADAS) 
+identified  as  an 
+has  been 
+instrumental 
+in  preventing  road  accidents. 
+technology 
+(Mitigation  of

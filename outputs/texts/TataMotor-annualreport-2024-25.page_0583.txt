@@ -1,0 +1,157 @@
+Surface water
+Third-party water
+Total
+Water Withdrawal from areas with Water Stress
+Category
+Freshwater (≤1,000 mg/L TDS)
+Other water (>1,000 mg/L TDS)
+Freshwater (≤1,000 mg/L TDS)
+Other water (>1,000 mg/L TDS)
+Category
+Water Discharge
+Water discharge by destination
+Surface water
+Water  discharge  by  freshwater  and  other 
+water
+Freshwater (≤1,000 mg/L TDS)
+Other water (>1,000 mg/L TDS)
+Water Discharge from areas with Water Stress
+Category
+Water discharge by destination
+Surface water
+Water  discharge  by  freshwater  and  other 
+water
+Freshwater (≤1,000 mg/L TDS)
+Other water (>1,000 mg/L TDS)
+Unit
+Kiloliters
+Kiloliters
+Kiloliters
+Kiloliters
+Kiloliters
+Unit
+Kiloliters
+Kiloliters
+Kiloliters
+Unit
+Kiloliters
+Kiloliters
+Kiloliters
+FY25
+64,514
+0
+8,41,357
+0
+9,05,871
+FY25
+1,85,565
+1,85,565
+0
+FY25
+1,85,565
+1,85,565
+0
+FY24
+68,344
+0
+10,12,610
+0
+10,80,954
+FY24
+1,04,126
+1,04,126
+0
+FY24
+1,04,126
+1,04,126
+0
+Total water consumption
+(withdrawal -discharge)
+Water Consumption
+Category
+Unit
+Kiloliters
+FY25
+FY24
+44,92,008
+49,30,353
+Total water consumption
+(withdrawal -discharge)
+Water Consumption from areas with Water Stress
+Category
+Unit
+Kiloliters
+FY25
+FY24
+7,20,306
+9,76,828
+Direct (Scope 1) and Energy indirect (Scope 2) Emissions
+Category
+Direct Scope 1 emissions*
+Total Scope 2 emissions
+Market Based#
+Location Based
+Unit
+tCO2e
+ tCO2
+ tCO2
+FY25
+70,746
+2,14,289
+3,59,588
+FY24
+71,341**
+2,38,018##
+3,37,361
+*Comprises of Co2, CH4, N20, HFCs gases. The emission factors for calculation of Scope 1 emissions are based on 2024 UK Government GHG Conversion 
+Factors for Company Reporting Version 1.1 from DEFRA.
+**The numbers for FY 24 have been restated due to enhanced coverage of fuel consumption points and extended coverage of fugitive emissions from 
+refrigerants.
+#Scope 2 GHG emissions based on market-based approach are after adjustments for International Renewable Energy Certificates(iRECs) purchased. For grid 
+electricity the latest applicable CEA published grid emission factor has been used.
+## The numbers for FY 24 have been restated due to reclassification of green attribute ownership for renewable electricity.
+Category
+Total Scope 3 emissions
+Total
+Other indirect (Scope 3) GHG Emissions (for limited categories)
+Category 1 : Purchased goods and services
+Category 3 : Fuel- and energy-related activities
+Category 5 : Waste generated in operations
+Category 6 : Business travel
+Category 7 : Employee commuting
+Category 8 : Upstream leased assets
+Category 11 : Use of sold products
+Category 14 : Franchises
+Unit
+tCO2e
+ tCO2
+tCO2e
+ tCO2
+tCO2e
+ tCO2
+tCO2
+ tCO2
+ tCO2
+FY25
+94,07,066
+68,323
+9,145
+9,720
+14,511
+2,376
+15,26,00,209
+1,90,808
+16,23,02,158
+FY24
+1,07,03,700*
+75,115
+7,683
+10,458
+13,899
+2,359
+17,22,69,033
+1,96,339
+18,32,78,586
+*Category 1 numbers for FY24 have been restated due to change in methodology to apply the latest available emission factor database and adjustment of 
+spent on products and services for PPP and inflation.
+579

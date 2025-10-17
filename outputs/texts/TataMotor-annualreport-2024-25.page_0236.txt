@@ -1,0 +1,108 @@
+2. 
+Please provide details of total Scope 3 emissions and its intensity:
+Parameter
+Category 1 : Purchased goods and services1
+Category 3 : Fuel- and energy-related activities
+Category 5 : Waste generated in operations
+Category 6 : Business travel
+Category 7 : Employee commuting2
+Category 8 : Upstream leased assets3
+Category 11 : Use of sold products
+Category 14 : Franchises4
+Total Scope 3 emissions
+Total Scope 3 emissions per rupee of turnover
+Indicate  if  any  independent  assessment/  evaluation/assurance  has 
+been  carried  out  by  an  external  agency?  If  yes,  name  of  the  external 
+agency.
+Unit
+tCO2e 
+tCO2
+tCO2e
+tCO2
+tCO2e
+tCO2
+tCO2
+tCO2
+tCO2
+tCO2/₹
+FY 25
+52,28,249
+40,853
+5,201
+6,755
+8,777 
+ 1,074 
+ 13,95,71,557 
+ 82,335 
+14,49,44,801
+0.00021
+FY 24
+61,09,148*
+50,134
+4,669
+7,006
+8,950
+1,490
+15,86,21,101
+82,854
+16,48,85,353*
+0.00023
+Yes, KPMG Assurance and Consulting Services LLP has 
+provided limited assurance on data reported under this 
+indicator.
+1 Spend based method
+2 This includes coverage of only the employee commute though company buses contracted by third parties at each plant location.
+3 The leased assets are shared offices by TML CV business, TMPV and TPEM. The utility expenses are shared between the entities.
+4 The calculation methodology involves data collected on Scope 1 and Scope 2 data from 342 dealer partners and extrapolation of the average 
+emissions for each outlet category across total Commercial vehicle network.
+* Category 1 numbers for FY24 have been restated due to change in methodology to apply the latest available emission factor database and 
+adjustment of spent on products and services for PPP and inflation.
+3.  With  respect  to  the  ecologically  sensitive  areas  reported  at  Question  10  of  Essential  Indicators  above,  provide 
+details of significant direct and indirect impact of the entity on biodiversity in such areas along-with prevention and 
+remediation activities.
+Not Applicable
+4. 
+If  the  entity  has  undertaken  any  specific  initiatives  or  used  innovative  technology  or  solutions  to  improve  resource 
+efficiency, or reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same 
+as well as outcome of such initiatives:
+Initiative undertaken
+Details of the initiative (Web-link, if any, may be provided along-
+with summary)
+Outcome of the initiative
+Biodegradable Waste Management
+Installation  of  automated  organic  waste  composter  at 
+Jamshedpur plant to convert food waste to compost. 
+The generated bio-compost is being 
+used for green belt development.
+Foundry Waste Sand Management
+Recycling of Used Sand for manufacturing of cores in Maval 
+Plant.
+Reduction 
+Consumption.
+in 
+Virgin 
+Sand 
+Tertiary Treatment of Wastewater 
+at Pune and Jamshedpur Township
+At the Pune-Pimpri Plant, wastewater generated from the 
+process, along with treated sewage from PCMC, is treated 
+together  using  membrane-based  technology  for  tertiary 
+treatment.  The  treated  wastewater  from  this  process  is 
+then  utilized  to  meet  both  the  plant’s  total  process  and 
+non-potable water requirements.
+At  the 
+Jamshedpur  Plant,  the  township’s  sewage, 
+amounting to approximately 1.6 MLD, is treated by a newly 
+constructed  decentralized  STP  employing  Sequencing 
+Batch Reactors (SBR) technology, followed by membrane-
+based tertiary treatment.
+At  both  the  Pune  and  Jamshedpur 
+plants,  approximately  1  MLD  of 
+freshwater  at  each  facility  will  be 
+sewage. 
+replaced  with 
+This  initiative  will  help  both  plants 
+progress  toward  achieving  water 
+neutrality.
+treated 
+232

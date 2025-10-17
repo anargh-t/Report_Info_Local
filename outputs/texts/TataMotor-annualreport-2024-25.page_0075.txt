@@ -1,0 +1,135 @@
+5
+Supply chain disruptions and commodity price fluctuations
+Supply chain disruptions, if not managed, 
+could have an adverse effect on production 
+volume, revenue and profitability, customer 
+satisfaction and reputation. Continued supply 
+constraints have impacted many industries, 
+including automotive. Higher inflation 
+caused by the scarcity and rising cost of raw 
+materials, commodities, energy and transport 
+is impacting the production of goods.
+Our ability to supply components, in 
+time, to our manufacturing operations 
+is of paramount importance in achieving 
+production schedules and meeting consumer 
+demand. Commodity price fluctuations, 
+being a major part of overall costs, might 
+impact the cost competitiveness and overall 
+profitability. Lastly, the volatile nature of 
+the regulatory landscape (Tariffs) could 
+also result in significant direct and indirect 
+impacts to suppliers and disruption to 
+logistics that increase production costs and 
+lead times.
+F
+M S
+The industrialisation of JLR’s risk management 
+framework has improved its time to recover 
+from events impacting its global value chains 
+as well as communication. JLR continues 
+to actively engage its internal teams and 
+suppliers to mitigate potential disruption 
+through our Secure26, and Kass programmes 
+(Tier 1+ Financial Risk detection). We are 
+diversifying sourcing, driving localisation of 
+critical components, closely collaborating 
+with suppliers and building a buffer stock, 
+exercising financial instruments such as futures 
+or options contracts for hedging against price 
+increases and negotiating long‑term contracts, 
+wherever necessary. Material cost reduction 
+through Value Analysis and Value Engineering 
+(VAVE) is also part of our strategy. We are also 
+working on localisation of routine components 
+to minimise the risk.
+6
+IT systems, security and data management
+We are exposed to IT risks since IT plays an 
+important role in our operations, including 
+the manufacturing, design of engineering 
+processes. With our vehicles becoming 
+increasingly technologically advanced and 
+connected to the internet, they may become 
+more susceptible to unauthorised access. The 
+ever‑growing threat from cybercrime and the 
+spread of aggressive malicious code brings 
+risks that can affect the availability, integrity 
+and confidentiality of information and 
+IT‑supported operating resources We are also 
+subject to risks related to legacy IT systems 
+and system migration projects. As data 
+and digitisation continue to advance within 
+our products and services, protecting our 
+information assets and maintaining secure 
+information services are critical enterprise 
+enablers for the benefit of our customers and 
+company’s resilience. 
+H M
+F
+S
+Capitals impacted
+As data and digitisation continue to advance 
+within organisation and our products and 
+services, protecting our information assets 
+and maintaining secure information services 
+are critical enterprise enablers for the benefit 
+of our customers and resilience. Failure 
+to implement effective data management 
+practices leaves the Company exposed to 
+the risk of regulatory fines and reputational 
+harm. Our ability to meet customer needs, 
+expectations and address future challenges 
+will be hindered, potentially leading to 
+decreased investment, loss of market share 
+and reduced business performance. The risk 
+impacts can be categorised into four main 
+areas at a macro level: 
+Strategic risk: Loss/theft of IP leading to long‑
+term value loss. 
+Operational risk: A severe ransomware 
+attack could result in business disruption and 
+loss of revenue. 
+Financial risk: Breach of compliance could 
+lead to major fines and operational sanctions 
+being imposed. 
+Reputational risk: Negative media publicity 
+resulting in loss of customers and long‑term 
+customer trust impact.
+Information risk and cyber security are 
+managed strategically. Through a cohesive 
+programme of initiatives, we mitigate 
+significant business risks while positively 
+influencing business and brand value, growth, 
+stability, and overall success. We continue 
+to drive measurable improvements in cyber 
+defence and other core security capabilities 
+(e.g., security ecosystem, supply chain 
+security, risk governance and cultural 
+change). We are committed to safeguarding 
+our data assets through specialist data 
+governance capabilities, ensuring all our data 
+assets are owned, controlled and accessible 
+across the Company, and our employees 
+have the skills, tools, and support to enact. 
+Promoting Data Management through 
+an appropriate Data policy, standards 
+and controls demonstrate company’s 
+dedication to sustainable growth so we 
+are ready for the future. With appropriate 
+awareness we can maximise our ability to 
+exploit new technologies and use AI safely 
+and responsibly.
+F
+Financial capital
+M
+Manufactured capital
+I
+Intellectual capital
+N
+Natural capital
+H
+Human capital
+S
+Social and relationship capital
+71

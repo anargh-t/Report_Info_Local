@@ -1,0 +1,60 @@
+Reconciliation of outstanding  PSUs
+Option outstanding at the beginning of the year
+Granted during the year
+Forfeited/Expired during the year
+Exercised during the year
+Option outstanding at the end of the year
+Remaining contractual life
+Year ended 
+ March 31, 2025 
+ No of options 
+-
+299,918
+(8,953)
+-
+290,965
+ 28 months 
+The Company has estimated fair value of options using Black Scholes model. The following assumptions were used for 
+calculation of fair value of options granted.
+Assumption factor
+Risk free rate
+Expected life of option
+Expected volatility
+Share price
+Year ended 
+ March 31, 2025 
+7.2%
+ 4 Years 
+37.9%
+1,143 
+Expected volatility during the expected term of the options is based on historical volatility of the observed market 
+prices of the Company’s publicly-traded equity shares during a period equivalent to the expected term of the options.
+(B)  Employee benefits
+(a)   Accounting policy
+(i)   Gratuity
+Tata Motors Limited and its Joint operation have an obligation towards gratuity, a defined benefit retirement 
+plan  covering  eligible  employees.  The  plan  provides  for  a  lump-sum  payment  to  vested  employees  at 
+retirement, death while in employment or on termination of employment of an amount equivalent to 15 to 
+30 days salary payable for each completed year of service. Vesting occurs upon completion of five years of 
+service. Tata Motors Limited makes annual contributions to gratuity funds established as trusts. Tata Motors 
+Limited account for the liability for gratuity benefits payable in the future based on an actuarial valuation.
+(ii)   Bhavishya kalyan yojana (BKY) 
+Bhavishya Kalyan Yojana is an unfunded defined benefit plan for employees of Tata Motors Limited. The 
+benefits of the plan include pension in certain cases, payable up to the date of normal superannuation had 
+the employee been in service, to an eligible employee at the time of death or permanent disablement, while 
+in service, either as a result of an injury or as certified by the appropriate authority. The monthly payment 
+to dependents of the deceased/disabled employee under the plan equals 50% of the salary drawn at the 
+time of death or accident or a specified amount, whichever is greater. Tata Motors Limited account for the 
+liability for BKY benefits payable in the future based on an actuarial valuation.
+(iii)   Provident fund and family pension
+In accordance with Indian law, eligible employees of Tata Motors Limited and joint operations are entitled 
+to  receive  benefits  in  respect  of  provident  fund,  a  defined  contribution  plan,  in  which  both  employees 
+and the Company make monthly contributions at a specified percentage of the covered employees’ salary 
+(currently  12%  of  employees’  salary).  The  contributions,  as  specified  under  the  law,  were  made  to  the 
+provident fund and pension fund set up as an irrevocable trust or to respective Regional Provident Fund 
+Commissioner and the Central Provident Fund under the State Pension scheme. The interest rate, payable 
+to the members of the trust, was not to be lower than the statutory rate of interest declared by the Central 
+Government under the Employees Provident Funds and Miscellaneous Provisions Act, 1952 and shortfall, 
+if any, was made good by the Company. The embedded interest rate guarantee is considered to be defined 
+benefit for the joint  operation as Provident Fund is managed by trust.
+472

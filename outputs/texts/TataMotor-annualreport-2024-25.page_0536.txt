@@ -1,0 +1,64 @@
+Type of shareholders
+ Login Method
+Individual 
+Shareholders 
+holding securities in demat 
+mode with CDSL
+Shareholders 
+Individual 
+(holding 
+in 
+demat mode) login through 
+their DPs
+securities 
+1.  Users  who  have  opted  for  CDSL  Easi  /  Easiest  facility,  can  login  through 
+their existing user id and password. Option will be made available to reach 
+e-Voting page without any further authentication. The users to login Easi /
+Easiest are requested to visit CDSL website www.cdslindia.com and click on 
+login icon & New System Myeasi Tab and then user your existing my easi 
+username & password.
+2.  After successful login the Easi / Easiest user will be able to see the e-Voting 
+option for eligible companies where the evoting is in progress as per the 
+information provided by company. On clicking the evoting option, the user 
+will be able to see e-Voting page of the e-Voting service provider for casting 
+your  vote  during  the  remote  e-Voting  period  or  joining  virtual  meeting 
+&  voting  during  the  meeting.  Additionally,  there  is  also  links  provided  to 
+access the system of all e-Voting Service Providers, so that the user can visit 
+the e-Voting service providers’ website directly.
+3. 
+If the user is not registered for Easi/Easiest, option to register is available at 
+CDSL website www.cdslindia.com and click on login & New System Myeasi 
+Tab and then click on registration option.
+4.  Alternatively, the user can directly access e-Voting page by providing Demat 
+Account  Number  and  PAN  No.  from  a  e-Voting  link  available  on  www.
+cdslindia.com home page. The system will authenticate the user by sending 
+OTP on registered Mobile & Email as recorded in the Demat Account. After 
+successful  authentication,  user  will  be  able  to  see  the  e-Voting  option 
+where the evoting is in progress and also able to directly access the system 
+of all e-Voting Service Providers.
+You  can  also  login  using  the  login  credentials  of  your  demat  account  through 
+your  Depository  Participant  registered  with  NSDL/CDSL  for  e-Voting  facility. 
+upon  logging  in,  you  will  be  able  to  see  e-Voting  option.  Click  on  e-Voting 
+option,  you  will  be  redirected  to  NSDL/CDSL  Depository  site  after  successful 
+authentication, wherein you can see e-Voting feature. Click on company name or 
+e-Voting service provider i.e. NSDL and you will be redirected to e-Voting website 
+of NSDL for casting your vote during the remote e-Voting period or joining virtual 
+meeting & voting during the meeting.
+Important note: Members who are unable to retrieve User ID/ Password are advised to use Forget User ID and 
+Forget Password option available at abovementioned website.
+Helpdesk  for  Individual  Shareholders  holding  securities  in  demat  mode  for  any  technical  issues  related  to 
+login through Depository i.e. NSDL and CDSL.
+Login type
+Helpdesk details
+Individual  Shareholders  holding  securities  in  demat 
+mode with NSDL
+Individual  Shareholders  holding  securities  in  demat 
+mode with CDSL
+Members  facing  any  technical  issue  in  login  can 
+contact  NSDL  helpdesk  by  sending  a  request  at 
+evoting@nsdl.com or call at 022 - 4886 7000
+Members  facing  any  technical  issue  in  login  can 
+contact  CDSL  helpdesk  by  sending  a  request  at 
+helpdesk.evoting@cdslindia.com  or  contact  at  toll 
+free no. 1800-21-09911
+532

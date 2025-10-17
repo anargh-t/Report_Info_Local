@@ -1,0 +1,44 @@
+25  Notes to reserves and surplus
+(a)  Securities premium
+The amount received in excess of face value of the equity shares is recognised in Securities premium.
+(b)  Retained earnings
+Retained earnings are the profits that the Company has earned till date, add/(less) any transfers from/(to) general 
+reserve, securities premium and debenture redemption reserve, dividends or other distributions paid to shareholders. 
+Retained earnings includes re-measurement gain/(loss) on defined benefit obligations, net of taxes that will not be 
+reclassified to Profit and Loss.
+(c)  Capital redemption reserve
+The Indian Companies Act, 2013 (the “Companies Act”) requires that where a company purchases its own shares out 
+of free reserves or securities premium account, a sum equal to the nominal value of the shares so purchased shall 
+be transferred to a capital redemption reserve account and details of such transfer shall be disclosed in the Balance 
+Sheet. The capital redemption reserve account may be applied by the Company, in paying up unissued shares of the 
+Company to be issued to shareholders of the Company as fully paid bonus shares. Tata Motors Limited established this 
+reserve pursuant to the redemption of preference shares issued in earlier years.
+(d)  Debenture redemption reserve (DRR)
+The Companies Act requires that where a company issues debentures, it shall create a debenture redemption reserve 
+out of profits of the Company available for payment of dividend. The company is required to maintain a Debenture 
+Redemption Reserve of 25% of the value of debentures issued, either by a public issue or on a private placement basis. 
+The amounts credited to the debenture redemption reserve may not be utilised by the Company except to redeem 
+debentures.  Transfers  represent  DRR  on  debentures  issued  before  August  16,  2019  and  pertaining  to  debentures 
+repaid  during  the  years  ended  March  31,  2025  and  2024.  No  DRR  is  required  for  debentures  issued  after  August 
+16, 2019.
+(e)  Reserve for research and human resource development
+In  terms  of  Article  9  of  the  Act  on  Special  Taxation  Restriction  in  Korea,  Tata  Daewoo  Mobility  Company  Limited 
+(formerly known as Tata Daewoo Commercial Vehicle Company Limited) (“TDM”) is entitled for deferment of tax in 
+respect of expenditures incurred on product development cost subject to fulfilment of certain conditions, by way of 
+deduction from the taxable income, provided that TDM appropriates an equivalent amount from “Retained Earnings” 
+to “Reserve for Research and Human Resource Development”.
+The deferment is for a period of three years and from the fourth year onwards one-third of the reserve is offered to 
+tax and an equal amount is then transferred from the reserve to “Retained earnings available for appropriation”.
+(f)  Special reserve
+The special reserve represents the reserve created by subsidiary of Tata Motors Limited pursuant to the Reserve Bank 
+of India Act, 1934 (the “RBI Act”) and related regulations applicable to those companies. Under the RBI Act, a non-
+banking finance company is required to transfer an amount not less than 20% of its net profit to a reserve fund before 
+declaring any dividend. Appropriation from this reserve fund is permitted only for the purposes specified by the RBI.
+(g)  Earned surplus reserve
+Under the Korean commercial code, TDM is required to appropriate at least 10% of cash dividend declared each year 
+to a legal reserve until such reserves equal to 50% of capital stock. This reserve may not be utilized for cash dividends, 
+but may only be used to offset against future deficits, if any, or may be transferred to capital stock.
+(h)  Hedge Reserve
+Effective portion of fair value gain/(loss) on all financial instruments designated in cash flow hedge relationship are 
+accumulated in hedge reserve.
+352

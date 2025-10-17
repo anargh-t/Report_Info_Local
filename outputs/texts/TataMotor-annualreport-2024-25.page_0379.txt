@@ -1,0 +1,67 @@
+The assumptions used in accounting for the Severance indemnity plan is set out below:
+Discount rate
+Rate of increase in compensation level of covered employees
+As at 
+March 31, 2025
+As at
+March 31, 2024
+2.7%
+3.2%
+3.4%
+3.0%
+The table below outlines the effect on the service cost, the interest cost and the defined benefit obligation in the 
+event of a decrease/increase of 1% in the assumed rate of discount rate, salary escalation rate:
+Assumption
+Discount rate
+Salary escalation rate
+Change in assumption
+Impact on scheme liabilities
+Impact on service cost and  
+interest cost
+ Increase by 1% 
+ Decrease by 1% 
+ Increase by 1% 
+ Decrease by 1% 
+ Decrease by ₹ 41 crores 
+ Decrease by ₹ 11 crores 
+ Increase by ₹ 46 crores 
+ Increase by ₹ 12 crores 
+ Increase by ₹ 46 crores 
+ Increase by ₹ 13 crores 
+ Decrease by ₹ 41 crores 
+ Decrease by ₹ 11 crores 
+Severance indemnity plans asset allocation by category is as follows:
+Deposit with banks
+As at
+March 31, 2025
+As at
+March 31, 2024
+100%
+100%
+The weighted average duration of the defined benefit obligation as at March 31, 2025 is 9.2 years (2024 : 10 years)
+The Company expects to contribute ₹ 11 crores to the funded severance indemnity plans in the year ending March 
+31, 2026.
+Jaguar Land Rover Pension plan
+Jaguar Land Rover Ltd  UK, have pension arrangements providing employees with defined benefits related to pay and 
+service as set out in the rules of each fund.
+The UK defined benefit schemes are administered by a separate fund that is legally separated from the Company. 
+The  trustees  of  the  pension  schemes  are  required  by  law  to  act  in  the  interest  of  the  fund  and  of  all  relevant 
+stakeholders in the scheme, is responsible for the investment policy with regard to the assets of the schemes and 
+all other governance matters. The board of trustees must be composed of representatives of the Company and plan 
+participants in accordance with the plan’s regulations.
+Through its defined benefit pension plans the Company is exposed to a number of risks, the most significant of which 
+are detailed below :
+Asset volatility
+The plan liabilities are calculated using a discount rate set with references to corporate bond yields; if plan assets 
+under  perform  compared  to  the  corporate  bonds  discount  rate,  this  will  create  or  increase  a  deficit.  The  defined 
+benefit plans hold a significant proportion of equity type assets, which are expected to outperform corporate bonds 
+in the long-term while providing volatility and risk in the short-term.
+As the plans mature, the Company intends to reduce the level of investment risk by investing more in assets that 
+better match the liabilities.
+However,  the  Company  believes  that  due  to  the  long-term  nature  of  the  plan  liabilities  and  the  strength  of  the 
+supporting group, a level of continuing equity type investments is an appropriate element of the Company’s long 
+term strategy to manage the plans efficiently.
+Changes in bond yields
+A decrease in corporate bond yields will increase plan liabilities, although this is expected to be partially offset by an 
+increase in the value of the plans’ bond holdings and interest rate hedging instruments.
+375

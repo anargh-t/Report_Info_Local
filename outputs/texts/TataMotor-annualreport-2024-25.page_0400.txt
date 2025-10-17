@@ -1,0 +1,45 @@
+In its financing business, the Company enters into transactions with customers which primarily result 
+in receivables at fixed rates. In order to manage this risk, the Company has a policy to match funding 
+in terms of maturities and interest rates and also for certain part of the portfolio, the Company does 
+not match funding with maturities, in order to take advantage of market opportunities.
+The Company also enters into arrangements of securitization of receivables in order to reduce the 
+impact of interest rate movements. Further, Company also enters into interest rate swap contracts 
+with banks to manage its interest rate risk.
+As at March 31, 2025 and 2024 financial liabilities of ₹ 14,992  crores and ₹ 42,719  crores respectively, 
+were subject to variable interest rates. Increase/decrease of 100 basis points in interest rates at the 
+balance sheet date would result in an impact (decrease/increase of profit before tax) of ₹ 150  crores 
+and ₹ 427 crores on income for the year ended March 31, 2025 and 2024, respectively.
+ The  model  assumes  that  interest  rate  changes  are  instantaneous  parallel  shifts  in  the  yield  curve. 
+Although some assets and liabilities may have similar maturities or periods to re-pricing, these may 
+not react correspondingly to changes in market interest rates. Also, the interest rates on some types of 
+assets and liabilities may fluctuate with changes in market interest rates, while interest rates on other 
+types of assets may change with a lag.
+The risk estimates provided assume a parallel shift of 100 basis points interest rate across all yield 
+curves. This calculation also assumes that the change occurs at the balance sheet date and has been 
+calculated  based  on  risk  exposures  outstanding  as  at  that  date.  The  period  end  balances  are  not 
+necessarily representative of the average debt outstanding during the period.
+This analysis assumes that all other variables, in particular foreign currency rates, remain constant.
+The Company uses cross currency interest rate swaps to hedge some of its exposure to interest rate 
+arising from variable rate foreign currency denominated debt. The Company also uses cross currency 
+interest rate swaps to convert some of its foreign currency denominated fixed rate debt to floating 
+rate debt.
+(c)  Equity price risk:
+Equity Price Risk is related to the change in market reference price of the investments in equity securities.
+The fair  value of  some of  the Company’s  investments  in  equity securities  exposes  the Company to 
+equity price risks. In general, these securities are not held for trading purposes. These investments are 
+subject to changes in the market price of securities.
+The fair value of some of the Company’s investment in quoted equity securities measured at FVOCI as 
+of March 31, 2025 and 2024, was ₹ 848  crores and ₹ 961  crores, respectively. A 10% change in prices 
+of these securities held as of March 31, 2025 and 2024, would result in a pre-tax impact of ₹ 85  crores 
+and ₹ 96  crores on equity, respectively.
+(ii)  Credit Risk
+Credit risk is the risk of financial loss arising from counter-party failure to repay or service debt according to 
+the contractual terms or obligations. Credit risk encompasses both the direct risk of default and the risk of 
+deterioration of creditworthiness as well as concentration risks.
+Financial instruments that are subject to concentrations of credit risk, principally consist of investments in 
+debt instruments, trade receivables, finance receivables, loans and derivative financial instruments. The 
+Company strives to promptly identify and reduce concerns about collection due to a deterioration in the 
+financial conditions and others of its main counterparties by regularly monitoring their situation based on 
+their financial condition.
+None of the financial instruments of the Company result in material concentrations of credit risks.
+396

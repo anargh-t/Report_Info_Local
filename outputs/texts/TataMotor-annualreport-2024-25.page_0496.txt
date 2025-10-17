@@ -1,0 +1,67 @@
+The  Company  evaluates  the  impact  of  foreign  exchange  rate  fluctuations  by  assessing  its  exposure  to 
+exchange rate risks. It hedges a part of these risks by using derivative financial instruments in accordance 
+with its risk management policies.
+The  foreign  exchange  rate  sensitivity  is  calculated  for  each  currency  by  aggregation  of  the  net  foreign 
+exchange rate exposure of  each currency and a simultaneous parallel foreign exchange rates shift in the 
+foreign exchange rates of each currency by 10% while keeping the other variables as constant.
+The  exposure  as  indicated  below  is  mitigated  by  some  of  the  derivative  contracts  entered  into  by  the 
+Company as disclosed in (iv) derivative financial instruments and risk management below.
+The following table sets forth information relating to foreign currency exposure (other than risk arising from 
+derivatives disclosed at clause (iv) below) as of March 31, 2025:
+Financial assets
+Financial liabilities
+US$
+ 285 
+ 2,914 
+GBP
+ 64 
+ 5 
+Others1
+ 72 
+ 54 
+(₹ in crores)
+Total
+ 421 
+ 2,973 
+1Others mainly include currencies such as the Euro, Chinese yuan, South african rand, Singapore Dollar, Thai 
+bahts and Bangladesh taka.
+10% appreciation/depreciation of the respective foreign currencies with respect to functional currency of 
+the Company would result in decrease/increase in the Company’s net profit/(loss) and equity before tax by 
+approximately ₹42 crores and ₹297 crores for financial assets and financial liabilities respectively for the 
+year ended March 31, 2025.
+The following table sets forth information relating to foreign currency exposure (other than risk arising from 
+derivatives disclosed at clause (iv) below) as of March 31, 2024:
+Financial assets
+Financial liabilities
+US$
+ 319 
+ 3,861 
+GBP
+ 64 
+ 2 
+Others 2
+ 61 
+ 54 
+(₹ in crores)
+Total
+ 444 
+ 3,917 
+2 Others mainly include currencies such as the Euro, Chinese yuan, South african rand, Singapore Dollar, 
+Thai bahts and Bangladesh taka.
+10% appreciation/depreciation of the respective foreign currencies with respect to functional currency of 
+the Company would result in decrease/increase in the Company’s net profit/(loss) and equity before tax by 
+approximately ₹44 crores and ₹392 crores for financial assets and financial liabilities respectively for the 
+year ended March 31, 2024.
+(Note: The impact is indicated on the profit before tax.)
+(b)  Interest rate risk
+Interest rate risk is the risk that changes in market interest rates will lead to changes in fair value of financial 
+instruments or changes in interest income, expense and cash flows of the Company.
+The  Company  is  subject  to  variable  interest  rates  on  some  of  its  interest  bearing  liabilities.  The  Company’s 
+interest  rate  exposure  is  mainly  related  to  debt  obligations.  The  Company  also  uses  a  mix  of  interest  rate 
+sensitive financial instruments to manage the liquidity and fund requirements for its day to day operations like 
+short term loans.
+As at March 31, 2025 and 2024, financial liabilities of ₹1,175 crores and ₹3,783 crores, respectively, were subject 
+to variable interest rates. Increase/decrease of 100 basis points in interest rates at the balance sheet date would 
+result in decrease/increase in profit before tax of ₹12 crores and ₹38 crores for the year ended March 31, 2025 
+and 2024, respectively.
+492

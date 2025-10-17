@@ -1,0 +1,166 @@
+Management Employee Age Based (Permanent Employees)
+Employee Diversity (<30 years)
+Employee Diversity (30-50 years)
+Employee Diversity (>50 years)
+Category
+Total
+Female
+% of Female
+Total
+Female
+% of Female
+Total
+Female
+% of Female
+Unit
+Person
+Person
+%
+Person
+Person
+%
+Person
+Person
+%
+Management Worker Age Based (Non-Permanent Employees)
+Employee Diversity (<30 years)
+Employee Diversity (30-50 years)
+Employee Diversity (>50 years)
+Category
+Total
+Female
+% of Female
+Total
+Female
+% of Female
+Total
+Female
+% of Female
+Total number of new employee (management) hires
+Category
+Employee Hires
+Unit
+Person
+Person
+%
+Person
+Person
+%
+Person
+Person
+%
+Unit
+Person
+Breakdown of new employee (management) hires by age and gender
+Male
+Female
+Category
+<30 years
+30- 50 years
+> 50 years
+<30 years
+30- 50 years
+> 50 years
+Category
+Employee turnover
+Employee Turnover Rate
+Total Employee (management)
+Voluntary employee (management)
+Unit
+Person
+Person
+Person
+Person
+Person
+Person
+Unit
+%
+%
+Category
+Male
+Female
+Breakdown of employee (management) turnover rate by gender
+Total employee turnover rate
+Voluntary employee turnover rate
+Total employee turnover rate
+Voluntary employee turnover rate
+Unit
+%
+%
+%
+%
+FY25
+1,894
+531
+28
+8,763
+584
+6.7
+1,934
+66
+3.4
+FY25
+293
+83
+28
+64
+16
+25
+8
+1
+12.5
+FY24
+1,467
+399
+27
+8,974
+569
+6.3
+2,177
+75
+3.4
+FY24
+523
+109
+21
+123
+23
+19
+12
+1
+8.3
+FY25
+1,171
+FY24
+1,596
+FY25
+452
+419
+5
+209
+86
+0
+FY25
+7.60
+6.80
+FY25
+7.20
+6.30
+11.80
+11.30
+FY24
+524
+705
+16
+236
+112
+3
+FY24
+7.60
+7.10
+FY24
+7.20
+6.70
+12.60
+12.30
+582

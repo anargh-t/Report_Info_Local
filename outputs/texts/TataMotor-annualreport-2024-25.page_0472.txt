@@ -1,0 +1,57 @@
+Advances received from customers
+Deferred income
+Current
+Current
+Non-current
+(₹ in crores)
+As at
+March 31, 2025
+As at
+March 31, 2024
+ 805 
+ 515 
+ 826 
+ 2,146 
+ 934 
+ 441 
+ 793 
+ 2,168 
+Performance obligations in respect of amount received in respect of future maintenance service and extended warranty 
+will be fulfilled over a period of six years from year ending March 31, 2026 till March 31, 2031.
+(b)  Government incentives includes ₹208 crores as at March 31, 2025 (₹186 crores as at March 31, 2024) grants relating 
+to property, plant and equipment related to duty saved on import of capital goods and spares under the Exports 
+Promotion Capital Goods (EPCG) scheme. Under such scheme, the Company is committed to export prescribed times 
+of the duty saved on import of capital goods over a specified period of time. In case such commitments are not met, 
+the Company would be required to pay the duty saved along with interest to the regulatory authorities.
+31  Revenue recognition
+(a)  Accounting policy
+The Company generates revenue principally from-
+i)   Sale of products - commercial vehicles and vehicle parts.
+The Company recognises revenues from sale of products measured at the amount of transaction price (net of 
+variable consideration), when it satisfies its performance obligation at a point in time which is when products 
+are delivered to dealers or when delivered to a carrier for export sales, which is when control including risks 
+and rewards and title of ownership pass to the customer, collectability of the resulting receivables is reasonably 
+assured and when there are no longer any unfulfilled obligation. The transaction price of goods sold is net of 
+variable  consideration  on  account  of  various  discounts  and  schemes  offered  by  the  Company  as  part  of  the 
+contract. The Company operates predominantly on cash and carry basis.
+The  Company  offers  sales  incentives  in  the  form  of  variable  marketing  expense  to  customers,  which  vary 
+depending on the timing and customer of any subsequent sale of the vehicle. This sales incentive is accounted for 
+as a revenue reduction and is constrained to a level that is highly probable not to reverse the amount of revenue 
+recognised  when  any  associated  uncertainty  is  subsequently  resolved.  The  Company  estimates  the  expected 
+sales incentive by market and considers uncertainties including competitor pricing, ageing of retailer stock and 
+local market conditions.
+The consideration received in respect of transport arrangements for delivering of vehicles to the customers are 
+recognised net of their costs within revenues in the income statement.
+ii)  Sale of services - maintenance service and extended warranties for commercial vehicles.
+Income from sale of maintenance services and extended warranties are recognised as income over the relevant 
+period of service or extended warranty.
+When the Company sells products that are bundled with maintenance service or extended period of warranty, 
+such services are treated as a separate performance obligation only if the service or warranty is in excess of the 
+standard offerings to the customer. In such cases, the transaction price allocated towards such maintenance 
+service or extended period of warranty based on relative standalone selling price and is recognised as a contract 
+liability  until  the  service  obligation  has  been  met.  The  price  that  is  regularly  charged  for  an  item  when  sold 
+separately  is  the  best  evidence  of  its  standalone  selling  price.  In  the  absence  of  such  evidence,  the  primary 
+method used to estimate standalone selling price is the expected cost plus a margin, under which the Company 
+estimates  the  cost  of  satisfying  the  performance  obligation  and  then  adds  an  appropriate  margin  based  on 
+similar services.
+468

@@ -1,0 +1,100 @@
+Plan assets
+The fair value of Company’s pension plan asset as of March 31, 2025 and 2024 by category are as follows:
+Asset category:
+Cash and cash equivalents
+Debt instruments (quoted)
+Equity instruments (quoted)
+Deposits with Insurance companies
+Pension Benefits
+As at  
+March 31, 2025
+As at  
+March 31, 2024
+10.9%
+60.8%
+10.5%
+17.8%
+100.0%
+6.7%
+65.0%
+10.4%
+17.9%
+100.0%
+The  Company’s  policy  is  driven  by  considerations  of  maximizing  returns  while  ensuring  credit  quality  of  the 
+debt instruments. The asset allocation for plan assets is determined based on investment criteria prescribed 
+under the Indian Income Tax Act, 1961, and is also subject to other exposure limitations. The Company evaluates 
+the  risks,  transaction  costs  and  liquidity  for  potential  investments.  To  measure  plan  asset  performance,  the 
+Company compares actual returns for each asset category with published bench marks.
+The weighted average duration of the defined benefit obligation as at March 31, 2025 is 9.2 years (2024 : 9.74 
+years)
+The Company expects to contribute ₹ 46 crores to the funded pension plans in the year ending March 31, 2026.
+The table below outlines the effect on the service cost, the interest cost and the defined benefit obligation in the 
+event of a decrease/increase of 1% in the assumed rate of discount rate, salary escalation and health care cost:
+Assumption
+Discount rate
+Change in assumption
+ Increase by 1% 
+ Decrease by 1% 
+Impact on defined benefit 
+obligation
+Impact on service cost and 
+interest cost
+ Decrease by ₹ 224 crores 
+ Decrease by ₹ 68 crores 
+ Increase by ₹ 191 crores 
+ Increase by ₹ 70 crores 
+Salary escalation rate
+ Increase by 1% 
+ Increase by ₹ 159 crores 
+ Increase by ₹ 72 crores 
+Health care cost
+ Decrease by 1% 
+ Increase by 1% 
+ Decrease by 1% 
+ Decrease by ₹ 142 crores 
+ Decrease by ₹ 64 crores 
+ Increase by ₹ 88 crores 
+ Increase by ₹ 0 crores 
+ Decrease by ₹ 71 crores 
+ Decrease by ₹ 0 crores 
+Provident Fund
+The following tables set out the funded status of the defined benefit provident fund plan of a Joint Operation and the 
+amounts recognized in the Company’s financial statements.
+Particulars
+Change in benefit obligations :
+Defined benefit obligation, beginning of the year
+Service cost 
+Employee contribution
+Transfer in 
+Interest expense
+Actuarial (gains) / losses arising from changes in experience adjustments on plan liabilities
+Actuarial (gains) / losses arising from changes in financial assumptions 
+Benefits paid
+Acquisition credit/ cost
+Defined benefit obligation, end of the year
+(₹ in crores)
+Year ended 
+March 31, 2025
+Year ended 
+March 31, 2024
+153
+6
+9
+-
+11
+(1)
+6
+(6)
+(3)
+175
+135
+6
+9
+2
+10
+1
+(3)
+(7)
+-
+153
+371

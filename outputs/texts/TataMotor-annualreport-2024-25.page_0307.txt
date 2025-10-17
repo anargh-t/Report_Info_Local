@@ -1,0 +1,134 @@
+in 
+the 
+of 
+level 
+report 
+independent 
+database 
+service 
+the 
+auditor’s 
+organization available for period upto 31 
+December 2024 and in the absence of the 
+independent  auditor’s  report  of  service 
+organization  for  the  balance  period,  we 
+are  unable  to  comment  whether  audit 
+trail feature at the database level of the 
+said software was enabled and operated 
+throughout  the  year  for  all  relevant 
+transactions recorded in the software;
+vi. 
+in  respect  of  one  step-down  subsidiary 
+company, the feature of recording audit 
+trail (edit log) facility was not enabled:
+• 
+• 
+ throughout  the  year  for  certain 
+fields  at  the  application  level  of 
+the  accounting  software  used  for 
+maintaining  aftermarket  spare  parts 
+accounting  process.  Further,  the 
+feature  of  audit  trail  (edit  log)  was 
+not  enabled  at  the  database  level 
+to  log  any  direct  data  changes  in 
+the  accounting  software  used  for 
+aftermarket  spare  parts  accounting 
+process; and
+level  to 
+software  used 
+log 
+ at  the  database 
+any  direct  data  changes  in  the 
+for 
+accounting 
+maintaining 
+ledger, 
+property,  plant  and  equipment, 
+purchases, 
+inventory  and  sales 
+records during 01 April 2024 to 22 
+February 2025;
+general 
+vii. 
+viii. 
+in  respect  of  one  subsidiary  company 
+and one associate company, the feature 
+of  recording audit trail  (edit log)  facility 
+was  not  enabled  at  the  database  level 
+log  any  direct  data  changes  for 
+to 
+the  accounting  softwares  used 
+for 
+maintaining the books of account;
+ in respect of one associate company, the 
+feature of recording audit trail (edit log) 
+facility was not enabled throughout the 
+year for certain fields at the application 
+level  of  the  accounting  software  used 
+for  maintaining  general  ledgers  relating 
+to 
+journal  entries,  sales,  purchases, 
+inventory  and  consumption,  property, 
+plant and equipment and payroll records;
+ix. 
+ in  respect  of  one  associate  company, 
+its  seven  subsidiary  companies  and  five 
+303
+x. 
+xi. 
+joint venture companies, audit trail (edit 
+log) facility for direct changes done to the 
+data when using certain privilege access 
+and at the database level for accounting 
+software was not enabled;
+ in  respect  of  one  subsidiary  company, 
+the  company  has  used  spreadsheets 
+for  maintaining  underlying  records  of 
+the  financial  statements  which  is  not 
+considered  as  ‘books  of  account’  in 
+accordance  with  the  Implementation 
+Guide on Reporting on Audit Trail under 
+Rule  11(g)  of  the  Companies  (Audit  and 
+Auditors)  Rules,  2014.  Accordingly, 
+reporting  under  Rule  11(g)  of  the 
+Companies  (Audit  and  Auditors)  Rules, 
+2014 is not applicable; and
+ in  respect  of  one  step-down  subsidiary, 
+security  audit  log  parameter  has  been 
+enabled on and available from 17 March 
+2025.  Further,  in  the  absence  of  the 
+Service  Organisation  Controls  report  in 
+respect  of  invoice  processing  software 
+which is operated by a third party service 
+provider,  the  auditor  of  the  step-down 
+subsidiary is unable to comment whether 
+the  audit  trail  feature  was  enabled  and 
+operated  throughout  the  year  for  all 
+relevant  transactions  recorded  in  the 
+payroll processing software.
+Further, where audit trail (edit log) facility 
+was  enabled  and  operated,  we  and 
+respective  auditors  of  such  subsidiary 
+subsidiary 
+step-down 
+companies, 
+companies,  associate  companies,  joint 
+venture  companies  and  joint  operation 
+companies  did  not  come  across  any 
+instance  of  the  audit  trail  feature  being 
+tampered with.
+Additionally,  except  where  the  audit 
+trail  (edit  log)  facility  was  not  enabled 
+in  the  previous  year,  the  audit  trail 
+has  been  preserved  by  the  Holding 
+Company,  subsidiary  companies,  step-
+down  subsidiary  companies,  associate 
+joint  venture  companies 
+companies, 
+and  joint  operation  companies  as  per 
+the  statutory  requirements  for  record 
+retention,  except 
+for  the  accounting 
+software used for preparation of financial 
+statements of the Holding Company where 
+the audit trail has not been preserved.

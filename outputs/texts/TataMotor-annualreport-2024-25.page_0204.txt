@@ -1,0 +1,91 @@
+9.  Open-ness of business:
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with 
+loans and advances & investments, with related parties, in the following format:
+Parameter
+Concentration of 
+Purchases
+Concentration of 
+Sales
+Share of RPTs in
+Metrics
+FY 25
+FY 24
+Purchases from trading houses as % of total purchases*
+a.  
+b.   Number of trading houses where purchases are made from*
+c.  
+Purchases from top 10 trading houses as % of total purchases from trading 
+houses*
+Sales to dealers / distributors as % of total sales 
+a.  
+b.   Number of dealers / distributors to whom sales are made
+c.  
+Sales  to  top  10  dealers  /  distributors  as  %  of  total  sales  to  dealers  / 
+distributors
+Purchases (Purchases with related parties / Total Purchases)
+Sales (Sales to related parties / Total Sales)
+Loans & advances (Loans & advances given to related parties / Total loans 
+& advances)
+Investments (Investments in related parties / Total Investments made)
+a.  
+b.  
+c.  
+d.  
+0
+0
+0
+75%
+328
+21%
+17%
+8%
+84%
+89%
+0
+0
+0
+76%
+326
+21%
+20%**
+10%**
+14%
+91%
+* TML purchases directly from Supply Chain Partners and Purchase transactions do not involve any trading houses.
+** The financial figures for FY 24 have been restated to improve accuracy and clarity in reporting following the guidelines set forth in SEBI’s 
+circular dated December 20, 2024, which outlines Industry Standards Forum guidance for BRSR Core.
+Leadership Indicators
+1.  Awareness programmes conducted for value chain partners on any of the principles during the financial year: 
+Total number of awareness  
+programmes held
+Topics / principles covered under the training
+1
+2
+Sessions  on  Sustainability 
+for  Supply  Chain  Partners 
+– 7
+Principle  2:  Circularity  Principles  3,  5:  Human  Rights,  Safety 
+Principle 6: Net zero, Water Management, Waste Management, 
+Biodiversity
+Sessions  on  Sustainability 
+for Dealer Partners – 19
+Virtual  and  onsite  training  programs  were  conducted  focusing 
+on  Sustainability  awareness.  These  programs  covered  topics 
+such  as  Sustainability  &  ESG,  Net  Zero,  Water  Management, 
+Waste Management, Human Rights, Diversity & Inclusion, Labour 
+Management,  Community  Relations  &  CSR,  and  Corporate 
+Governance.
+*As a percentage of Purchase Value from Supply Chain partners
+**As a percentage of Sales Revenue from Channel Partners
+% of value chain partners covered 
+(by value of business done with 
+such partners) under the awareness 
+programs
+87* 
+75**
+2.  Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? If Yes, 
+provide details of the same.
+Yes, we have a process in place which is governed by the “Tata Code of Conduct for Non-Executive Directors and Independent 
+Directors” of Tata Motors. Web link to the same is: https://www.tatamotors.com/wp-content/uploads/2023/10/ned-id-2.
+pdf
+200

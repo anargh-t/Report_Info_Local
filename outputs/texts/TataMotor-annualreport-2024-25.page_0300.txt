@@ -1,0 +1,91 @@
+Capitalisation of product engineering costs as reported by the component auditor of Jaguar Land Rover Automotive PLC  
+(hereinafter referred to as JLR Group)
+See Note 6 to consolidated financial statements
+The key audit matter
+Accounting Treatment
+The  JLR  Group  has  historically  capitalised  a  significant 
+portion of its product development costs. A key judgment is 
+involved in determining whether these costs meet the criteria 
+for capitalisation.
+the 
+technical 
+include  confirming 
+These 
+feasibility  of 
+developing  the  asset  for  use  or  for  sale  and  ensuring  that 
+the costs capitalised are directly attributable. There is a risk 
+that  the  JLR  Group  may  capitalise  costs  that  do  not  meet 
+this criteria.
+In  addition,  it  is  noted  that  there  is  a  risk  of  fraud  around 
+the  allocation  of  directly  attributable  expenditure  to  the 
+correct  project  codes  to  ensure  appropriate  costs  are 
+being capitalised.
+How the matter was addressed in our audit
+The audit procedures applied by the auditor of the component 
+(JLR Group) included:
+-  
+-  
+-  
+-  
+ Control operation: Tested controls including in relation 
+to  the  Directors’  assessment  as  to  whether  product 
+engineering costs are eligible for capitalisation;
+Personnel  interviews:  Corroborated  judgements  made 
+by the Directors around the continuation of capitalisation 
+of  product  engineering  costs  through  discussions  with 
+project level staff;
+Component  auditor’s  sector  experience:  Critically 
+assessed  the  Directors’  judgements  regarding  product 
+engineering  costs  identified  by  the  Directors  as  being 
+eligible  for  capitalisation  against  both  the  accounting 
+standards and our experience of practical application of 
+these standards in other companies;
+Tests  of  details:  For  a  sample  of  product  engineering 
+costs  identified  by  the  Directors  as  being  eligible  for 
+capitalisation,  agreed  that  their  nature  was  consistent 
+with  the  description  of  the  account  to  which  those 
+costs  were  recorded,  and  the  timing  of  recognition 
+was  appropriate.  In  addition,  the  component  auditor 
+inspected any reallocations from accounts ineligible for 
+capitalisation to accounts that are eligible as capitalised 
+project engineering costs, which the component auditor 
+would consider to meet the criteria of a high risk journal, 
+and obtained evidence to assess the appropriateness of 
+the reallocation; and
+- 
+Assessing transparency: Assessed the adequacy of the 
+Group’s  disclosures  in  respect  of  the  key  judgements 
+made relating to the nature of the costs capitalised.
+Valuation of defined benefit plan obligations as reported by the component auditor of JLR Group
+See Note 36 to consolidated financial statements
+The key audit matter
+Subjective valuation
+Small  changes  in  the  assumptions  applied  in  the  valuation 
+of  the  liabilities,  being  the  discount  rate,  inflation  rate  and 
+mortality/life  expectancy  used  to  value  the  JLR  Group’s 
+pension  obligation  (before  deducting  scheme  assets)  would 
+have a significant effect on the JLR Group’s net pension surplus.
+The  effect  of  these  matters  is  that,  as  part  of  our  risk 
+assessment,  we  determined  that  the  JLR  Group’s  pension 
+obligation  has  a  high  degree  of  estimation  uncertainty, 
+with a potential range of reasonable outcomes greater than 
+our  materiality  for  the  financial  statements  as  a  whole,  and 
+possibly many times that amount.
+How the matter was addressed in our audit
+The audit procedures applied by the auditor of the component 
+(JLR Group) included:
+-  
+-  
+Control  operation:  Tested  controls  operating  over  the 
+assumptions applied in the valuation and inspected the 
+JLR Group’s annual evaluation of the assumptions used 
+by  its  actuarial  expert.  Tested  the  JLR  Group’s  controls 
+operating over selection and monitoring of its actuarial 
+expert for competence and objectivity;
+Benchmarking  assumptions:  Challenged,  with  the 
+support  of  their  own  actuarial  specialists,  the  key 
+assumptions  applied,  being  the  discount  rate,  inflation 
+rate  and  mortality/life  expectancy 
+to  externally 
+derived data;
+296

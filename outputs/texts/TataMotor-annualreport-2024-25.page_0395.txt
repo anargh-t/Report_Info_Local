@@ -1,0 +1,109 @@
+There have been no transfers between level 1, level 2 and level 3 for the year ended March 31, 2025 and 2024.
+Valuation of Compulsorily Convertible Preference Share (CCPS) classified as financial liability is carried out by the 
+management using combination of Monte Carlo simulation approach which is a statistical technique that is used 
+to simulate equity value of Tata Passenger Electric Mobility Limited and projected Cashflow discounted using 
+risk free interest rate prevailing on the date of valuation. Since significant unobservable inputs are applied in 
+measuring the fair value, financial liability is classified in Level 3.
+The following table provides an analysis of fair value of financial instruments that are not measured at fair value 
+on recurring basis, grouped into Level 1 to Level 3 categories:
+Financial assets not measured at fair value
+(a)
+Investments
+Total
+Financial liabilities not measured at fair value
+(a)
+Long-term borrowings (including current maturities 
+of long term borrowing)
+Short-term borrowings
+Total
+(b)
+Financial assets not measured at fair value
+(a)
+(b)
+Investments
+Finance receivables
+Total
+Financial liabilities not measured at fair value
+(a)
+Long-term borrowings (including current maturities 
+of long term borrowing)
+Short-term borrowings
+Total
+(b)
+As at March 31, 2025
+Level 1
+Level 2
+Level 3
+Total
+(₹ in crores)
+20,606
+20,606
+36,517
+-
+36,517
+-
+-
+21,896
+5,687
+27,583
+-
+-
+-
+-
+-
+20,606
+20,606
+58,413
+5,687
+64,100
+(₹ in crores)
+Level 1
+Level 2
+Level 3
+Total
+As at March 31, 2024
+12,433
+-
+12,433
+43,581
+-
+43,581
+-
+-
+-
+-
+13,865
+13,865
+50,605
+5,735
+56,340
+-
+-
+-
+12,433
+13,865
+26,298
+94,186
+5,735
+99,921
+Other short-term financial assets and liabilities are stated at amortized cost which is approximately equal to their 
+fair value.
+The fair value of  finance  receivables  has  been estimated by  discounting  expected  cash flows using rates at 
+which loans of similar credit quality and maturity would  be  made and  internal  assumptions  such as  expected 
+credit  losses  and  estimated  collateral  value  for  repossessed  vehicles  as  at  March  31,  2025  and  2024.  Since 
+significant unobservable  inputs  are  applied in measuring the fair value, finance receivables are classified in 
+Level 3. 
+The fair value of borrowings which have a quoted market price in an active market is based on its market price 
+and  for other borrowings the fair value is estimated by discounting expected future cash flows, using a discount 
+rate  equivalent  to    the  risk-free  rate  of  return,  adjusted  for  the  credit  spread  considered  by  the  lenders  for 
+instruments of similar maturity and credit quality.
+Management uses its best judgment in  estimating the  fair value  of  its  financial  instruments.  However,  there  
+are  inherent limitations in any estimation technique. Therefore, for substantially all financial instruments, the fair 
+value estimates presented above are not necessarily indicative of all the amounts that the Company could have 
+realized or paid  in sale  transactions  as of respective dates. As such, the fair  value  of  the  financial  instruments  
+subsequent  to  the  respective  reporting dates may be different from the amounts reported at each period end.
+ Offsetting
+Certain  financial  assets  and  financial  liabilities  are  subject  to  offsetting  where  there  is  currently  a  legally 
+enforceable right to set off recognized amounts and the Company intends to either settle on a net basis, or to 
+realise the asset and settle the liability, simultaneously.
+391

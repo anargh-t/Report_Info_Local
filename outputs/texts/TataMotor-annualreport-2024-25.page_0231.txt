@@ -1,0 +1,90 @@
+6. 
+Please provide details of air emissions (other than GHG emissions) by the entity:
+Parameter
+NOx
+Sox
+Particulate matter (PM)
+Others – Ozone Depleting Substances (ODS)
+Unit
+MT
+MT
+MT
+kg as CFC-
+11 Equivalent
+FY 25
+192
+0.17
+519
+87
+FY 24
+160*
+0.19*
+679*
+95
+if  any 
+independent  assessment/  evaluation/assurance 
+Indicate 
+has  been  carried  out  by  an  external  agency?  If  yes,  name  of  the 
+external agency
+Yes, KPMG Assurance and Consulting Services LLP has 
+provided limted assurance on data reported under 
+this indicator.
+* The numbers for FY 24 have been restated due to a change in methodology to include only the air emissions from associated stacks and using 
+fuel based approach for SOx emissions, and using maximum concentration levels for NOx and TPM emissions from stack monitoring reports.
+7. 
+Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) and its intensity:
+Parameter
+Total Scope 1 emissions #
+Total Scope 2 emissions ## 
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+(Total Scope 1 and Scope 2 GHG emissions / Revenue from operations)
+Total Scope 1 and Scope 2 emission intensity per rupee of turnover 
+adjusted for Purchasing Power Parity (PPP)**
+(Total Scope 1 and Scope 2 GHG emissions / Revenue from operations 
+adjusted for PPP)
+Unit
+tCO2e
+tCO2
+tCO2/ ₹
+tCO2/ $
+FY 25
+43,754
+FY 24
+48,736*
+ 1,31,407
+1,72,409*
+ 0.000000258
+ 0.000000308*
+0.000005320
+0.000006286*
+Total  Scope  1  and  Scope  2  emission 
+physical output
+intensity 
+in  terms  of 
+tCO2/ 
+Vehicles Produced
+0.462
+0.552*
+Indicate  if  any  independent  assessment/  evaluation/assurance 
+has  been  carried  out  by  an  external  agency?    If  yes,  name  of  the 
+external agency.
+Yes, KPMG Assurance and Consulting Services LLP has provided 
+reasonable assurance on data reported under this indicator.
+* The numbers for FY 24 have been restated due to reclassification of green attribute ownership for renewable electricity, enhanced coverage 
+of fuel consumption points and extended coverage of fugitive emissions from refrigerants. 
+**The intensity adjusted for PPP has been restated following the guidelines set forth in SEBI’s circular dated December 20, 2024, which outlines 
+Industry  Standards  Forum  guidance  for  BRSR  Core.  The  PPP  factor  has  been  sourced  from  IMF  database.  https://www.imf.org/external/
+datamapper/PPPEX@WEO/OEMDC.
+# The emission factors for calculation of Scope 1 emissions are based on 2024 UK Government GHG Conversion Factors for Company Reporting 
+Version 1.1 from DEFRA
+## Scope 2 GHG emissions reported are calculated based on market-based approach. The above Scope 2 numbers are after adjustments for 
+International Renewable Energy Certificates(iRECs) purchased. For grid electricity the latest applicable CEA published grid emission factor has 
+been used.
+8.  Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+We are driving decarbonization in our operations by minimizing greenhouse gas (Scope-1 and Scope-2) emissions through 
+optimizing fossil fuel use in our manufacturing processes, switching from fossil fuel to electrical heating, continued energy 
+conservation measures and transitioning to renewable electricity. We are a signatory to Climate Group RE100 for achieving 
+100% renewable electricity use in operations by 2030. The total installed capacity of Rooftop Solar amounts to 55.5 MW 
+augmented by short term Green Power Purchase agreements and Renewable Energy Certificates. 
+The Company continued to add on-site Renewable Energy (solar) generation capacity in FY 2024-25:
+227

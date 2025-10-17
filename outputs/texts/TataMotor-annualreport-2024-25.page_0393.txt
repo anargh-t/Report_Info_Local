@@ -1,0 +1,187 @@
+The following table presents the carrying amounts and fair value of each category of financial assets and liabilities 
+as at March 31, 2024.
+Cash and other 
+financial assets 
+at amortised 
+cost
+Non -Derivative 
+Financial assets 
+at fair value
+Derivatives 
+other than 
+in hedging 
+relationship 
+at fair value 
+through profit 
+or loss
+Derivatives 
+in hedging 
+relationship at 
+fair value
+(₹ in crores)
+Total carrying 
+value
+Total fair value
+12,433
+16,952
+40,015
+5,792
+639
+13,415
+10,937
+1,00,183
+5,198
+-
+-
+-
+-
+16,750
+-
+21,948
+-
+-
+-
+-
+-
+-
+959
+959
+-
+-
+-
+-
+-
+-
+5,310
+5,310
+17,631
+16,952
+40,015
+5,792
+639
+30,165
+17,206
+1,28,400
+17,631
+16,952
+40,015
+5,792
+639
+30,615
+17,206
+1,28,850
+(₹ in crores)
+Derivatives 
+other than 
+in hedging 
+relationship at 
+fair value
+Derivatives 
+in hedging 
+relationship at 
+fair value
+Other financial 
+liabilities at fair 
+value
+Other financial 
+liabilities at 
+amortised cost
+Total carrying 
+value
+Total fair value
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+92,766
+8,763
+5,735
+93,978
+92,766
+8,763
+5,735
+93,978
+94,186
+8,763
+5,735
+93,978
+2,548
+-
+2,548
+2,548
+1,312
+1,312
+2,931
+2,931
+-
+12,815
+17,058
+17,058
+2,548
+2,14,057
+2,20,848
+2,22,268
+Financial assets
+Investments
+Trade receivables
+Cash and cash equivalents
+(a)
+(b)
+(c)
+(d) Other bank balances
+(e)
+(f)
+(g) Other financial assets
+Loans
+Finance receivable
+Total
+Financial liabilities
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+Long-term borrowings 
+(including current 
+maturities of long-term 
+borrowings) (refer note 
+below)
+Lease Liability
+Short-term borrowings
+Trade payables
+Compulsorily 
+Convertible Preference 
+Shares - liability portion
+Other financial 
+liabilities
+Total
+Notes:
+1 
+2 
+3 
+Includes ₹ 4,495 crores designated as hedged item in fair value hedge relationship. This includes a loss of  
+₹ 1,384 crores on account of fair value changes attributable to the hedged interest rate risk.
+Includes ₹ 9,998 crores (£952 million) designated as a hedging instrument in a cash flow hedge relationship.
+Includes ₹ 10,251 crores (£1,074 million) designated as hedging instrument in net investment hedge relationship.
+Fair Value Hierarchy
+The  following  table  provides  an  analysis  of  financial  instruments  that  are  measured  subsequent  to  initial 
+recognition at fair value, grouped into Level 1 to Level 3, as described below.
+Quoted  prices  in  an  active  market  (Level  1):  This  level  of  hierarchy  includes  financial  instruments  that  are 
+measured  by  reference  to  quoted  prices  (unadjusted)  in  active  markets  for  identical  assets  or  liabilities.  This 
+category consists quoted equity shares, quoted corporate debt instruments and mutual fund investments.
+Valuation  techniques  with  observable  inputs  (Level  2):  This  level  of  hierarchy  includes  financial  assets  and 
+liabilities, measured using inputs other than quoted prices included within Level 1 that are observable for the 
+asset  or  liability,  either  directly  (i.e;  as  prices)  or  indirectly  (i.e;  derived  from  prices).  This  level  of  hierarchy 
+includes Company’s over-the-counter (OTC) derivative contracts.
+389

@@ -1,0 +1,87 @@
+Net pension and post retirement cost consist of the following components:
+Particulars
+Current service cost
+Administrative expenses
+Net interest cost (Including onerous obligations)
+Net periodic pension cost
+Amount recognized in other comprehensive income
+Particulars
+Actuarial (gains) / losses arising from changes in demographic assumptions
+Actuarial  (gains)/ losses arising from changes in financial assumptions
+Actuarial losses arising from changes in experience adjustments on plan liabilities
+Return on  plan assets, (excluding amount included in net Interest expense)
+Total recognized in other comprehensive income
+(₹ in crores)
+Pension benefits
+Year ended 
+March 31, 2025
+Year ended 
+March 31, 2024
+712
+97
+(183)
+626
+656
+104
+(343)
+417
+(₹ in crores)
+Pension benefits
+Year ended 
+March 31, 2025
+Year ended 
+March 31, 2024
+(529)
+(5,404)
+453
+5,555
+75
+(229)
+(1,524)
+884
+5,088
+4,219
+Total recognized in statement of profit and loss and other comprehensive income
+701
+4,636
+The assumptions used in accounting for the pension plans are set out below:
+Particulars
+Discount rate
+Expected rate of increase in benefit revaluation of covered employees
+CPI Inflation rate (capped at 5.0% p.a)
+CPI Inflation rate (capped at 2.5% p.a)
+RPI Inflation rate
+Pension benefits
+As at 
+March 31, 2025
+As at 
+March 31, 2024
+5.8%
+1.9%
+2.5%
+1.8%
+2.9%
+5.1%
+1.9%
+2.5%
+1.7%
+3.0%
+For  the  valuation  at  March  31,  2025,  the  mortality  assumptions  used  are  the  Self-Administered  Pension  Schemes 
+(‘SAPS’) mortality base table, S2PxA tables (“Light” tables for members of the Jaguar Executive Pension Plan).
+(i) 
+For the Jaguar Pension Plan, scaling factors of 97% to 115% have been used for male members and scaling factors 
+of 102% to 116% have been used for female members.
+(ii)  For the Land Rover Pension Scheme, scaling factors of 103% to 112% have been used for male members and 
+scaling factors of 100% to 115% have been used for female members.
+(iii)  For the Jaguar Executive Pension Plan, scaling factors of 92% to 99% have been used for male members and 
+scaling factors of 92% to 98% have been used for female members.
+For the valuation at March 31, 2024, the mortality assumptions used were the SAPS mortality base table, S2PxA tables 
+(“Light” tables for members of the Jaguar Executive Pension Plan).
+(i) 
+For the Jaguar Pension Plan, scaling factors of 95% to 111% have been used for male members and scaling factors 
+of 90% to 113% have been used for female members.
+(ii)  For the Land Rover Pension Scheme, scaling factors of 101% to 109% have been used for male members and 
+scaling factors of 97% to 111% have been used for female members.
+(iii)  For the Jaguar Executive Pension Plan, scaling factors of 87% to 93% have been used for male members and 
+scaling factors of 86% to 92% have been used for female members.
+377

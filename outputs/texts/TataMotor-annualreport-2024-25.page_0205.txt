@@ -1,0 +1,56 @@
+Principle 2: Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1. 
+Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental 
+and social impacts of product and processes to total R&D and capex investments made by the entity, respectively. 
+Total R&D expenditure
+Total Capex
+FY25 (%)
+FY 24 (%)
+Details of improvements in environmental social impacts
+61
+57
+80
+71
+Please refer to the Technology Absorption, Adaptation and 
+Innovation section in Annexure-3 of the Board’s report.
+2.  Does  the  entity  have  procedures  in  place  for  sustainable  sourcing?  If  Yes,  what  percentage  of  inputs  were 
+sourced sustainably?
+Tata Motors is driving a transformative shift to establish itself as a leader in Sustainable Mobility. Understanding the crucial 
+role of the supply chain in this transition, TML introduced the ‘Sustainable Supply Chain Initiative’ in 2017, followed by the 
+launch of ‘AIKYAM,’ a collaborative platform, in 2023.
+As part of this initiative, we have developed a comprehensive framework that includes a Supplier Code of Conduct, an 
+Environmental Procurement Policy, and Sustainability Guidelines for Suppliers. These guidelines cover key areas such as 
+governance,  legal  compliance,  management  system  certification,  transparency  and  reporting,  occupational  health  and 
+safety, labor rights, and human rights. By setting these standards, we aim to foster responsible business practices among 
+our suppliers and partners. We have also updated our Manufacturing Site Audit questionnaire to include a sustainability 
+pillar, which ensures that any new supplier is scrutinized on sustainability as well.
+To ensure effective implementation, we have established strong oversight mechanisms for our supplier ESG program. The 
+highest decision-making body, the Executive Committee Members, along with the Chief Purchasing Officer, is responsible 
+for monitoring and guiding this critical aspect of our sustainability strategy.
+Additionally, our procurement processes are continuously reviewed to align with the Supplier Code of Conduct and prevent 
+any potential conflicts with our ESG commitments. This ongoing evaluation ensures that every stage of our procurement 
+strategy remains in sync with our sustainability goals.
+We  also  conduct  thorough  assessments  of  our  suppliers  to  measure  their  compliance  with  ESG  standards,  providing 
+valuable insights into their environmental and social performance. Recognizing the importance of internal stakeholders, 
+we  provide  extensive  training  to  our  procurement  teams  and  relevant  personnel.  Expanding  this  initiative  further,  we 
+introduced the Dealer Sustainability Handbook in 2025 to help dealerships enhance their sustainability practices. These 
+guidelines, along with ESG performance assessments, ensure alignment with our broader sustainability vision.
+TML Suppliers Covering 68% of Annual Purchase Value ( APV ) have either ISO 45001 or ISO 14001 Certifiation.
+3.  Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for 
+(a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) Other waste.
+As  part  of  end-of-life  product  management,  we  are  continuously  working  on  improving  our  product’s  circularity.  This 
+involves  designing  the  vehicle  for  recyclability,  selecting  sustainable  materials  by  studying  their  environmental  impact, 
+designing vehicle assemblies/components that are easy to dismantle, and providing information about the same in our 
+products, etc.
+The design-for-recycling approach complements our initiative on the circular economy, which aims to minimize waste and 
+reduce negative impact. During the design stage, TML has been encouraging the use of recyclable materials in products 
+and is actively working towards improving product recyclability. Typically, all vehicles are designed to achieve a minimum 
+of 90% recyclability and recoverability. As a responsible organization committed to sustainability and the environment, 
+we  are  publishing  dismantling  information  on  a  portal  named  IDIS  (i.e.,  International  Dismantling  Information  System). 
+Dismantlers  can  access  this  information  for  the  efficient  recycling  of  non-metallic  automobile  parts  like  bumpers,  trim 
+parts, dashboards, etc. 
+As part of the product design stage, we are currently working on exploratory projects to further use more biodegradable 
+materials, recycled materials, and re-refined base oil (RRBO) to enhance product circularity. At the end of the product 
+lifecycle, scrapping and recycling vehicles in a responsible way supports environmental goals. Tata Motors demonstrated 
+201

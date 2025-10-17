@@ -1,0 +1,50 @@
+recognised  when  any  associated  uncertainty  is  subsequently  resolved.  The  Company  estimates  the  expected 
+sales incentive by market and considers uncertainties including competitor pricing, ageing of retailer stock and 
+local market conditions.
+Revenue is recognised on a bill-and-hold basis where vehicles, for example, are sold to the customer but are 
+retained in the Company’s possession at a vehicle holding compound on behalf of the customer ahead of being 
+physically transferred to them at a future time. In such arrangements it is ensured that the customer has obtained 
+the ultimate control of the product.
+There are certain vehicles which are being given to the customers along with operations and maintenance of the 
+same. These are considered as finance leases and accordingly, revenue is recognised at the lease commencement 
+date at fair value of the leased asset. The cost of sales is reduced for the present value of unguaranteed residual 
+values. In addition, initial direct costs are recognised as cost of sales at the lease commencement date.
+The consideration received in respect of transport arrangements for delivering of vehicles to the customers are 
+recognised net of their costs within revenues in the income statement. 
+The Company applies the practical expedient in Ind AS 115 and does not disclose information about remaining 
+performance obligations that have an original expected duration of one year or less. This is because revenue 
+resulting  from  those  sales  will  be  recognised  in  a  short-term  period.  The  services  included  with  the  vehicle 
+sale are to be recognised as revenues in subsequent years but represent an insignificant portion of expected 
+revenues in comparison.
+Revenue from sale of vehicles to customers combined with repurchase obligation is recognised over the contract 
+period as if it were an operating lease contract. This is based on the fact that the customers had not obtained the 
+control of the vehicle. The related inventory continues to be recognised in the Company’s consolidated balance 
+sheet. The consideration received from the customers is treated as liability.
+b) 
+Sale  of  services  -  maintenance  service,  telematics  features  and  extended  warranties  for  commercial  and 
+passenger vehicles, software support services and insurance broking services.
+Income  from  sale  of  maintenance  services,  telematics  features  and  extended  warranties,  including  software 
+services are recognised as income over the relevant period of service or extended warranty.
+When the Company sells products that are bundled with maintenance service or extended period of warranty, 
+such services are treated as a separate performance obligation only if the service or warranty is in excess of the 
+standard offerings to the customer. In such cases, the transaction price allocated towards such maintenance 
+service or extended period of warranty based on relative standalone selling price and is recognised as a contract 
+liability  until  the  service  obligation  has  been  met.  The  price  that  is  regularly  charged  for  an  item  when  sold 
+separately  is  the  best  evidence  of  its  standalone  selling  price.  In  the  absence  of  such  evidence,  the  primary 
+method used to estimate standalone selling price is the expected cost plus a margin, under which the Company 
+estimates  the  cost  of  satisfying  the  performance  obligation  and  then  adds  an  appropriate  margin  based  on 
+similar services.
+The Company operates certain customer loyalty programs under which customer is entitled to reward points 
+on the spend towards Company’s products. The reward points earned by customers can be redeemed to claim 
+discounts on future purchase of certain products or services. Transaction price allocated towards reward points 
+granted to customers is recognized as a deferred income liability and transferred to income when customers 
+redeem their reward points.
+Sales of services include certain performance obligations that are satisfied over a period of time, any amount 
+received  in  advance  is  recorded  as  contract  liability  and  recognized  as  revenue  when  service  is  rendered  to 
+customers. Refer note 32(a) for ongoing performance obligation. Any amount of income accrued but not billed 
+to customers in respect of such contracts is recorded as a contract asset. Such contract assets are transferred to 
+Trade receivables on actual billing to customers.
+Refund liabilities comprise of obligation towards customers to pay for discounts and sales incentives.
+Vehicle  sales  do  not  typically  include  allowances  for  returns  or  refunds,  although  in  some  markets  there  is 
+legislative requirement. Regarding other goods, where rights of return may be prevalent, the Company estimates 
+362

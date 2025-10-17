@@ -1,0 +1,69 @@
+The fair value of derivative financial instruments is as follows:
+(a)
+(b)
+Foreign currency forward exchange contracts and options
+Commodity Derivatives
+(c) Others including interest rate and currency swaps
+Total
+(₹ in crores)
+As at
+March 31, 2025
+As at 
+March 31, 2024
+6,711
+(553)
+(143)
+6,015
+2,542
+(1,016)
+501
+2,027
+Following table provides sensitivity analysis in relation to derivative contracts:
+10% depreciation of foreign currency:
+Gain/(loss) in hedging reserve and cost of hedge reserve
+Gain/(loss) in consolidated statement of Profit and loss 
+10% Appreciation of foreign currency:
+Gain/(loss) in hedging reserve and cost of hedge reserve
+Gain/(loss) in consolidated statement of Profit and loss 
+(v)   Commodity Price Risk
+(₹ in crores)
+As at
+March 31, 2025
+As at 
+March 31, 2024
+16,132
+(2,961)
+(18,924)
+3,639
+12,751
+(2,709)
+(15,389)
+4,306
+The Company is exposed to commodity price risk arising from the purchase of certain raw materials such as 
+aluminium, copper, platinum and palladium. This risk is mitigated through the use of derivative contracts and 
+fixed-price contracts with suppliers. On January 1, 2025, JLR applied hedge accounting to the existing trade 
+book of aluminium and copper derivative contracts. Hedge accounting is also applied to new aluminium and 
+copper contracts from the same date. The remaining derivative contracts are not hedge accounted under 
+Ind AS 109 but are instead measured at fair value through profit or loss.
+The  fair  value  (gain)/loss  on  non-hedge  accounted  commodity  derivative  contracts,  recognized  in  the 
+consolidated statement of Profit and Loss was ₹ (162) crores and ₹ 1,531 crores for the years ended March 31, 
+2025 and 2024, respectively.
+A 10% appreciation/depreciation in all commodity prices underlying such commodity contracts that are 
+sensitive  to  changes  in  commodity  prices  would  have  resulted  in  the  approximate  additional  (loss)/gain 
+shown the in the table below:
+10% appreciation/depreciation in all commodity prices
+In other comprehensive income
+In the consolidated income statement
+(₹ in crores)
+As at
+March 31, 2025
+As at 
+March 31, 2024
+755
+237
+-
+947
+Exposure to gain/loss on derivative instruments offset to some extent the exposure to foreign currency risk, 
+interest rate risk as disclosed above.
+(Note: The impact is indicated on the income/loss before consequential tax impact,if any basis).
+400

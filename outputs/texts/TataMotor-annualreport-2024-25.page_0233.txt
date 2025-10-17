@@ -1,0 +1,72 @@
+Waste intensity per rupee of turnover (MT/₹)
+(Total waste generated / Revenue from operations)
+FY 25
+FY 24
+0.000000151
+0.000000127
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) (MT/$)**
+(Total waste generated / Revenue from operations adjusted for PPP)
+0.000003116
+0.000002585
+Waste intensity in terms of physical output (MT/Vehicles Produced)
+0.271
+0.227
+For each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in metric 
+tonnes)
+Category of waste
+(i)   Recycled
+(ii)   Re-used
+(iii)   Other recovery operations
+Total
+73,673***
+53,728***
+0
+ 4,696
+ 78,369
+0
+5,250
+58,978
+41
+31,527
+401
+31,969
+For each category of waste generated, total waste disposed by nature of disposal method (in metric tonnes)
+Category of waste
+(i)  
+Incineration
+(ii)   Landfilling
+(iii)   Other disposal operations
+Total
+40 
+ 24,133
+ 59
+ 24,232
+Indicate if any independent assessment / evaluation / assurance has been carried out by 
+an external agency? If Yes, name of the external agency.
+Yes, KPMG Assurance and Consulting 
+Services LLP has provided reasonable 
+assurance on data reported under 
+this indicator.
+* Non-hazardous waste disposed in lots have been converted into Metric tonnes using an average conversion factor from the generated value in 
+FY 25 due to an improvement in tracking processes leading to a marginal increase in the waste footprint reported.
+ **The intensity adjusted for PPP has been restated following the guidelines set forth in SEBI’s circular dated December 20, 2024, which outlines 
+Industry  Standards  Forum  guidance  for  BRSR  Core.  The  PPP  factor  has  been  sourced  from  IMF  database.  https://www.imf.org/external/
+datamapper/PPPEX@WEO/OEMDC.
+*** Includes non-hazardous ferrous and non-ferrous metal and other scrap like packaging waste, plastic, rubber, glass and auto components that 
+were sold to scrap dealers and not to the primary recyclers. Recycling data has been certified through declarations by scrap dealers who in turn 
+sell to end-users who are secondary metallurgical industries or recyclers that convert scrap into other products.
+$ Does not include non-hazardous waste, plastic waste and scrap disposal that were recorded in lots or numbers.
+10.  Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by 
+your  company  to  reduce  usage  of  hazardous  and  toxic  chemicals  in  your  products  and  processes  and  the  practices 
+adopted to manage such wastes.
+The waste generated from our operations is categorized into hazardous and non-hazardous, as well as recyclable and non-
+recyclable types. Our waste management practices are governed by the Consent Orders and hazardous waste authorizations 
+provided by the respective State Pollution Control Boards in the areas where we operate. We are committed to promoting 
+cleaner production, waste minimization, and pollution prevention initiatives. Additionally, we focus on the principles of the 
+circular economy, including reuse and recycling, while ensuring full compliance with all relevant legal requirements.
+We have also looked at innovative ways of reducing the moisture content of the ETP sludge through the installation of 
+sludge drying bed. The drying process takes place in an enclosed shed, where the floor bed is heated by circulating hot 
+water heated through Concentrated Solar Thermal to effectively remove moisture from the sludge. It is estimated that 
+around 30% of the ETP sludge disposal quantity will be reduced through the effective drying process.
+We are committed to reducing the use of hazardous and toxic chemicals in our manufacturing processes. This is achieved 
+229

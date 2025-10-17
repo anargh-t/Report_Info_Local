@@ -1,0 +1,122 @@
+Emission Intensity
+Total Scope 1 emission intensity in terms of physical output
+GHG emissions intensity
+Category
+Total Scope 2 emission intensity in terms of physical output
+Total Scope 3 emission intensity in terms of physical output
+Unit
+tCO2e /vehicle 
+produced
+tCO2 /vehicle 
+produced
+tCO2 /vehicle 
+produced
+FY25
+0.076
+0.229
+FY24
+0.073*
+0.244*
+173.424
+188.087
+*The numbers for FY 24 have been restated due to reclassification of green attribute ownership for renewable electricity, enhanced coverage of fuel 
+consumption points and extended coverage of fugitive emissions from refrigerants.
+Reduction of GHG emissions
+Category
+GHG  Emission  Reduction  in  tCO2  through 
+Energy conservation initiatives
+Reduction in Scope 1
+Reduction in Scope 2
+Unit
+tCO2e
+tCO2
+FY25
+2,774
+15,650
+FY24
+1,971
+4,831
+ODS Emissions
+Ozone Depleting Substances (ODS)
+kg of CFC-11 
+Equivalent
+            124
+            142
+Category
+Unit
+FY25
+FY24
+Emissions of ozone-depleting substances (ODS)
+Nitrogen oxides (NOx), sulfur oxides (SOx), & other significant air emissions
+Category
+Other  Significant  Air 
+Emissions
+NOx
+SOx
+Particulate matter (PM)
+Unit
+MT
+MT
+MT
+FY25
+259.72
+0.25
+820.17
+FY24
+208.00*
+0.28*
+1,008.00*
+*The numbers for FY 24 have been restated due to a change in methodology to include only the air emissions from associated stacks and using fuel based 
+approach for SOx emissions, and using maximum concentration levels for NOx and TPM emissions from stack monitoring reports.
+Hazardous waste
+Waste generated
+Waste Generated
+Category
+Waste diverted from disposal
+Waste directed to disposal
+Non Hazardous waste**
+Waste generated
+Total
+Waste diverted from disposal
+Waste directed to disposal
+Waste generated
+Waste diverted from disposal
+Waste directed to disposal
+Unit
+metric tons
+metric tons
+metric tons
+metric tons
+metric tons
+metric tons
+metric tons
+metric tons
+metric tons
+FY25
+8,779
+8,619
+160
+1,88,526
+1,64,262
+24,264
+1,97,305
+1,72,881
+24,424
+FY24
+6,934
+6,528
+406
+1,60,804*
+1,28,709*
+32,095
+1,67,739
+1,35,238
+32,501
+*Construction and demolition waste for FY24 has been restated due to enhanced coverage of waste generation points. Non-hazardous waste for FY24 does 
+not include plastic waste and scrap disposal that were recorded in lots or numbers.
+**Non-hazardous waste disposed in lots have been converted into Metric tonnes using an average conversion factor from the generated value in FY 25 due to 
+an improvement in tracking processes leading to a marginal increase in the waste footprint reported. Non-hazardous waste includes ferrous and non-ferrous 
+metal and other scrap like packaging waste, plastic, rubber, glass and auto components that were sold to scrap dealers and not to the primary recyclers. 
+Recycling data has been certified through declarations by scrap dealers who in turn sell to end-users who are secondary metallurgical industries or recyclers 
+that convert scrap into other products.
+580

@@ -1,0 +1,48 @@
+Subsequently, these are measured at fair value and changes therein are recognised directly in other comprehensive 
+income, net of applicable income taxes.
+Dividends from these equity investments are recognised in the statement of Profit and Loss when the right to 
+receive payment has been established. When the equity investment is derecognised, the cumulative gain or loss 
+in equity is transferred to retained earnings.
+Financial assets at fair value through other comprehensive income (Debt instruments): Financial assets having 
+contractual  terms  that  give  rise  on  specified  dates,  to  cash  flows  that  are  solely  payments  of  principal  and 
+interest on the principal outstanding and that are held within a business model whose objective is to hold such 
+assets in order to collect such contractual cash flows as well as to sell the financial asset, are classified in this 
+category. Subsequently, these are measured at fair value, with unrealised gains or losses being recognised in 
+other comprehensive income apart from any expected credit losses or foreign exchange gains or losses, which 
+are recognised in profit or loss.
+Financial assets at fair value through profit and loss: Financial assets are measured at fair value through profit 
+and loss unless it is measured at amortised cost or at fair value through other comprehensive income on initial 
+recognition. The transaction costs directly attributable to the acquisition of financial assets and liabilities at fair 
+value through profit and loss are immediately recognised in profit and loss.
+Classification and measurement – financial liabilities:
+Financial  liabilities  are  classified  as  measured  at  amortised  cost  or  FVTPL.  A  financial  liability  is  classified  as 
+at FVTPL if it is classified as held-for-trading, it is a derivative or it is designated as such on initial recognition. 
+Financial liabilities at FVTPL are measured at fair value and net gains and losses, including any interest expense, 
+are recognised in profit or loss. Other financial liabilities are subsequently measured at amortised cost using the 
+effective interest method. Interest expense and foreign exchange gains and losses are recognised in profit or 
+loss. Any gain or loss on derecognition is also recognised in profit or loss.
+Financial guarantee contracts: These are initially measured at their fair values and, are subsequently measured 
+at the higher of the amount of loss allowance determined or the amount initially recognised less, the cumulative 
+amount of income recognised.
+Other financial liabilities: These are measured at amortised cost using the effective interest method.
+Equity instruments:
+An  equity  instrument  is  any  contract  that  evidences  residual  interests  in  the  assets  of  the  Company  after 
+deducting all of its liabilities. Equity instruments issued by the Company are recorded at the proceeds received, 
+net of direct issue costs.
+ii)  Determination of fair value:
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction 
+between market participants at the measurement date, regardless of whether that price is directly observable or 
+estimated using another valuation technique.
+The fair value of a financial instrument on initial recognition is normally the transaction price (fair value of the 
+consideration given or received).
+In estimating the fair value of an asset or liability, the Company takes into account the characteristics of the asset 
+or liability if market participants would take those characteristics into account when pricing the asset or liability 
+at the measurement date.
+Subsequent to initial recognition, the Company determines the fair value of financial instruments that are quoted 
+in  active  markets  using  the  quoted  bid  prices  (financial  assets  held)  or  quoted  ask  prices  (financial  liabilities 
+held) and using valuation techniques for other instruments. Valuation techniques include discounted cash flow 
+method and other valuation methods.
+iii)  Derecognition of financial assets and financial liabilities:
+The Company derecognises a financial asset only when the contractual rights to the cash flows from the asset 
+expires or it transfers the financial asset and substantially all the risks and rewards of ownership of the asset to 
+485

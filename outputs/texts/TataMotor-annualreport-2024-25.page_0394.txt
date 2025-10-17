@@ -1,0 +1,146 @@
+Valuation  techniques  with  significant  unobservable  inputs  (Level  3):  This  level  of  hierarchy  includes  financial 
+assets and liabilities measured using inputs that are not based on observable market data (unobservable inputs). 
+Fair values are determined in whole or in part, using a valuation model based on assumptions that are neither 
+supported by prices from observable current market transactions in the same instrument nor are they based 
+on  available  market  data.  The  main  items  in  this  category  are  investments  in  certain  unquoted  debentures 
+and equity.
+Financial assets measured at fair value
+(a)
+Investments
+(b) Derivative assets
+Total
+Financial liabilities measured at fair value
+(a)
+(b)
+Derivative liabilities
+Financial Liabilities (Compulsorily convertible 
+preference shares)
+Total
+Level 1
+Level 2
+Level 3
+Total
+As at March 31, 2025
+(₹ in crores)
+8,041
+-
+8,041
+-
+-
+-
+-
+8,439
+8,439
+2,424
+-
+2,424
+1,475
+-
+1,475
+-
+2,464
+2,464
+9,516
+8,439
+17,955
+2,424
+2,464
+4,888
+Costs of certain unquoted equity instruments have been considered as an appropriate estimate of fair value 
+because these investments are subject to a wide range of possible fair value measurements and cost represents 
+the  best  estimate  of  fair  value  within  that  range.  These  investments  in  equity  instruments  are  not  held  for 
+trading. Instead, they are held for medium or long-term strategic purpose. The Company has chosen to designate 
+these  investments  in  equity  instruments  as  at  FVTOCI  as  the  management  believe  that  this  provides  a  more 
+meaningful presentation for medium or long-term strategic investments, than reflecting changes in fair value in 
+profit or loss.
+Fair values of forward derivatives and commodity swap contracts are estimated by discounting expected future 
+contractual  cash  flows  using  prevailing  market  interest  rate  curves.  Option  contracts  are  fair  valued  using 
+standard options pricing methodology, based on prevailing market interest rates and volatility.
+Reconciliation of financial assets measured at fair value using significant observable input (Level 3)
+Balance at the beginning
+Disposal due to merger of Tata Motors Finance Ltd with Tata Capital Ltd (refer note 51)
+Originated / purchased during the year (net)
+Interest accrued on loans measured at FVOCI
+Disposals during the year
+Loan loss provision reversed 
+Fair value changes recognized through OCI
+Fair value changes recognized through Profit and Loss (unrealised)
+Foreign exchange translation difference
+Balance at the end
+Year ended
+March 31, 2025
+18,093
+(16,821)
+73
+-
+-
+-
+132
+(19)
+17
+1,475
+(₹ in crores)
+Year ended
+March 31, 2024
+18,155
+-
+4,275
+25
+(4,152)
+(113)
+(137)
+15
+25
+18,093
+(₹ in crores)
+Financial assets measured at fair value
+(a)
+Investments
+(b) Derivative assets
+(c)
+Finance receivables
+Total
+Financial liabilities measured at fair value
+(a)
+(b)
+Liabilities 
+(Compulsorily 
+Derivative liabilities
+Financial 
+preference shares)
+Total
+Level1
+Level2
+Level3
+Total
+As at March 31, 2024
+3,855
+-
+-
+3,855
+-
+-
+-
+-
+6,269
+-
+6,269
+4,243
+-
+4,243
+1,343
+-
+16,750
+18,093
+-
+2,548
+2,548
+convertible 
+5,198
+6,269
+16,750
+28,217
+4,243
+2,548
+6,791
+390

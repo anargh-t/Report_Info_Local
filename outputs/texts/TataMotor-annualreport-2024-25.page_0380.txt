@@ -1,0 +1,109 @@
+Inflation risk
+Some of the Company’s pension obligations are linked to inflation, and higher inflation will lead to higher liabilities 
+(although,  in  most  cases,  caps  on  the  level  of  inflationary  increases  are  in  place  to  protect  the  plan  against  high 
+inflation). The plans hold a significant proportion of assets in index linked gilts, together with other inflation hedging 
+instruments and also assets which are more closely correlated with inflation. However an increase in inflation will also 
+increase the deficit to some degree.
+Life expectancy
+The majority of the plan’s obligations are to provide benefits for the life of the member, so increases in life expectancy 
+will result in an increase in the plan’s liabilities. This is particularly significant in the UK defined benefit plans, where 
+inflationary increases result in higher sensitivity to changes in life expectancy.
+The following table sets out the disclosure pertaining to employee benefits of Jaguar Land Rover Limited
+Particulars
+Change in defined benefit obligation:
+Defined benefit obligation, beginning of the year
+Service cost
+Interest cost
+Remeasurements  (gains) / losses
+Actuarial (gains)/losses arising from changes in demographic assumptions
+Actuarial (gains)/losses arising from changes in financial assumptions 
+Actuarial (gains)/losses arising from changes in experience adjustments on plan 
+liabilities 
+Benefits paid
+Member contributions
+Foreign currency translation
+Defined benefit obligation, end of the year
+Change in plan assets:
+Fair value of plan assets, beginning of the year
+Interest Income
+Remeasurements gains / (losses)
+Return on  plan assets, (excluding amount included in net Interest expense)
+Employer’s contributions
+Members contributions
+Benefits paid
+Administrative Expenses
+Foreign currency translation
+Fair value of plan assets, end of the year
+(₹ in crores)
+Pension benefits
+Year ended 
+March 31, 2025
+Year ended
+March 31, 2024
+53,611
+712
+2,729
+(529)
+(5,404)
+453
+(2,384)
+11
+2,770
+51,969
+56,525
+2,912
+(5,555)
+831
+11
+(2,384)
+(97)
+2,943
+55,186
+51,725
+656
+2,466
+(229)
+(1,524)
+884
+(2,102)
+10
+1,725
+53,611
+58,206
+2,809
+(5,088)
+895
+10
+(2,102)
+(104)
+1,899
+56,525
+The actual loss on the schemes’ assets for the year ended March 31, 2025 was ₹ 2,712 crores (2024: ₹  2,279  crores).
+Amount recognized in the balance sheet consist of:
+Particulars
+Present value of defined benefit obligation
+Fair value of plan Assets
+Net Assets
+Amount recognized in the balance sheet consist of:
+Non- current assets
+Non -current liabilities
+Net Assets
+(₹ in crores)
+Pension benefits
+As at  
+March 31, 2025
+As at 
+March 31, 2024
+51,969
+55,186
+3,217
+3,462
+(245)
+3,217
+53,611
+56,525
+2,914
+3,151
+(237)
+2,914
+376

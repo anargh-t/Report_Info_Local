@@ -1,0 +1,145 @@
+Scope of the ESG Databook
+The information cited in this ESG Databook for the period 1st April 2024 to 31st March 2025 is with reference to the GRI Standards. 
+The reporting boundary includes Tata Motors Limited  along with its two  wholly owned subsidiaries, Tata Motors Passenger 
+Vehicles  Limited  (TMPVL)  and  Tata  Passenger  Electric  Mobility  Limited  (TPEML).  The  scope  of  this  report  excludes  the  joint 
+operations of Tata Cummins Private Ltd. 
+Vehicle Production
+Category
+Number of Vehicles produced
+Environment related data
+Category
+Energy from Non-renewable sources
+Energy Consumption
+LPG
+Propane
+CNG
+Natural Gas
+LNG
+Petrol
+Diesel
+Petrol E20
+Petrol E93
+Electricity
+Energy from Renewable sources
+Total energy consumed
+Total non-renewable energy consumption
+Electricity
+Total renewable energy consumption
+Unit
+Number
+FY25
+FY24
+9,35,868
+9,74,434
+Unit
+GJ
+GJ
+GJ
+GJ
+GJ
+GJ
+GJ
+GJ
+GJ
+GJ
+GJ
+GJ
+GJ
+GJ
+FY25
+48,735
+3,63,068
+7,328
+4,00,833
+1,737
+23,075
+FY24
+53,223
+4,20,708
+4,819
+3,56,511
+2,971
+19,757*
+1,32,367
+1,62,375*
+5,478
+111
+10,61,128
+20,43,861
+8,96,271
+8,96271
+29,40,132
+3,016
+0
+11,96,782
+22,20,162*
+6,97,039*
+6,97,039
+29,17,201
+*The numbers for FY 24 have been restated due to reclassification of green attribute ownership for renewable electricity and enhanced coverage of fuel 
+consumption points.
+Category
+Energy Intensity
+Energy Intensity
+Intensity per vehicle
+Unit
+GJ/vehicle 
+produced
+FY25
+3.14
+FY24
+2.99*
+*The numbers for FY 24 have been restated due to reclassification of green attribute ownership for renewable electricity and enhanced coverage of fuel 
+consumption points
+Category
+Energy consumption Reduction due to 
+Energy Conservation Initiatives
+Reduction in Electricity
+Reduction in Fuel
+Reduction Of Energy Consumption
+Surface water
+Groundwater
+Third-party water
+Total
+Water Withdrawal
+Category
+Freshwater (≤1,000 mg/L TDS)
+Other water (>1,000 mg/L TDS)
+Freshwater (≤1,000 mg/L TDS)
+Other water (>1,000 mg/L TDS)
+Freshwater (≤1,000 mg/L TDS)
+Other water (>1,000 mg/L TDS)
+Unit
+GJ
+GJ
+Unit
+Kiloliters
+Kiloliters
+Kiloliters
+Kiloliters
+Kiloliters
+Kiloliters
+Kiloliters
+FY25
+75,919
+48,811
+FY24
+24,941
+31,547
+FY25
+FY24
+2,13,381
+0
+6,67,560
+0
+37,96,632
+0
+46,77,573
+2,49,108
+0
+5,71,963
+0
+42,13,408
+0
+50,34,479
+578

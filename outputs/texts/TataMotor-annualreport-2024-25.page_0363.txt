@@ -1,0 +1,96 @@
+32  Other current liabilities
+Statutory dues (VAT, Excise, Service Tax, GST, Octroi etc.)
+(a)
+Contract liabilities [refer note (i) & (ii) below]
+(b) Deferred government grants [refer note (iii) below]
+(c)
+(d) Deferred income [refer note 8 (a)(ii)]
+(e) Others
+Total
+Note:
+(i)
+Opening contract liabilities
+Amount recognised in revenue
+Amount received in advance during the year
+Amount refunded to customers
+Disposal due to merger of Tata Motors Finance Ltd with Tata Capital Ltd (refer note 51)
+Currency translation
+Closing contract liabilities
+(ii)
+Contract liabilities include
+Advances received from customers
+Deferred income
+Total contract liabilities
+(iii)  Government grants include :
+Current
+Current
+Non-current
+As at
+March 31, 2025
+8,636
+777
+3,766
+33
+128
+13,340
+As at
+March 31, 2025
+15,102
+(8,058)
+9,409
+(188)
+(12)
+584
+16,837
+(₹ in crores)
+As at
+March 31, 2024
+7,604
+990
+4,265
+-
+131
+12,990
+(₹ in crores)
+As at
+March 31, 2024
+12,226
+(5,996)
+8,850
+(152)
+-
+174
+15,102
+(₹ in crores)
+As at
+March 31, 2025
+As at
+March 31, 2024
+3,934
+4,702
+8,201
+16,837
+3,637
+3,967
+7,498
+15,102
+a)  Government incentives includes ₹ 208 crores as at March 31, 2025 (₹ 186 crores as at March 31, 2024) grants 
+relating to property, plant and equipment related to duty saved on import of capital goods and spares under the 
+EPCG scheme. Under such scheme, the Company is committed to export prescribed times of the duty saved on 
+import of capital goods over a specified period of time. In case such commitments are not met, the Company 
+would be required to pay the duty saved along with interest to the regulatory authorities.
+ b)
+₹ 5,975 crores as at March 31, 2025 (₹ 4,392 crores as at March 31, 2024) relating to Research and Development 
+Expenditure Credit (RDEC) on qualifying expenditure incurred since April 1, 2013.
+33  Provisions
+(A)   Accounting policy
+A provision is recognised if, as a result of a past event, the Company has a present legal or constructive obligation 
+that can be estimated reliably, and it is probable that an outflow of economic benefits will be required to settle the 
+obligation. When the effect of the time value of money is material, provisions are determined by discounting the 
+expected future cash flows using a pre-tax rate that reflects current market assessments of the time value of money 
+and the risks specific to the liability.
+Product warranty expenses
+The  estimated  liability  for  product  warranties  are  recognized  when  products  are  sold  or  when  new  warranty 
+programmes are initiated. These estimates are established using historical information on the nature, frequency and 
+average  cost  of  warranty  claims  and  management  estimates  regarding  possible  future  warranty  claims,  customer 
+359

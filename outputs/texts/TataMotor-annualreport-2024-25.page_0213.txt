@@ -1,0 +1,57 @@
+C. 
+Emergency Preparedness & Continuous Improvement
+• 
+Regular  emergency  drills  test  response  readiness  for  scenarios  like  fire,  chemical  spills,  and  gas  leaks. 
+Incident  investigations  use  Root  Cause  Analysis  (RCA)  for  continual  safety  improvements.  AI-driven 
+platforms enable real-time risk prediction and management.
+Tata Motors’ data-driven, evolving safety framework integrates structured assessments, digital monitoring, 
+and worker participation to sustain a zero-harm culture across all operations.
+c)  Whether  you  have  processes  for  workers  to  report  the  work  related  hazards  and  to  remove  themselves  from 
+such risks.
+Yes, Tata Motors has robust and comprehensive processes in place for workers to report work-related hazards and 
+to remove themselves from such risks.  We firmly believe that a safe and healthy workplace is not just a desirable 
+outcome, but a fundamental right for every employee. Our commitment to this principle is reflected in the multi-
+faceted approach we take to hazard reporting and risk mitigation. We empower our employees to be active participants 
+in maintaining a safe work environment, providing them with the tools, training, and authority to identify, report, and, 
+when necessary, immediately remove themselves from potential hazards. This commitment is not merely a policy on 
+paper; it’s a deeply ingrained cultural value, reinforced through continuous training, open communication, and a clear 
+understanding that safety is everyone’s responsibility.
+1.  Multiple Reporting Mechanisms for Work-Related Hazards
+• 
+• 
+• 
+Digital Safety Reporting Platform: Employees can report hazards and near-misses in real-time through a 
+dedicated digital system (Safety Portal) integrated into the company’s safety management framework.
+Safety Observation (SO) Process: Workers identify and report unsafe acts, conditions, and near-misses for 
+prompt corrective action.
+Action Employee Can Take (AECT) Program: Encourages employees to take ownership of safety by flagging 
+and mitigating hazards proactively.
+•  Whistleblower  Mechanism  &  Open-Door  Policy:  Ensures  anonymous  reporting  and  protection  from 
+retaliation, fostering a culture of transparency and trust.
+• 
+Self-Directed  Team  (SDT)  &  Self-managed  Team  (SMT)  Safety  Point  Leaders:  On-ground  shop  floor 
+representatives of self-employees and Business partners lead hazard identification and reporting programs.
+2.   Empowering Workers to Remove Themselves from Unsafe Conditions
+• 
+• 
+• 
+• 
+• 
+Stop  Work  Authority  (SWA):  Employees  have  the  right  to  immediately  stop  work  if  they  perceive  an 
+imminent risk to health and safety.
+Escalation Procedures: Workers can escalate unresolved safety concerns to safety officers, supervisors, or 
+the site SHE team for immediate intervention.
+Joint  Safety  Committees:  Employee  representatives  actively  participate  in  safety  governance,  risk 
+assessments, and hazard control initiatives.
+Incident Investigation & Corrective Actions: Every reported hazard undergoes root cause analysis (RCA) 
+and triggers corrective and preventive actions with follow-up audits.
+Regular Safety Training & Toolbox Talks: Employees receive continuous safety training on identifying risks, 
+reporting hazards, and exercising their right to a safe work environment.
+Through this comprehensive approach, Tata Motors fosters a safety-first culture where employees are actively 
+involved in hazard identification, risk reporting, and workplace safety improvements.
+d)  Do the employees / worker of the entity have access to non-occupational medical and healthcare services?
+Tata Motors is committed to a safe, healthy, and sustainable workplace through a robust safety management system, 
+risk  mitigation  strategies,  and  continuous  improvement.  Integrating  ISO  45001  standards,  digital  tools,  predictive 
+analytics,  and  strong  governance,  the  company  promotes  a  zero-incident  culture  across  manufacturing,  research, 
+supply chains, and business partner ecosystems.
+209

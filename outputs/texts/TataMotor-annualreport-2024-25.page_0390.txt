@@ -1,0 +1,46 @@
+Classification and measurement – financial liabilities:
+Financial  liabilities  are  classified  as  measured  at  amortised  cost  or  FVTPL.  A  financial  liability  is  classified  as 
+at FVTPL if it is classified as held-for-trading, it is a derivative or it is designated as such on initial recognition. 
+Financial liabilities at FVTPL are measured at fair value and net gains and losses, including any interest expense, 
+are recognised in profit or loss. Other financial liabilities are subsequently measured at amortised cost using the 
+effective interest method. Interest expense and foreign exchange gains and losses are recognised in profit or 
+loss. Any gain or loss on derecognition is also recognised in profit or loss.
+Financial guarantee contracts: These are initially measured at their fair values and, are subsequently measured 
+at the higher of the amount of loss allowance determined or the amount initially recognized less, the cumulative 
+amount of income recognized.
+Other financial liabilities: These are measured at amortised cost using the effective interest method.
+Equity instruments:
+An  equity  instrument  is  any  contract  that  evidences  residual  interests  in  the  assets  of  the  Company  after 
+deducting all of its liabilities. Equity instruments issued by the Company are recorded at the proceeds received, 
+net of direct issue costs.
+(ii) 
+ Determination of fair value
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction 
+between market participants at the measurement date, regardless of whether that price is directly observable or 
+estimated using another valuation technique.
+The fair value of a financial instrument on initial recognition is normally the transaction price (fair value of the 
+consideration given or received).
+In estimating the fair value of an asset or liability, the Company takes into account the characteristics of the asset 
+or liability if market participants would take those characteristics into account when pricing the asset or liability 
+at the measurement date.
+Subsequent to initial recognition, the Company determines the fair value of financial instruments that are quoted 
+in  active  markets  using  the  quoted  bid  prices  (financial  assets  held)  or  quoted  ask  prices  (financial  liabilities 
+held) and using valuation techniques for other instruments. Valuation techniques include discounted cash flow 
+method and other valuation methods
+(iii)  Derecognition of financial assets and financial liabilities
+The Company derecognises a financial asset only when the contractual rights to the cash flows from the asset 
+expires or it transfers the financial asset and substantially all the risks and rewards of ownership of the asset to 
+another entity. If the Company neither transfers nor retains substantially all the risks and rewards of ownership 
+and continues to control the transferred asset, the Company recognises its retained interest in the asset and an 
+associated liability for amounts it may have to pay. If the Company retains substantially all the risks and rewards 
+of ownership of a transferred financial asset, the Company continues to recognise the financial asset and also 
+recognises  a  collateralised  borrowing  for  the  proceeds  received.  Any  gain  or  loss  arising  on  derecognition  is 
+recognised in profit or loss. When a financial instrument is derecognised, the cumulative gain or loss in equity 
+is transferred to the statement of profit and loss unless it was an equity instrument electively held at fair value 
+through other comprehensive income. In this case, any cumulative gain or loss in equity is transferred to retained 
+earnings. Financial assets are written off when there is no reasonable expectation of recovery. The Company 
+reviews the facts and circumstances around each asset before making a determination. Financial assets that are 
+written off could still be subject to enforcement activities.
+Financial liabilities are decrecognised when these are extinguished, that is when the obligation is discharged, 
+cancelled or has expired.
+386

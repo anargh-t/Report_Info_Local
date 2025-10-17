@@ -1,0 +1,125 @@
+Financial liabilities not measured at fair value
+(a)
+Long-term borrowings (including current maturities of long term 
+borrowing)
+(b)
+Short-term borrowings
+(c) Option premium accrual
+Total
+As at March 31, 2024
+Level 1
+Level 2
+Level 3
+Total
+(₹ in crores)
+ 3,652 
+ -   
+ -   
+ 3,479 
+ 6,683 
+ 74 
+ 3,652 
+ 10,236 
+ -   
+ -   
+ -   
+ -   
+ 7,131 
+ 6,683 
+ 74 
+ 13,888 
+Other short-term financial assets and liabilities are stated at amortised cost which is approximately equal to their 
+fair value.
+The fair value of borrowings which have a quoted market price in an active market is based on its market price 
+and for other borrowings the fair value is estimated by discounting expected future cash flows, using a discount 
+rate  equivalent  to  the  risk-free  rate  of  return,  adjusted  for  the  credit  spread  considered  by  the  lenders  for 
+instruments of similar maturity.
+Management uses its best judgment in estimating the fair value of its financial instruments. However, there are 
+inherent limitations in any estimation technique. Therefore, substantially for all financial instruments, the fair 
+value estimates presented above are not necessarily indicative of all the amounts that the Company could have 
+realised or paid in sale transactions as of respective dates. As such, the fair value of the financial instruments 
+subsequent to the respective reporting dates may be different from the amounts reported at each period end.
+(b)   Offsetting :
+Certain  financial  assets  and  financial  liabilities  are  subject  to  offsetting  where  there  is  currently  a  legally 
+enforceable right to set off recognised amounts and the Company intends to either settle   on a net basis, or to 
+realise the asset and settle the liability, simultaneously.
+Certain derivative financial assets and financial liabilities are subject to master netting arrangements, whereby 
+in the case of insolvency, derivative financial assets and financial liabilities will be settled on a net basis.      
+The following table discloses the amounts that have been offset, in arriving at the balance sheet presentation 
+and the amounts that are available for offset only under certain conditions as at March 31, 2025:
+Gross amount 
+recognised
+Gross amount 
+recognised 
+as set off in 
+the balance 
+sheet
+Net amount 
+presented in 
+the balance 
+sheet
+ 495 
+ 2,380 
+ 2,875 
+ -   
+ (100)
+ (100)
+ 495 
+ 2,280 
+ 2,775 
+Financial assets
+(a)
+(b)
+Derivative financial instruments
+Trade receivables
+Total
+Financial liabilities
+(a)
+(b)
+Derivative financial instruments
+ 8 
+ -   
+ 8 
+Trade 
+acceptances
+payables 
+including 
+Total
+ 13,367 
+ 13,375 
+ (100)
+ (100)
+ 13,267 
+ 13,275 
+Amounts subject to an 
+enforceable master netting 
+arrangement
+Financial 
+instruments
+Cash 
+collateral 
+(received/ 
+pledged)
+(₹ in crores)
+Net amount 
+after 
+offsetting
+ (7)
+ -   
+ (7)
+ (7)
+ -   
+ (7)
+ -   
+ -   
+ -   
+ -   
+ -   
+ -   
+ 488 
+ 2,280 
+ 2,768 
+ 1 
+ 13,267 
+ 13,268 
+490

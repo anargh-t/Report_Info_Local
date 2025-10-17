@@ -1,0 +1,96 @@
+13. 
+Is the entity compliant with the applicable environmental law / regulations / guidelines in India; such as the Water 
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, and Environment protection act 
+and rules thereunder. If not, provide details of all such non-compliances:
+All TML entities fully comply with the applicable environmental laws, regulations, and guidelines set forth by regulatory 
+authorities. No significant instances of non-compliance have been reported across any of our plants.
+Leadership Indicators
+1.  Water withdrawal, consumption and discharge in areas of water stress (in kilolitres). For each facility / plant located in 
+areas of water stress, provide the following information:
+I.  Name of the area: The water stress areas have been identified based on the 2024 National Compilation on Dynamic 
+Ground  Water  Resources  of  India  Report  by  the  Central  Ground  Water  Board.  According  to  this  report,  only  the 
+Jamshedpur  plant  location  has  been  classified  as  ‘Over-Exploited’,  while  all  other  plant  locations  are  classified  as 
+‘Safe’. No groundwater abstraction is being carried out to meet the industrial and residential water requirements 
+in Jamshedpur.
+II.  Nature of operations : Automobile Manufacturing
+III.  Water withdrawal, consumption and discharge in the following format:
+Parameter
+Water withdrawal by source (in kilolitres)
+(i) Surface water
+(ii) Groundwater
+(iii) Third party water
+(iv) Seawater / desalinated water
+(v) Others
+Total volume of water withdrawal (in kilolitres)
+Total volume of water consumption (in kilolitres)
+Water intensity per rupee of turnover (water consumed / turnover)
+Water discharge by destination and level of treatment (in kilolitres)
+(i)  
+Into surface water
+- No treatment
+- With treatment – please specify level of treatment
+(ii)  
+(iii)  
+Into groundwater
+- No treatment
+- With treatment – please 
+Specify level of treatment
+Into seawater
+- No treatment
+- With treatment – please specify level of treatment
+(iv)   Sent to third-parties
+- No treatment
+- With treatment – please specify level of treatment
+(v)   Others
+- No treatment
+- With treatment – please specify level of treatment
+Total water discharged (in kilolitres)
+Indicate if any independent assessment / evaluation / assurance has been carried out by an 
+external agency? If Yes, name of the external agency.
+FY 25
+FY 24
+64,514 
+0
+ 8,41,357 
+0
+0
+ 9,05,871 
+ 7,20,306
+0.00000106
+68,344
+0
+10,12,610
+0
+0
+10,80,954
+9,76,828
+0.00000136
+0
+1,85,565
+(TDS 478 mg/L)
+0
+1,04,126
+(TDS 602 mg/L)
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0 
+0 
+ 0
+0 
+ 0
+ 0
+1,85,565
+0 
+0 
+1,04,126
+Yes, KPMG Assurance and Consulting 
+Services LLP has provided limited 
+assurance on data reported under this 
+indicator.
+231

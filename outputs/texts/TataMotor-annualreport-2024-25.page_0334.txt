@@ -1,0 +1,56 @@
+The carrying amount of goodwill has been allocated to CGU as follows:
+Passenger vehicles - automotive and related activity segment (Tata and other brand vehicles)
+Others - software consultancy and service
+Total
+(₹ in crores)
+As at
+March 31, 2025
+As at
+March 31, 2024
+99
+796
+895
+99
+761
+860
+The recoverable amount has been determined based on value in use. Value in use has been determined based on future 
+cash flows, after considering current economic conditions and trends, estimated future operating results, growth rates and 
+anticipated future economic conditions.
+As at March 31, 2025, the estimated cash flows for a period of five years were developed using internal forecasts, and a 
+pre-tax discount rate of 12.20% (2024: 16.22%). The cash flows beyond five years have been extrapolated assuming 5% 
+long-term growth rates. The management believes that any reasonably possible change in the key assumptions would not 
+cause the carrying amount to exceed the recoverable amount of the cash generating unit. 
+6   Other Intangible assets
+(A)  Accounting policy
+Intangible assets purchased, including those acquired in business combinations, are measured at cost which is the  fair 
+value as of the date of acquisition where applicable less accumulated amortization and impairment, if any. Intangible 
+assets with indefinite lives are reviewed annually to determine whether an indefinite-life assessment continues to be 
+supportable. If not, the change in the useful-life assessment from indefinite to finite is made on a prospective basis.
+For intangible assets with finite lives, amortization is provided on a straight-line basis over the estimated useful lives 
+of the acquired intangible assets as per the estimated amortisation period below
+Type of Asset
+Patents and technological know-how                               
+Software                                                                                                  
+Customer related intangibles - Dealer network                 
+Intellectual property rights                                                    
+Product development costs
+Estimated 
+amortisation period
+ 2 to 12 years 
+ 1 to 8 years 
+ 20 years 
+ 3 to 10 years 
+ 2 to 10 years 
+The amortisation period for intangible assets with finite useful lives is reviewed at least at each year-end. Changes in 
+expected useful lives are treated as changes in accounting estimates.
+Internally generated intangible asset
+Research costs are charged to the consolidated statement of profit and loss in the year in which they are incurred.
+Product development costs incurred on new vehicle platform, engines, transmission and new products are recognised 
+as intangible assets, when feasibility has been established, the Company has committed technical, financial and other 
+resources to complete the development and it is probable that asset will generate probable future economic benefits.
+The  costs  capitalised  include  the  cost  of  materials,  direct  labour  and  directly  attributable  overhead  expenditure 
+incurred up to the date the asset is available for use. Interest cost incurred is capitalised up to the date the asset is 
+ready for its intended use, based on borrowings incurred specifically for financing the asset or the weighted average 
+rate of all other borrowings if no specific borrowings have been incurred for the asset.
+Product development expenditure is measured at cost less accumulated amortisation and impairment, if any.
+330

@@ -1,0 +1,186 @@
+For the 2025 year end calculations there is an allowance for future improvements in line with the CMI (2023) projections 
+and an allowance for long-term improvements of 1.25% per annum and a smoothing parameter of 7.0, default core 
+initial improvements parameter (A) of zero and annual weight parameter for both 2020 and 2021 of zero and 15% 
+weighting for 2023. (2024: CMI (2022) projections with 1.25% per annum improvements and a smoothing parameter 
+of 7.0).
+The assumed life expectations on retirement at age 65 are (years)
+Retiring today :
+Males
+Females
+Retiring in 20 years :
+Males
+Females
+Pension plans asset allocation by category is as follows:
+Pension benefits
+As at 
+March 31, 2025
+As at 
+March 31, 2024
+21.0
+23.4
+22.4
+25.3
+21.0
+23.5
+22.5
+25.4
+(₹ in crores)
+As at March 31,2025
+As at March 31, 2024
+Quoted
+Unquoted
+Total
+Quoted
+Unquoted
+Total
+Equity Instruments
+Information Technology
+Energy
+Manufacturing
+Financials
+Others
+Debt Instruments
+Government
+Corporate Bonds (Investment Grade)
+Corporate  Bonds 
+Grade)
+(Non 
+Investment 
+Property Funds
+UK
+Other
+-
+-
+-
+-
+-
+-
+23,882
+9,234
+-
+33,116
+-
+-
+-
+Cash and cash equivalents
+3,831
+Other
+Private Markets
+Alternatives
+Derivatives
+Foreign exchange contracts
+Interest Rate and inflation swaps
+-
+-
+-
+-
+-
+-
+576
+89
+487
+664
+1,539
+3,355
+(9,544)
+1,617
+6,001
+(1,926)
+3,565
+2,447
+6,012
+-
+9,126
+1,705
+10,831
+-
+(33)
+(33)
+576
+89
+487
+664
+1,539
+3,355
+14,338
+10,851
+6,001
+31,190
+3,565
+2,447
+6,012
+3,831
+9,126
+1,705
+10,831
+-
+(33)
+(33)
+-
+-
+-
+-
+-
+-
+21,572
+9,589
+-
+31,161
+-
+-
+-
+4,233
+-
+-
+-
+-
+-
+-
+840
+116
+630
+273
+1,145
+3,004
+(5,871)
+1,544
+5,461
+1,134
+3,529
+2,773
+6,302
+-
+9,095
+1,586
+10,681
+(63)
+73
+10
+840
+116
+630
+273
+1,145
+3,004
+15,701
+11,133
+5,461
+32,295
+3,529
+2,773
+6,302
+4,233
+9,095
+1,586
+10,681
+(63)
+73
+10
+Total
+36,947
+18,239
+55,186
+35,394
+21,131
+56,525
+378

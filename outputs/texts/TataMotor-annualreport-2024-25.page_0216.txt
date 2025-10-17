@@ -1,0 +1,76 @@
+The audit findings presented at the Corporate Standard and Procedure (S&P) Subcommittee and subsequently at the 
+SHS Council for review and action planning. The insights gathered drive corrective and preventive actions (CAPA), 
+enhance Business partner safety management, and strengthen leadership engagement in safety governance.
+Through comprehensive governance structures, risk-based programs, digital safety interventions, and employee well-
+being initiatives, Tata Motors continues to drive a safe and healthy workplace, reinforcing its commitment to Zero 
+Harm and safety excellence.
+11.  Details of safety related incidents
+Safety Incident / Number
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person 
+hours worked)
+Total recordable work-related injuries
+No. of fatalities
+High consequence work-related injury or ill-health (excluding 
+fatalities)
+Category*
+Employees
+Workers
+Employees
+Workers
+Employees
+Workers
+Employees
+Workers
+FY 25
+0.12**
+0.18
+54
+17
+Nil
+1
+Nil
+Nil
+FY 24
+0.27
+0.16
+79
+21
+1
+Nil
+Nil
+Nil
+ *For safety metrics, employees include both white collar employees & blue-collar workers on roll with Tata Motors while workers consist of the 
+third-party contractual workforce and business partners.
+**Initiatives detailed in Q.10 above has led to an improvement in LTIFR
+12.  Describe the measures taken by the entity to ensure a safe and healthy workplace.
+Tata  Motors  is  dedicated  to  ensuring  a  safe,  healthy,  and  sustainable  work  environment  through  a  robust  safety 
+management  system,  proactive  risk  mitigation,  and  continuous  improvement.  By  adhering  to  global  safety  standards 
+(ISO 45001), using advanced technology, and engaging workers, the Company minimizes hazards and promotes employee 
+well-being. Leveraging behavior-based safety (BBS), digital tools, predictive analytics, and strong governance, Tata Motors 
+fosters a zero-incident culture across operations.
+Key Safety Approaches
+• 
+Governance & Oversight
+Tata Motors integrates Occupational Health & Safety (OH&S) into governance with multi-tiered safety committees 
+ensuring leadership accountability and regular reviews.
+• 
+Risk Mitigation & Core Safety Programs (CTS)
+The Company eliminates hazards through engineering and administrative controls, with over 1,200 Critical to Safety 
+(CTS) stations to monitor high-risk areas and reduce injuries.
+• 
+Business Partner Safety Management
+Safety  protocols  extend  to  contractors  through  risk-based  categorization,  Star  Ratings,  and  Self-Managed  Teams 
+(SMTs) to ensure safety across the supply chain.
+• 
+AI & Digital Safety Interventions
+AI-driven tools monitor PPE adherence and enhance workplace safety, including 13 pilot projects like PPE monitoring 
+and video analytics.
+• 
+Employee Health & Wellness
+Tata  Motors  offers  wellness  programs,  health  screenings,  fitness  initiatives,  and  mental  health  support,  with 
+Occupational Health Centres (OHCs) and Employee Assistance Programs (EAPs).
+• 
+People & Performance Recognition
+Safety culture is promoted through Spot Awards, Safety Competitions, and a Train-the-Trainer Program to develop 
+leadership in safety.
+212

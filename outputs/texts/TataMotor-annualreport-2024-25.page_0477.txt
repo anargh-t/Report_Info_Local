@@ -1,0 +1,70 @@
+(iv)   Post-retirement medicare scheme
+Under this unfunded scheme, employees of Tata Motors Limited receive medical benefits subject to certain 
+limits on amounts of benefits, periods after retirement and types of benefits, depending on their grade and 
+location at the time of retirement. Employees separated from the Company as part of an Early Separation 
+Scheme, on medical grounds or due to permanent disablement are also covered under the scheme. Tata 
+Motors Limited account for the liability for post-retirement medical scheme based on an actuarial valuation.
+(v)   Compensated absences
+The Company provides for the encashment of leave or leave with pay subject to certain rules. The employees 
+are entitled to accumulate leave subject to certain limits, for future encashment. The liability is provided 
+based on the number of days of unutilised leave at each balance sheet date on the basis of an independent 
+actuarial valuation.
+(vi)   Remeasurement gains and losses
+Remeasurement comprising actuarial gains and losses, the effect of the asset ceiling and the return on assets 
+(excluding interest) relating to retirement benefit plans, are recognised directly in other comprehensive 
+income in the period in which they arise. Remeasurement recorded in other comprehensive income is not 
+reclassified to statement of Profit and Loss.
+Actuarial gains and losses relating to long-term employee benefits are recognised in the statement of Profit 
+and Loss in the period in which they arise.
+(vii)  Measurement date
+The measurement date of retirement plans is March 31.
+The present value of the defined benefit liability and the related current service cost and past service cost 
+are measured using projected unit credit method.
+The  present  value  of  the  post-employment  benefit  obligations  depends  on  a  number  of  factors,  it  is 
+determined on an actuarial basis using a number of assumptions. The assumptions used in determining the 
+net cost/(income) for pensions include the discount rate, inflation and mortality assumptions. Any changes 
+in these assumptions will impact upon the carrying amount of post-employment benefit obligations. Key 
+assumptions and sensitivities for post employment benefit obligations are disclosed in note below.
+(b)  Employee benefits consists of the following:
+(i) 
+ Defined Benefit Plan
+Pension (Gratuity and BKY) and post retirement medical plans
+The  following  tables  sets  out  the  funded  and  unfunded  status  and  the  amounts  recognised  in  the  financial 
+statements for the pension and the post retirement medical plans in respect of Tata  Motors and joint operations:
+Pension Benefits
+Post retirement medical Benefits
+Year ended March 31,
+Year ended March 31,
+2025
+2024
+2025
+2024
+(₹ in crores)
+Change in defined benefit obligations :
+Defined benefit obligation, beginning of the 
+year
+Defined Benefit Obligation for 
+Superanuation
+Current service cost
+Interest cost
+Remeasurements  (gains) / losses
+ 1,316 
+ 1,193 
+ -   
+ 81 
+ 89 
+ (12)
+ 74 
+ 82 
+ 393 
+ -   
+ 17 
+ 27 
+ Actuarial  gain/(loss)  arising 
+changes in demographic assumptions
+from 
+ (12)
+ 4 
+ (27)
+ 328 
+ -

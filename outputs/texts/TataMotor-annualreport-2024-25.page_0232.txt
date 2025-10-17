@@ -1,0 +1,84 @@
+Plant Locations
+Pimpri, Pune
+Chinchwad, Pune
+Jamshedpur
+Lucknow
+Pantnagar
+Dharwad
+Total
+Total Roof Top PV Solar installed capacity till FY 24 in MWp
+18.5
+2.4
+11.5
+6.1
+16
+1
+55.5
+Energy  Conservation  (ENCON)  projects  are  implemented  across  all  the  Plants  and  Offices  in  a  planned  and  budgeted 
+manner. In FY25, ENCON Projects led to a cumulative reduction of 44.1 lakh kWh of electricity and 12908 GJ of fuel, which 
+amounted to a reduction of 3978 tCO2 of greenhouse gas emissions. Some of the major ENCON projects in FY25 include:
+• 
+Optimization of compressed air consumption at the Foundry, resulting in significant energy savings and reduction in 
+CO2 emissions.
+Elimination of the Sealer Oven process in the Paint Shop, leading to substantial energy conservation.
+Implementation of Variable Refrigerant Flow (VRF) systems in the Engine Assembly and Power Train areas to enhance 
+energy efficiency.
+Achievement  of  energy  savings  through  Foundry  yield  improvement  initiatives,  realizing  an  average  2%  yield 
+improvement across various items, contributing to significant unit and energy savings.
+Eliminated  sealer  baking  process  on  paint  shop  by  implementation  of  wet-on-wet  sealer  Paint  Shop  to  reduce 
+propane consumption.
+Heat Pump utilization for Paint shop Process tank heating.
+Digitization and furnace optimization in heat treatment area.
+Energy efficient HVLS fans installation at various assembly lines.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+9. 
+Provide details related to waste management by the entity:
+The  waste  generated  from  our  operations  comprises  a  diverse  range  of  both  hazardous  and  non-hazardous  materials, 
+along with scrap material. Our waste management practices are governed by the Hazardous Waste Authorization issued 
+by the respective State Pollution Control Boards where we operate. Continuously, our operations drive initiatives aimed 
+at eliminating, minimizing, and recycling waste in accordance with  legal  regulations and  available opportunities.  These 
+initiatives encompass various activities, including material recovery through authorized recyclers for items such as used 
+oil,  solvents,  paint  sludge,  and  used  foundry  sand  (reclaimed  and  reused).  Additionally,  we  engage  in  co-processing 
+hazardous waste as alternate fuel and raw material, including paint sludge, phosphate sludge, ETP sludge grinding waste, 
+oily  rags,  and  composting  of  food  waste.  Furthermore,  we  ensure  the  recycling  of  metal  and  non-metal  scrap  through 
+authorized recyclers.
+Furthermore, we are committed to achieving Zero Waste to Landfill across our operations by the end of the decade. We 
+are carrying this message across our value chain to our supply chain and channel partners.
+Total waste generated (in metric tonnes)
+Plastic waste (A)
+E-waste (B)
+Bio-medical waste (C)
+Construction and demolition waste (D)
+Battery waste (E)
+Radioactive waste (F)
+Other hazardous waste. Please specify, if any. (G)
+Other non-hazardous waste generated (H). Please specify, if any. (Break-up by composition 
+i.e. by materials relevant to the sector)
+FY 25
+FY 24
+1,994
+ 137 
+ 2.8 
+6,244
+ 202 
+Nil
+3,934
+90,087*
+1,959$
+76
+1.98
+3,180
+233
+Nil
+4,009
+81,488$
+Total (A+B + C + D + E + F + G + H)
+ 1,02,601
+90,947
+228

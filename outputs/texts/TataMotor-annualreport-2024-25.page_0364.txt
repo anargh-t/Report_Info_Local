@@ -1,0 +1,49 @@
+goodwill and recall complaints The timing of outflows will vary depending on when warranty claim will arise, being 
+typically up to six years and for batteries in electric vehicles warranty period is typically up to eight years. The Company 
+also has back-to-back contractual arrangement with its suppliers in the event that a vehicle fault is proven to be a 
+supplier’s fault.
+The Company’s calculation methodology uses detailed historical data corrected for experience as information becomes 
+available as well as individual campaign assumptions (such as scope, uptake rates and repair costs). The calculated 
+provisions are compared to current spend rates to assess balances versus expected future obligations. This can lead 
+to changes in the carrying value of provisions as assumptions are updated over the life of each warranty to reflect 
+where actual experience differs to past experience, for example due to higher inflation or timing of claims impacting 
+disbursement curve analysis. However, there are no individual assumptions that can be reasonably expected to move 
+over the next financial year to such a degree that it would result in a material adjustment to the warranty provision.
+The Company notes that changes in the automotive environment regarding the increasing impact of battery electric 
+vehicles presents its own significant challenges, particularly due to the lack of maturity and historical data available 
+at this time to help inform estimates for future warranty claims, as well as any associated recoveries from suppliers 
+due to such claims. The related provisions are made with the Company’s best estimate at this time to settle such 
+obligations in the future but will be required to be continually refined as sufficient, real-world data becomes available.  
+The discount on the warranty provision is calculated using a risk-free discount rate as the risks specific to the liability, 
+such as inflation, are included in the base calculation.
+Estimates of the future costs of warranty actions are subject to numerous uncertainties, including the enactment 
+of  new  laws  and  regulations,  the  number  of  vehicles  affected  by  a  service  or  recall  action  and  the  nature  or  final 
+cost of the corrective action. Due to the uncertainty and potential volatility of the inputs to these assumptions, it is 
+reasonably possible that the actual cost expenditure over an extended period of time could be materially different 
+to  the  estimate  in  a  range  of  amounts  that  cannot  be  reasonably  estimated.  The  Company  continues  to  monitor 
+developments  in  global  macroeconomic  conditions  and  potential  mitigation  strategies,  including  the  global  tariff 
+environment, and adjusts the provision if required.
+Estimates are made of the expected reimbursement claim based upon historical levels of recoveries from supplier, 
+adjusted for inflation and applied to the population of vehicles under warranty as on balance sheet date. Supplier 
+reimbursements are recognised as a separate asset.
+Third party claims and obligations 
+A provision is maintained in respect of legal and constructive obligations to third parties. This includes claims and 
+obligations related to supplier claims, motor accident claims, consumer complaints, retailer terminations, employment 
+cases and personal injury claims. The decrease in the period is driven predominantly by supplier claims as a result of 
+ongoing negotiations and lower levels of new claims.
+The provision recognised is based on previous experience, which is considered as a reasonable assumption to estimate 
+the final settlement, if any, at the time of the claim. The timing and amount of outflows will vary with decreasing 
+uncertainty from the point at which each claim is received to when it is subsequently settled.
+Emissions compliance
+The Company maintains a provision for sales non-compliant with legal emissions requirements for certain jurisdictions. 
+The best estimate of the expenditure required to settle the non-compliance at the balance sheet date is determined 
+by considering the ways in which the Company can mitigate non-compliance with the emissions requirements. These 
+include purchasing emission credits at the estimated market rate based on latest market information, or paying the 
+legislated fine amount where a market indicative credit price cannot be estimated; and, subject to the terms of the 
+relevant legislation, generating credits by producing and selling compliant vehicles in the future. Legislation is regularly 
+monitored for changes to the emissions requirements across the various jurisdictions relevant to the Company and 
+where changes or new legislation is virtually certain to be enacted, these are used as basis in determining the best 
+estimate  for  the  provision  measurement.  The  measurement  of  the  provision  at  the  balance  sheet  date  does  not 
+include the impact of credits forecast to be generated in the future via the production and sale of compliant vehicles.
+The timing of outflows will vary and is not known with certainty. The actual cash outflow may differ to the estimate.
+360

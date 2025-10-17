@@ -1,0 +1,46 @@
+43  Financial instruments
+(A)  Accounting policy
+(i)  Recognition
+A financial instrument is any contract that gives rise to a financial asset of one entity and a financial liability or 
+equity instrument of another entity. Trade receivables and debt securities issued are initially recognised when 
+they are originated. All other financial instruments are initially recognised when the Company becomes a party 
+to the contractual provisions of the instrument.
+Initial measurement
+Financial  instruments  are  initially  recognised  at  its  fair  value.  Transaction  costs  directly  attributable  to  the 
+acquisition  or  issue  of  financial  instruments  are  recognised  in  determining  the  carrying  amount,  if  it  is  not 
+classified  as  at  fair  value  through  profit  or  loss.  However,  trade  receivables  that  do  not  contain  a  significant 
+financing component are measured at transaction price. Transaction costs of financial instruments carried at fair 
+value through profit or loss are expensed in profit or loss
+Subsequently, financial instruments are measured according to the category in which they are classified.
+Classification and measurement – financial assets
+Classification of financial assets is based on the business model in which the instruments are held as well as the 
+characteristics of their contractual cash flows. The business model is based on management’s intentions and 
+past pattern of transactions. Financial assets with embedded derivatives are considered in their entirety when 
+determining  whether  their  cash  flows  are  solely  payment  of  principal  and  interest.  The  Company  reclassifies 
+financial assets when and only when its business model for managing those assets changes.
+Financial assets are classified into three categories
+Financial assets at amortised cost: Financial assets having contractual terms that give rise on specified dates 
+to cash flows that are solely payments of principal and interest on the principal outstanding and that are held 
+within a business model whose objective is to hold such assets in order to collect such contractual cash flows 
+are classified in this category. Subsequently, these are measured at amortised cost using the effective interest 
+method less any impairment losses.
+Equity  investments  at  fair  value  through  other  comprehensive  income  (Equity  instruments):  These  include 
+financial  assets  that  are  equity  instruments  and  are  designated  as  such  upon  initial  recognition  irrevocably. 
+Subsequently, these are measured at fair value and changes therein are recognised directly in other comprehensive 
+income, net of applicable income taxes.
+Dividends from these equity investments are recognised in the consolidated statement of Profit and Loss when 
+the right to receive payment has been established.
+When  the  equity  investment  is  derecognised,  the  cumulative  gain  or  loss  in  equity  is  transferred  to 
+retained earnings.
+Financial assets at fair value through other comprehensive income (Debt instruments): Financial assets having 
+contractual  terms  that  give  rise  on  specified  dates,  to  cash  flows  that  are  solely  payments  of  principal  and 
+interest on the principal outstanding and that are held within a business model whose objective is to hold such 
+assets in order to collect such contractual cash flows as well as to sell the financial asset, are classified in this 
+category. Subsequently, these are measured at fair value, with unrealised gains or losses being recognised in 
+other comprehensive income apart from any expected credit losses or foreign exchange gains or losses, which 
+are recognised in profit or loss.
+Financial assets at fair value through profit and loss: Financial assets are measured at fair value through profit 
+and loss unless it is measured at amortised cost or at fair value through other comprehensive income on initial 
+recognition. The transaction costs directly attributable to the acquisition of financial assets and liabilities at fair 
+value through profit and loss are immediately recognised in profit and loss.
+385

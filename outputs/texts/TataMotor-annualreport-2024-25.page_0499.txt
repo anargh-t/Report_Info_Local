@@ -1,0 +1,106 @@
+The table below provides details regarding the contractual maturities of financial liabilities, including estimated 
+interest payments as at March 31, 2024:
+Financial liabilities
+(a)
+(b)
+Trade payables
+Borrowings and interest 
+thereon
+(c) Other financial liabilities
+Lease liabilities
+(d)
+(e) Derivative liabilities
+Total
+Carrying 
+amount
+ 13,335 
+ 13,939 
+ 1,153 
+ 419 
+ 78 
+ 28,924 
+Due in 1st Year
+Due in 2nd 
+Year
+Due in 3rd to 
+5th Year
+Due after 5th 
+Year
+ 13,335 
+ 9,630 
+ 965 
+ 150 
+ 13 
+ 24,093 
+ -   
+ 3,894 
+ 89 
+ 120 
+ -   
+ 4,103 
+ -   
+ 1,644 
+ 113 
+ 164 
+ -   
+ 1,921 
+ -   
+ 137 
+ 62 
+ 92 
+ 65 
+ 356 
+(₹ in crores)
+Total 
+contractual 
+cash flows
+ 13,335 
+ 15,305 
+ 1,229 
+ 526 
+ 78 
+ 30,473 
+(iv)   Derivative financial instruments and risk management
+The Company has entered into a variety of foreign currency, interest rates and commodity forward contracts 
+and  options  to  manage  its  exposure  to  fluctuations  in  foreign  exchange  rates,  interest  rates  and  commodity 
+price risk. The counterparty is generally a bank. These financial exposures are managed in accordance with the 
+Company’s risk management policies and procedures.
+The Company also enters into interest rate swaps and cross currency interest rate swap agreements, mainly to 
+manage exposure on its fixed rate or variable rate debt. The Company uses interest rate derivatives or currency 
+swaps  to  hedge  exposure  to  exchange  rate  fluctuations  on  principal  and  interest  payments  for  borrowings 
+denominated in foreign currencies. In all cases the Company uses a hedge ratio of 1:1.
+Specific transactional risks include risks like liquidity and pricing risks, interest rate and exchange rate fluctuation 
+risks, volatility risks, counterparty risks, settlement risks and gearing risks.
+Fair value of derivative financial instruments are determined using valuation techniques based on information 
+derived from observable market data.
+The fair value of derivative financial instruments is as follows:
+(a)
+(b)
+(c)
+Foreign currency forward exchange contracts and options
+Commodity Derivatives
+Interest rate derivatives
+Total
+(₹ in crores)
+As at
+March 31, 2025
+As at
+March 31, 2024
+ 468 
+ 6 
+ 13 
+ 487 
+ 621 
+ 7 
+ (65)
+ 563 
+The loss due to fluctuation in foreign currency exchange rates on derivative contracts, recognised in the income 
+statement was ₹19 crores and ₹210 crores for the years ended March 31, 2025 and 2024, respectively.
+(v)  Commodity Risk
+The Company is exposed to commodity price risk arising from the purchase of certain raw materials such as 
+aluminium, copper, platinum and palladium. This risk is mitigated through the use of derivative contracts and 
+fixed-price contracts with suppliers. The derivative contracts are not hedge accounted under Ind AS 109 but are 
+instead measured at fair value through profit or loss.
+The  (gain)/loss  on  commodity  derivative  contracts,  recognised  in  the  statement  of  profit  and  loss  was  ₹(38) 
+crores and ₹58 crores for the years ended March 31, 2025 and 2024, respectively.
+495

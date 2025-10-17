@@ -1,0 +1,41 @@
+The model assumes that interest rate changes are instantaneous parallel shifts in the yield curve. Although some 
+assets and liabilities may have similar maturities or periods to re-pricing, these may not react correspondingly 
+to changes in market interest rates. Also, the interest rates on some types of assets and liabilities may fluctuate 
+with changes in market interest rates, while interest rates on other types of assets may change with a lag.
+The risk estimates provided assume a parallel shift of 100 basis points interest rate across all yield curves. This 
+calculation also assumes that the change occurs at the balance sheet date and has been calculated based on risk 
+exposures outstanding as at that date. The period end balances are not necessarily representative of the average 
+debt outstanding during the period.
+This analysis assumes that all other variables, in particular foreign currency rates, remain constant.
+(Note: The impact is indicated on the profit before tax.)
+(c)  Equity Price risk
+Equity Price Risk is related to the change in market reference price of the investments in equity securities..
+The  fair  value  of  some  of  the  Company’s  investments  measured  at  fair  value  through  other  comprehensive 
+income exposes the Company to equity price risks. These investments are subject to changes in the market price 
+of securities. The fair value of Company’s investment in quoted equity securities as of March 31, 2025 and 2024 
+was  ₹848 crores and ₹856 crores, respectively. A 10% change in equity price as of March 31, 2025 and 2024 
+would result in a pre- tax impact of ₹85 crores and ₹86 crores, respectively.
+(Note: The impact is indicated on equity before consequential tax impact, if any).
+(ii)  Credit risk
+Credit  risk  is  the  risk  of  financial  loss  arising  from  counterparty  failure  to  repay  or  service  debt  according  to 
+the  contractual  terms  or  obligations.  Credit  risk  encompasses  both  the  direct  risk  of  default  and  the  risk  of 
+deterioration of creditworthiness as well as concentration risks.
+Financial instruments that are subject to concentrations of credit risk, principally consist of investments classified 
+as fair value through profit and loss, trade receivables, loans and derivative financial instruments. The Company 
+strives to promptly identify and reduce concerns about collection due to a deterioration in the financial conditions 
+and others of its main counterparties by regularly monitoring their situation based on their financial condition. 
+None of the financial instruments of the Company result in material concentrations of credit risks.
+Exposure to credit risk
+The  carrying  amount  of  financial  assets  represents  the  maximum  credit  exposure.  The  maximum  exposure 
+to credit risk was ₹13,395 crores and ₹13,378 crores as at March 31, 2025 and 2024, respectively, being the 
+total of the carrying amount of balances with banks, short term deposits with banks, trade receivables, finance 
+receivables, margin money and other financial assets excluding equity investments.
+Financial assets that are neither past due nor impaired
+None of the Company’s cash equivalents, including short term deposits with banks, are past due or impaired. 
+Regarding  trade  receivables  and  other  receivables,  and  other  loans  or  receivables  that  are  neither  impaired 
+nor past due, there were no indications as at March 31, 2025, and March 31, 2024, that defaults in payment 
+obligations will occur.
+Credit quality of financial assets and impairment loss
+The ageing of trade receivables as of balance sheet date is given below. The age analysis has been considered 
+from the due date.
+493

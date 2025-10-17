@@ -1,0 +1,109 @@
+(C)  There are certain vehicles which are being given to the customers along with operations and maintenance of the 
+same. These are accounted as finance lease as the material risks and rewards are transferred to the lessee.
+The average effective interest rate contracted approximates 3.67% to 9.32%  (2024: 3.67% to 9.32% ) per annum.
+The following amounts are included in the Balance Sheet :
+Current lease receivables
+Non-current lease receivables
+Total lease receivables
+(₹ in crores)
+As at
+March 31, 2025
+As at
+March 31, 2024
+210
+3,406
+3,616
+112
+2,107
+2,219
+The following amounts are recognised in the statement of profit and loss :  
+Sales Revenue for finance leases
+Finance income on the net investment in finance leases
+(₹ in crores)
+For the year ended,
+March 31, 2025
+For the year ended,
+March 31, 2024
+880
+61
+1,621
+119
+The table below provides details regarding the contractual maturities of finance lease receivables :
+As at March 31, 2025
+Due in 1st Year
+Due in 2nd Year
+Due in 3rd to 5th 
+Year
+Due beyond 5th 
+Year
+(₹ in crores)
+Total 
+contractual cash 
+flows
+534
+324
+210
+544
+307
+237
+1,638
+806
+832
+3,277
+940
+2,337
+5,993
+2,377
+3,616
+As at March 31, 2024
+Due in 1st Year
+Due in 2nd Year
+Due in 3rd to 5th 
+Year
+Due beyond 5th 
+Year
+Total 
+contractual cash 
+flows
+307
+195
+112
+313
+185
+128
+937
+485
+452
+2,149
+622
+1,527
+3,706
+1,487
+2,219
+Undiscounted lease receivables
+Less: Unearned finance income
+Net investment in leases
+Undiscounted lease receivables
+Less: Unearned finance income
+Net investment in leases
+5  Goodwill
+Balance at the beginning
+Disposal due to merger of Tata Motors Finance Ltd with Tata Capital Ltd (refer note 51)
+Acquisition of subsidiary
+Disposal of subsidiary [refer note 52 (c)]
+Currency translation differences
+Balance at the end
+(₹ in crores)
+As at
+March 31, 2025
+As at
+March 31, 2024
+860
+(1)
+422
+(443)
+57
+895 
+840
+-
+-

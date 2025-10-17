@@ -1,0 +1,163 @@
+The reconciliation of income tax expense calculated as per tax rates applicable to individual entities with income tax 
+expense/(credit) reported in the consolidated statement of profit and loss is as follows:
+Profit before taxes from continuing operations
+Profit/ (loss) before taxes from discontinued operations
+Profit before taxes
+Income tax expense at tax rates applicable to individual entities
+Items (net) not deductible for tax/not liable to tax :
+-      Disposal  due  to  merger  of  Tata  Motors  Finance  Ltd  with  Tata  Capital  Ltd  (refer 
+note 51)
+-  Others
+Distributed and undistributed earnings of subsidiaries, joint operations and equity 
+accounted investees
+Deferred tax assets not recognised because realisation is not probable
+Deferred tax assets recognized on unabsorbed depreciation, tax losses and other tax 
+credits
+Previously unrecognised tax losses, unabsorbed depreciation and other tax benefits 
+utilised
+Impact of statutory tax rate changes
+Tax on share of profit of equity accounted investees
+Reversal  of  deferred  tax  asset  created  in  previous  year  due  to  amendment  in 
+calculation of capital gains tax
+Others (net) *
+Income tax expense/(credit) reported in consolidated statement of profit and loss
+Year ended
+March 31, 2025
+33,780
+4,975
+38,755
+9,698
+(₹ in crores)
+Year ended
+March 31, 2024
+28,429
+(474)
+27,955
+7,587
+(629)
+563
+1,392
+61
+(261)
+(51)
+(356)
+(72)
+248
+13
+10,606
+-
+313
+1,043
+484
+(8,531)
+(5,095)
+(81)
+(176)
+-
+604
+(3,852)
+*Others includes tax adjustments (credit)/ expense recognised in relation to prior years of ₹ (154) crores and ₹ 157 
+crores for the year ended March 31, 2025 and 2024, respectively.
+Note:
+The Board of Directors has proposed dividend for the year ended March 31, 2025, which will result in cash flow of  
+₹ 2,209 crores, once approved by Shareholders in the Annual General Meeting. The dividend income being received 
+from  subsidiaries  in  the  year  ending  March  31,  2026  can  be  offset  against  the  dividend  paid  by  the  Company  and 
+accordingly tax liability on undistributed earning can be reversed.
+Significant components of deferred tax assets and liabilities for the year ended March 31, 2025 are as follows:
+Opening balance
+Recognised in 
+consoladated 
+statement of 
+profit and loss
+Recognised in/reclassified from other 
+comprehensive income
+Translation
+Other than 
+translation
+Utilization on 
+sale of stake 
+in a subsidiary 
+company
+(₹ in crores)
+Closing balance
+Deferred tax assets:
+Unabsorbed depreciation
+Business loss carry forwards
+- provisions, allowances for doubtful 
+receivables
+- others
+Compensated absences and 
+retirement benefits
+Minimum alternate tax carry-forward
+Property, plant and equipment
+Lease liabilities
+Unrealised profit on inventory
+Others
+Total deferred tax assets
+345
+2,219
+10,713
+3,032
+117
+(346)
+62
+9,004
+1,294
+1,983
+2,798
+30,876
+(687)
+(1,024)
+692
+92
+(18)
+(13)
+(991)
+112
+(271)
+1,249
+(859)
+-
+448
+(14)
+6
+(100)
+-
+480
+-
+81
+93
+994
+-
+-
+-
+-
+20
+-
+-
+-
+-
+-
+20
+(155)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+(155)
+1,377
+10,137
+3,710
+215
+(444)
+49
+8,493
+1,406
+1,793
+4,140
+30,876

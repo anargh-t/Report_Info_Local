@@ -1,0 +1,46 @@
+B)   Notes to reserves
+a)  Capital redemption reserve
+The Indian Companies Act, 2013 (the “Companies Act”) requires that where a company purchases its own shares 
+out of free reserves or securities premium account, a sum equal to the nominal value of the shares so purchased 
+shall be transferred to a capital redemption reserve account and details of such transfer shall be disclosed in the 
+balance sheet. The capital redemption reserve account may be applied by the Company, in paying up unissued 
+shares of the company to be issued to shareholders of the company as fully paid bonus shares. Tata Motors 
+Limited established this reserve pursuant to the redemption of preference shares issued in earlier years. 
+b)  Debenture redemption reserve (DRR)
+The Companies Act requires that where a company issues debentures, it shall create a debenture redemption 
+reserve out of profits of the Company available for payment of dividend. The company is required to maintain 
+a  Debenture  Redemption  Reserve  of  25%  of  the  value  of  debentures  issued,  either  by  a  public  issue  or  on  a 
+private placement basis. The amounts credited to the debenture redemption reserve may not be utilised by the 
+Company except to redeem debentures. Transfers represent DRR on debentures issued before August 16, 2019 
+and pertaining to debentures repaid during the years ended March 31, 2025 and 2024. No DRR is required for 
+debentures issued after August 16, 2019.
+c)  Securities premium
+The amount received in excess of face value of the equity shares is recognised in Securities Premium.
+d)  Retained earnings
+Retained  earnings  are  the  profits  that  the  Company  has  earned  till  date,  add/(less)  any  transfers  from/(to) 
+general reserve, securities premium and debenture redemption reserve, dividends or other distributions paid 
+to shareholders. Retained earnings includes re-measurement gain/(loss) on defined benefit obligations, net of 
+taxes that will not be reclassified to Profit and Loss.
+e)  Capital reserve
+The capital reserve represents the excess of the identifiable assets and liabilities over the consideration paid/
+received or vice versa in a common control sale/transfer of business/investment.
+f)  Share-based payments reserve
+Share-based payments reserve represents amount of fair value, as on the date of grant, of unvested options and 
+vested options not exercised till date, that have been recognised as expense in the statement of profit and loss till date.
+g)   Dividends
+Any dividend declared by Tata Motors Limited is based on the profits available for distribution as reported in 
+the statutory financial statements of Tata Motors Limited (standalone) prepared in accordance with Generally 
+Accepted Accounting Principles in India or Ind AS. Indian law permits the declaration and payment of dividend 
+out of profits for the year or previous financial year(s) as stated in the statutory financial statements of Tata 
+Motors  Limited  (Standalone)  prepared  in  accordance  with  Generally  Accepted  Accounting  Principles  in  India, 
+or Ind AS after providing for depreciation in accordance with the provisions of Schedule II to the Companies 
+Act. However, in the absence of the said profits, it may declare dividend out of free reserves, subject to certain 
+conditions as prescribed under the Companies (Declaration and Payment of Dividend) Rules, 2014. Accordingly, 
+in certain years the net income reported in this Financial Statements may not be fully distributable.
+For the year ended March 31, 2025, the Board of Directors has recommended a final dividend of ₹6.00 per fully 
+paid up Ordinary share of ₹2.00 each, subject to approval by the Shareholders at the Annual General Meeting, 
+and  if  approved,  would  result  in  a  cash  outflow  of  ₹2,209  crores.  The  Company  has  paid  a  final  dividend  of 
+₹3.00 per fully paid up Ordinary shares and ₹3.10 per fully paid up ‘A’ Ordinary shares and a special dividend of 
+₹3.00 per fully paid up Ordinary share of ₹2.00 each and ₹3.10 per fully paid up ‘A’ Ordinary share of ₹2.00 each 
+totalling to ₹2,310 crores for the year ended March 31, 2024.
+458

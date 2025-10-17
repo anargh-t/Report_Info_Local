@@ -1,0 +1,70 @@
+Section A: General Disclosures
+I.  Details of the listed entity 
+1.
+2.
+3.
+4.
+5.
+Corporate Identity Number (CIN) 
+Name of the Listed Entity: 
+Year of incorporation: 
+Registered office address: 
+Corporate Address: 
+E-mail:
+Telephone: 
+6.
+7.
+8. Website: 
+9.
+Financial year for which reporting is being done: 
+10. Name of the Stock Exchange(s) where shares are listed: 
+11.
+Paid-up Capital:
+12. Name and contact details (telephone, email address) of 
+the person who may be contacted in case of any queries 
+on the BRSR report: 
+L28920MH1945PLC004520
+Tata Motors Limited
+1945
+Bombay House, 24 Homi Mody Street, Mumbai 
+400001, Maharashtra, India.
+Bombay House, 24 Homi Mody Street, Mumbai, 
+Maharashtra- 400001, India
+ inv_rel@tatamotors.com
++91 22 66658282
+https://www.tatamotors.com
+FY2024-25
+BSE Limited and The National Stock Exchange of India 
+Limited.
+₹736 crore
+Name: Mr. Jyotindran Sastabhavan Kutty 
+Designation: Chief Sustainability Officer
+Telephone Number: +91 20 6613 2781
+E-mail address: kutty@tatamotors.com
+13.  Reporting  boundary:  Report  is  prepared  on  a  standalone  basis  i.e,  Tata  Motors  Limited  (‘TML’  or  ‘the  Company’) 
+(Commercial Vehicle Business). The scope of this report excludes the joint operations of Tata Cummins Private Limited. 
+The Business Responsibility and Sustainability Reporting (‘BRSR’) is in conformance with the Securities and Exchange 
+Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015. 
+Reporting of environmental and safety related KPIs under Principle 3 and 6 does not include the non-manufacturing 
+locations including regional and corporate offices of TML. TML has evaluated and does not believe that this exclusion 
+is material both qualitatively and quantitatively to the reporting under BRSR.
+The information/data measurement techniques used, and the basis of calculations and estimates have been mentioned 
+in the relevant sections of this report.
+There  are  certain  restatements  for  TML  in  the  comparative  year  due  to  change  in  approach,  methodology  and  
+re-computation of certain attributes in this report. The effects and reasons have been included under the respective 
+Principles of this report. Restatements have been done on the following attributes – PoSH, energy consumption, GHG 
+emissions, air emissions, PPP adjusted intensities for environmental attributes and concentration of purchases. These 
+restatements would enable consistency and comparability of information for the current year and previous year.
+14.  Name of Assurance Provider: KPMG Assurance and Consulting Services LLP (‘KPMG’)
+15.  Type  of  assurance  obtained:  Reasonable  assurance  has  been  provided  on  BRSR  Core  Indicators  for  TML  on  a 
+standalone basis. Additionally, limited assurance has been provided on select BRSR indicators which are not part of 
+BRSR core.
+II.  Products/Services
+16.  Details of business activities (accounting for 90% of the Turnover):
+Description of main activity
+Automobile Manufacturing
+Description of business activity
+Manufacturing, Sales & Marketing, and Customer Support
+% of turnover 
+98
+182

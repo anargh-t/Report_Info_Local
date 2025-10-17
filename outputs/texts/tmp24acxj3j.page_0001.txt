@@ -1,0 +1,48 @@
+Synthetic CXO Report 
+Quarterly Business Update – Q1 FY26 
+Company: TCS 
+• Revenue: ₹62,300 Cr 
+• Net Profit: ₹11,200 Cr 
+• YoY Growth: 6.5% 
+• Total Contract Value (TCV): USD 12.2 Billion 
+• Attrition Rate: 13.3% 
+Highlights: 
+• BFSI and Cloud continue to drive revenue. 
+• Costs increased due to higher software licensing and infra spend. 
+• Attrition remains above target, especially in AI/ML skilled workforce. 
+Regional Performance 
+• North America: ₹30,000 Cr (Growth 5.2%) → Strong BFSI demand. 
+• Europe: ₹18,000 Cr (Flat YoY) → Macro slowdown, pricing pressure. 
+• APAC: ₹9,500 Cr (Growth 8.3%) → Cloud deals accelerating. 
+• India: ₹4,800 Cr (Growth 6.9%) → Growth from Government contracts. 
+Sales Pipeline (as of July 2025) 
+• GlobalBank (BFSI) – Negotiation – $350M 
+• RetailMart (Retail) – Proposal Sent – $120M 
+• AutoWorks (Automotive) – Initial Discussion – $90M 
+• HealthCo Pharma (Healthcare) – RFP Stage – $200M 
+Customer Churn & Retention 
+• Lost HealthFirst Insurance ($55M) – Switched to Infosys. 
+• Lost LogiTrack ($20M) – In-house IT expansion. 
+• Retained EduWorld ($80M renewal, 3 years). 
+• New Win: AgriTech Ltd ($65M) – Digital farming solutions. 
+Competitor Moves 
+• Infosys acquired NeuroLogic AI ($750M). 
+• Cognizant completed Belcan acquisition ($1.3B). 
+• IBM announced $7.5B in Generative AI deals. 
+Procurement Spend – Q1 FY26 
+• Microsoft: $35M 
+• SAP: $22M 
+• Adobe: $10M 
+• AWS: $50M | Azure: $42M | GCP: $18M 
+Note: Potential savings of 12–15% via centralized procurement. 
+Fleet / Operations 
+• CityRide Cabs → 1,200 Diesel vehicles, avg age 4 years. 
+• QuickLogistics → 800 Petrol trucks, avg age 6 years. 
+• FreshMart Delivery → 300 CNG vans, avg age 2 years. 
+Potential EV conversion = ~20,000 tons CO2 reduction annually. 
+Employee Metrics 
+• Total Employees: 602,000 
+• Attrition: 13.2% 
+• Training Hours/Employee: 45 
+• Skills Mix: 
+• AI/ML – 12%

@@ -1,0 +1,182 @@
+The following table presents the carrying amounts and fair value of each category of financial assets and liabilities 
+as at March 31, 2024.
+Financial assets
+(a)
+(b)
+(c)
+(d)
+Investments-non-current
+Investments-current
+Trade receivables
+Cash and cash equivalents
+(e) Other bank balances
+(f)
+Loans
+(g) Other financial assets
+Total
+Financial liabilities
+Cash and 
+other 
+financial 
+assets at 
+amortised 
+cost
+ -   
+ 33 
+ 2,765 
+ 3,345 
+ 1,806 
+ 234 
+ 1,737 
+ 9,920 
+Investments 
+- FVTOCI
+Investments 
+- FVTPL
+ 1,586 
+ -   
+ -   
+ -   
+ -   
+ -   
+ -   
+ -   
+ 1,961 
+ -   
+ -   
+ -   
+ -   
+ -   
+ 1,586 
+ 1,961 
+Derivatives 
+other than 
+in hedging 
+relationship 
+at fair value 
+through 
+profit or loss
+Derivatives 
+in hedging 
+relationship 
+at fair value 
+through 
+profit or loss
+ -   
+ -   
+ -   
+ -   
+ -   
+ -   
+ -   
+ -   
+ -   
+ -   
+ -   
+ -   
+ 316 
+ 316 
+ 325 
+ 325 
+Derivatives
+other than 
+in hedging 
+relationship 
+(at fair 
+value)
+Derivatives 
+in hedging 
+relationship 
+at fair value 
+through 
+profit or loss
+Other 
+financial 
+liabilities at 
+amortised 
+cost
+(₹ in crores)
+Total 
+carrying 
+value
+Total fair 
+value
+ 1,586 
+ 1,994 
+ 2,765 
+ 3,345 
+ 1,806 
+ 234 
+ 2,378 
+ 1,586 
+ 1,994 
+ 2,765 
+ 3,345 
+ 1,806 
+ 234 
+ 2,378 
+ 14,108 
+ 14,108 
+(₹ in crores)
+Total 
+carrying 
+value
+Total fair 
+value
+(a)
+(b)
+(c)
+(d)
+Long-term borrowings (including current maturities 
+of long-term borrowings)
+Lease liabilities
+Short-term borrowings
+Trade payables
+(e) Other financial liabilities
+Total
+ -   
+ -   
+ -   
+ -   
+ 76 
+ 76 
+ -   
+ -   
+ -   
+ -   
+ 2 
+ 2 
+ 7,088 
+ 419 
+ 6,683 
+ 7,088 
+ 419 
+ 6,683 
+ 7,131 
+ 419 
+ 6,683 
+ 13,335 
+ 13,335 
+ 13,335 
+ 1,321 
+ 1,399 
+ 1,399 
+ 28,846 
+ 28,924 
+ 28,967 
+Fair Value Hierarchy
+The  following  table  provides  an  analysis  of  financial  instruments  that  are  measured  subsequent  to  initial 
+recognition at fair value, grouped into Level 1 to Level 3, as described below.
+Quoted  prices  in  an  active  market  (Level  1):  This  level  of  hierarchy  includes  financial  instruments    that  are 
+measured  by  reference  to  quoted  prices  (unadjusted)  in  active  markets  for  identical  assets  or  liabilities.  This 
+category consists of quoted equity shares, quoted corporate debt instruments and mutual fund investments.
+Valuation  techniques  with  observable  inputs  (Level  2):  This  level  of  hierarchy  includes  financial  assets  and 
+liabilities, measured using inputs other than quoted prices included within Level 1 that are observable for the 
+asset or liability, either directly (i.e; as prices) or indirectly (i.e; derived from prices). This level of hierarchy include 
+Company’s over-the-counter (OTC) derivative contracts.
+Valuation  techniques  with  significant  unobservable  inputs  (Level  3):  This  level  of  hierarchy  includes  financial 
+assets and liabilities measured using inputs that are not based on observable market data (unobservable inputs). 
+Fair values are determined in whole or in part, using a valuation model based on assumptions that are neither 
+supported by prices from observable current market transactions in the same instrument nor are they based on 
+available market data.
+488

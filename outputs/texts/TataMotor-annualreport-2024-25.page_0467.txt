@@ -1,0 +1,89 @@
+25  Other financial liabilities – non-current
+(a)
+(b)
+Derivative financial instruments
+Liability towards employee separation scheme
+(c) Option premium payable
+(d) Others
+Total
+26  Other financial liabilities – current
+Interest accrued but not due on borrowings
+Liability for capital expenditure (Refer note below)
+Deposits and retention money
+(a)
+(b)
+(c)
+(d) Derivative financial instruments
+(e)
+Liability  towards  Investor  Education  and  Protection  Fund  under  Section  125  of  the 
+Companies Act, 2013 (IEPF) not due
+(i) Unpaid dividends
+(ii) Unpaid debentures and interest thereon
+(f)
+Liability towards employee separation scheme
+(g) Option premium payable
+(h) Others
+Total
+Note :
+(₹ in crores)
+As at
+March 31, 2025
+As at
+March 31, 2024
+ -   
+ 99 
+ -   
+ 61 
+ 160 
+ 65 
+ 109 
+ 9 
+ 70 
+ 253 
+As at
+March 31, 2025
+ 111 
+ 439 
+ 480 
+ 8 
+(₹ in crores)
+As at
+March 31, 2024
+ 168 
+ 354 
+ 461 
+ 13 
+ 10 
+ 0 
+ 29 
+ 9 
+ 2 
+ 1,088 
+ 4 
+ 0 
+ 42 
+ 65 
+ 39 
+ 1,146 
+Includes ₹56 crores (₹61 crores as at March 31, 2024) outstanding towards principal and interest provision on dues of micro 
+enterprises and small enterprises as per MSMED ACT, 2006.
+27   Provisions
+(a)   Accounting policy
+A provision is recognised if, as a result of a past event, the Company has a present legal or constructive obligation 
+that can be estimated reliably, and it is probable that an outflow of economic benefits will be required to settle the 
+obligation. When the effect of the time value of money is material, provisions are determined by discounting the 
+expected future cash flows using a pre-tax rate that reflects current market assessments of the time value of money 
+and the risks specific to the liability.
+Product warranty expenses
+The estimated liability for product warranties is recognised when products are sold or when new warranty programmes 
+are initiated. These estimates are established using historical information on the nature, frequency and average cost 
+of  warranty  claims  and  management  estimates  regarding  possible  future  warranty  claims,  customer  goodwill  and 
+recall complaints. The timing of outflows will vary depending on when warranty claim will arise, being typically up to 
+six years. The Company also has back-to-back contractual arrangement with its suppliers in the event that a vehicle 
+fault is proven to be a supplier’s fault.
+The Company’s calculation methodology uses detailed historical data corrected for experience as information becomes 
+available as well as individual campaign assumptions (such as scope, uptake rates and repair costs). The calculated 
+provisions are compared to current spend rates to assess balances versus expected future obligations. This can lead 
+to changes in the carrying value of provisions as assumptions are updated over the life of each warranty to reflect 
+where actual experience differs to past experience, for example due to higher inflation or timing of claims impacting 
+463

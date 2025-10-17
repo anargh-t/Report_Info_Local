@@ -1,0 +1,211 @@
+Materiality matrix
+e
+r
+e
+v
+e
+S
+y
+t
+i
+l
+a
+i
+r
+e
+t
+a
+M
+t
+c
+a
+p
+m
+I
+j
+r
+o
+a
+M
+3
+2
+9
+10
+15
+17
+18
+21
+22
+35
+23
+13
+16
+14
+20
+25
+19
+26
+27
+24
+28
+29
+31
+32
+30
+1
+4
+6
+5
+8
+7
+12
+34
+33
+36
+w
+o
+L
+Low
+Major 
+Financial Materiality
+Severe
+Label Topic
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Climate change mitigation
+Energy
+Resource Use and Circular 
+Economy ‑ Resource outflows 
+related to products and services
+Own Workforce ‑ Labour 
+practices
+Own Workforce ‑ Training and 
+development
+Consumers and End‑users ‑ 
+Health and safety
+Climate change adaptation
+Responsible investment / finance
+Pollution of air
+Own Workforce ‑ Health and 
+safety
+Biodiversity
+Resource Use and Circular 
+Economy ‑ Resources inflows, 
+including resource use
+Value chain 
+impacted
+O & D
+O & U
+O & D
+O
+O
+O & D
+O & U
+O
+O & D
+O
+O, & U
+O & U
+Label Topic
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+Water consumption and 
+withdrawal
+Workers in the Value Chain ‑ 
+Human Rights
+Substances of very high concern
+Business conduct
+Responsible tax
+Just Transition
+Waste
+Supplier relationship
+Social inclusion of consumers 
+and/or end‑users
+Policy advocacy
+Workers in the Value Chain ‑ 
+Training and skills development
+Own Workforce ‑Human Rights
+Water Pollution and discharge
+Microplastics
+Value chain 
+impacted
+O & U
+U
+D
+O & D
+O
+O, D & U
+O & D
+U
+D
+O & U
+U
+O, D & U
+D & U
+O, D & U
+Label Topic
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+Workers in the Value Chain ‑ 
+Health and safety
+Consumers and End‑users ‑ 
+Access to (quality) information
+Pollution of Soil
+Workers in the Value Chain ‑ 
+Labour practices
+Consumers and End‑users ‑ 
+Privacy
+Communities’ civil and political 
+rights
+Rights of Indigenous peoples
+Communities’ economic, social 
+and cultural rights
+Own Workforce ‑ Human Rights
+Workers in the value chain ‑ 
+Privacy
+Value chain 
+impacted
+D & U
+O & D
+D
+D & U
+D
+O, D & U
+U
+O
+O
+D & U
+O – Own Operations 
+U – Upstream       
+D‑ Downstream
+67

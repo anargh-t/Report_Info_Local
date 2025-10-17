@@ -1,0 +1,121 @@
+b) 
+c) 
+d) 
+ Physical  User  Reset  Password? 
+in 
+(If  you  are  holding  shares 
+physical mode) option available on  
+www.evoting.nsdl.com.
+ If  you  are  still  unable  to  get 
+the  password  by  aforesaid  two 
+options, you can send a request at  
+evoting@nsdl.com 
+mentioning 
+your  demat  account  number/folio 
+number, your PAN, your name and 
+your registered address etc.
+ Members can also use the OTP (One 
+Time  Password)  based  login  for 
+casting  the  votes  on  the  e-Voting 
+system of NSDL.
+7. 
+After  entering  your  password,  tick  on 
+Agree  to  “Terms  and  Conditions”  by 
+selecting on the check box.
+8.  Now,  you  will  have 
+to  click  on 
+2. 
+“Login” button.
+9.  After  you  click  on  the  “Login”  button, 
+Home page of e-Voting will open.
+Step  2:  Cast  your  vote  electronically  and  join 
+General Meeting on NSDL e-Voting system.
+How  to  cast  your  vote  electronically  and  join 
+General Meeting on NSDL e-Voting system?
+1.  After  successful  login  at  Step  1,  you  will  be 
+able to see all the companies “EVEN” in which 
+you are holding shares and whose voting cycle 
+and General Meeting is in active status.
+2. 
+Select “EVEN” of company for which you wish 
+to cast your vote during the remote e-Voting 
+period  and  casting  your  vote  during  the 
+General Meeting. For joining virtual meeting, 
+you  need  to  click  on  “VC/OAVM”  link  placed 
+under “Join Meeting”. The EVEN for Ordinary 
+Shares is 133755.
+3.  Now you are ready for e-Voting as the Voting 
+page opens.
+4. 
+Cast  your  vote  by  selecting  appropriate 
+options  i.e.  assent  or  dissent,  verify/modify 
+the  number  of  shares  for  which  you  wish  to 
+cast your vote and click on “Submit” and also 
+“Confirm” when prompted.
+5.  Upon  confirmation,  the  message  “Vote  cast 
+successfully” will be displayed.
+6. 
+You  can  also  take  the  printout  of  the  votes 
+cast by you by clicking on the print option on 
+the confirmation page.
+7.  Once you confirm your vote on the resolution, 
+you will not be allowed to modify your vote.
+General Guidelines for shareholders
+1. 
+3. 
+Institutional  shareholders  (i.e.  other  than 
+individuals, HUF, NRI etc.) are required to send 
+scanned copy (PDF/JPG Format) of the relevant 
+Board  Resolution/  Authority  letter  etc.  with 
+attested  specimen  signature  of  the  duly 
+authorized signatory(ies) who are authorized 
+to  vote,  to  the  Scrutinizer  by  e-mail  to  
+tml.scrutinizer@gmail.com 
+  with  a  copy 
+marked  to  evoting@nsdl.com.  Institutional 
+shareholders  (i.e.  other  than 
+individuals, 
+HUF,  NRI  etc.)  can  also  upload  their  Board 
+Resolution  /  Power  of  Attorney  /  Authority 
+Letter  etc.  by  clicking  on  “Upload  Board 
+Resolution  /  Authority  Letter”  displayed 
+under “e-Voting” tab in their login.
+It  is  strongly  recommended  not  to  share 
+your  password  with  any  other  person  and 
+take  utmost  care  to  keep  your  password 
+confidential. Login to the e-voting website will 
+be  disabled  upon  five  unsuccessful  attempts 
+to  key  in  the  correct  password.  In  such  an 
+event, you will need to go through the “Forgot 
+User  Details/Password?”  or  “Physical  User 
+Reset  Password?”  option  available  on  www.
+evoting.nsdl.com to reset the password.
+(FAQs) 
+In  case  of  any  queries,  you  may  refer  the 
+Frequently  Asked  Questions 
+for 
+Shareholders  and  e-voting  user  manual  for 
+Shareholders  available  at  the  download 
+section  of  www.evoting.nsdl.com  or  call 
+on.:  022  -  4886  7000  or  send  a  request  to  
+(Ms Pallavi Mhatre, Senior Manager, NSDL) at 
+evoting@nsdl.com
+Process  for  those  shareholders  whose  email 
+ids  are  not  registered  with  the  depositories  for 
+procuring  user  id  and  password  and  registration 
+of email ids for e-voting for the resolutions set out 
+in this notice:
+1. 
+In case shares are held in physical mode please 
+provide  Folio  No.,  Name  of  shareholder, 
+scanned  copy  of  the  share  certificate  (front 
+(self  attested  scanned 
+and  back),  PAN 
+copy  of  PAN  card),  AADHAR  (self  attested 
+scanned  copy  of  Aadhar  Card)  by  email  to  
+inv_rel@tatamotors.com.
+2. 
+In case shares are held in demat mode, please 
+provide  DPID-CLID  (16  digit  DPID  +  CLID  or 
+16  digit  beneficiary  ID),  Name,  client  master 
+534

@@ -1,0 +1,65 @@
+Total borrowings includes all long and short-term borrowings as disclosed in notes 22 and 23 to the financial statements. 
+Equity comprises all components excluding (profit)/loss on cash flow hedges.
+The following table summarises the capital of the Company:
+Equity
+Short-term borrowings and current maturities of long-term borrowings
+Long-term borrowings
+Total borrowings
+Total capital (Debt + Equity)
+Total equity as reported in balance sheet
+Hedging reserve
+Cost of Hedge reserve
+Equity as reported above
+42 Financial instruments
+(a)   Accounting policy
+i)   Recognition:
+As at
+March 31, 2025
+ 33,429 
+ 4,982 
+ 3,626 
+ 8,608 
+ 42,037 
+ 33,442 
+ 5 
+ (18)
+ 33,429 
+(₹ in crores)
+As at
+March 31, 2024
+ 30,176 
+ 8,535 
+ 5,236 
+ 13,771 
+ 43,947 
+ 30,143 
+ 3 
+ 30 
+ 30,176 
+A financial instrument is any contract that gives rise to a financial asset of one entity and a financial liability or 
+equity instrument of another entity.
+Trade receivables and debt securities issued are initially recognised when they are originated. All other financial 
+instruments  are  initially  recognised  when  the  Company  becomes  a  party  to  the  contractual  provisions  of 
+the instrument.
+Initial measurement
+Financial  instruments  are  initially  recognised  at  its  fair  value.  Transaction  costs  directly  attributable  to  the 
+acquisition  or  issue  of  financial  instruments  are  recognised  in  determining  the  carrying  amount,  if  it  is  not 
+classified  as  at  fair  value  through  profit  or  loss.  However,  trade  receivables  that  do  not  contain  a  significant 
+financing component are measured at transaction price. Transaction costs of financial instruments carried at fair 
+value through profit or loss are expensed in the statement of profit and loss.
+Subsequently, financial instruments are measured according to the category in which they are classified.
+Classification and measurement – financial assets
+Classification of financial assets is based on the business model in which the instruments are held as well as the 
+characteristics of their contractual cash flows. The business model is based on management’s intentions and 
+past pattern of transactions. Financial assets with embedded derivatives are considered in their entirety when 
+determining  whether  their  cash  flows  are  solely  payment  of  principal  and  interest.  The  Company  reclassifies 
+financial assets when and only when its business model for managing those assets changes.
+Financial assets are classified into three categories
+Financial assets at amortised cost: Financial assets having contractual terms that give rise on specified dates 
+to cash flows that are solely payments of principal and interest on the principal outstanding and that are held 
+within a business model whose objective is to hold such assets in order to collect such contractual cash flows 
+are classified in this category. Subsequently, these are measured at amortised cost using the effective interest 
+method less any impairment losses.
+Equity  investments  at  fair  value  through  other  comprehensive  income  (Equity  instruments): These  include 
+financial  assets  that  are  equity  instruments  and  are  designated  as  such  upon  initial  recognition  irrevocably. 
+484

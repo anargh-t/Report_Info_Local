@@ -1,0 +1,95 @@
+to fluctuations in U.S. dollar, GBP, Chinese renminbi, Japanese yen, Singapore dollar and Euro, against the 
+respective functional currencies of Tata Motors Limited and its subsidiaries.
+The Company, as per its risk management policy, uses foreign exchange and other derivative instruments 
+primarily  to  hedge  foreign  exchange  and  interest  rate  exposure.  Furthermore,  any  movement  in  the 
+functional currencies of the various operations of the Company against major foreign currencies may impact 
+the  Company’s  revenues  and  expenditure  relating  to  its  international  operations.  Any  weakening  of  the 
+functional currency may impact the Company’s cost of imports and cost of borrowings and consequently 
+may increase the cost of financing the Company’s capital expenditures.
+The  Company  evaluates  the  impact  of  foreign  exchange  rate  fluctuations  by  assessing  its  exposure  to 
+exchange rate risks.
+The  foreign  exchange  rate  sensitivity  is  calculated  for  each  currency  by  aggregation  of  the  net  foreign 
+exchange rate exposure of a currency and a simultaneous parallel foreign exchange rates shift in the foreign 
+exchange rates of each currency by 10% while keeping the other variables as constant. 
+The following analysis is based on the gross exposure as of the relevant balance sheet dates, which could 
+affect  the  income  statement.  There  is  no  exposure  to  the  income  statement  on  account  of  translation 
+of financial statements of consolidated foreign entities. Furthermore, the exposure as indicated below is 
+mitigated by natural hedges resulting from anticipated revenue and cost in foreign currency expected to 
+arise in future as  well as certain derivative contracts entered into by the Company. 
+The following table sets forth information relating to foreign currency exposure (other than risk arising from 
+derivatives) contract as of March 31, 2025:
+U.S. dollar
+Euro
+(a)
+(b)
+Financial assets
+Financial liabilities
+23,424
+47,320
+18,314
+42,205
+Chinese 
+Renminbi
+6,576
+8,091
+GBP
+1,299
+4,224
+Canadian 
+dollar
+806
+755
+(₹ in crores)
+Others 1
+Total
+2,380
+3,394
+52,799
+105,989
+1Others  mainly  include  currencies  such  as  the  Russian  rouble,  Singapore  dollars,  Swiss  franc,  Australian 
+dollars, South African rand, Thai baht, Japanese Yen and Korean won.
+10% appreciation/depreciation of the respective foreign currencies with respect to functional currency of 
+the Company would result in decrease/increase in the Company’s net profit/(loss) and equity before tax by 
+approximately ₹ 5,280 crores and ₹ 10,599 crores for financial assets and financial liabilities respectively for 
+the year ended March 31, 2025.
+ The following table set forth information relating to foreign currency exposure (other than risk arising from 
+derivatives) as of March 31, 2024:
+U.S. dollar
+Euro
+(a)
+(b)
+Financial assets
+Financial liabilities
+25,112
+47,885
+19,132
+45,905
+Chinese 
+Renminbi
+3,694
+6,966
+GBP
+258
+3,984
+Canadian 
+dollar
+845
+561
+(₹ in crores)
+Others 1
+Total
+3,005
+4,171
+52,047
+109,473
+ 1Others  mainly  include  currencies  such  as  the  Singapore  dollars,  Swiss  franc,  Australian  dollars,  South 
+African rand, Swedish Krona, Thai baht, Japanese Yen and Korean won.
+(b) 
+Interest rate risk
+Interest rate risk is the risk that changes in market interest rates will lead to changes in fair value of 
+financial instruments or changes in interest income, expense and cash flows of the Group
+The  Company  is  subject  to  variable  interest  rates  on  some  of  its  interest  bearing  liabilities.  The 
+Company’s interest rate exposure is mainly related to debt obligations. The Company also uses a mix 
+of interest rate sensitive financial instruments to manage the liquidity and fund requirements for its 
+day to day operations like short term non-convertible bonds and short term loans.
+395

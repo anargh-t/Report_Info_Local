@@ -1,0 +1,103 @@
+The Scheme has been approved by the Hon’ble National Company Law Tribunal (“NCLT”), Mumbai Bench on May 1, 2025. 
+TMFL and TCL has received all other necessary regulatory approvals and the scheme is effective from May 8, 2025. 
+Accordingly, the Company has accounted for transfer of net assets (as calculated below) in accordance with the accounting 
+principles generally accepted in India and has recognised the excess of consideration receivable in form of equity shares of 
+Tata Capital Ltd amounting to ₹ 8,016 crores over the book value of net assets transferred as at appointed date of April 1, 
+2024, amounting to ₹ 4,975 crores has been accounted as gain on sale of discontinued operation in consolidated statement 
+of profit and loss. The same is entirely attributable to the owners of the Company. 
+Further,  the  comparative  consolidated  statement  of  profit  and  loss  has  been  re-presented  to  show  the  discontinued 
+operation (TMFL), separately from continuing operations. 
+Net Assets of TMFL are as follows as at April 1, 2024.
+(a)
+(b)
+(a)
+(b)
+Non Current Assets
+Current Assets (including assets classified as held for sale)
+Total Assets associated with TMFL
+Non-Current Liabilities
+Current Liabilities
+Total Liabilities directly associated with TMFL
+(₹ in crores)
+As at April 1,
+2024*
+8,050
+29,577
+37,627
+14,778
+17,204
+31,982
+*TMFL was not previously classified as held-for-sale or as discontinued operation pending NCLT approval. The impact of 
+de-recognition for balance sheet has been disclosed in the table above.
+Statement of Profit and Loss of TMFL included in the consolidated statement of profit or loss is as follows:
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+(i)
+(j)
+(k)
+(l)
+Revenue from operations
+Other income
+Total income (a+b)
+Expenses
+Loss before exceptional items and tax (c-d)
+Exceptional item - (gain)/ loss
+Profit/ (loss) before tax from discontinued operations (e-f)
+Tax expense
+Profit/ (loss) for the year from discontinued operations (g-h)
+Gain on sale of discontinued operation
+Tax expense
+Profit/ (loss) for the year from discontinued operations (i+j-k)
+Year ended  
+March 31, 2025#
+-
+-
+-
+-
+-
+-
+-
+-
+-
+4,975
+104
+4,871
+(₹ in crores)
+Year ended  
+March 31, 2024
+3,912
+258
+4,170
+4,606
+(436)
+38
+(474)
+172
+(646)
+-
+-
+(646)
+# Pursuant to the NCLT approval, business of TMFL has been de-recognised w.e.f. appointed date, which overrides the 
+requirement of Ind AS 110 as per which loss of control would have been accounted for on May 8, 2025. The impact of 
+deviation is not material for the consolidated statement of profit and loss.
+Net cash Flow Attributable to TMFL is as follows:
+(a)
+(b)
+Cash flow from operating activities
+Cash flow from investing activities
+Cash flow used in Financing activities
+Net increase/(decrease) in cash and cash equivalent
+417
+(₹ in crores)
+Year ended  
+March 31,2024*
+2,416
+82
+(3,621)
+(1,123)

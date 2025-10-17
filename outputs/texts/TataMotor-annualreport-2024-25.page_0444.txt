@@ -1,0 +1,98 @@
+use, the estimated future cash flows are discounted 
+to their present value using a pre-tax discount rate 
+that  reflects  current  market  assessments  of  the 
+time  value  of  money  and  the  risks  specific  to  the 
+asset for which the estimates of future cash flows 
+have not been adjusted.
+If  the  recoverable  amount  of  an  asset  (or  cash-
+generating  unit)  is  estimated  to  be  less  than  its 
+carrying  amount,  the  carrying  amount  of  the 
+is  reduced  to 
+asset  (or  cash-generating  unit) 
+its  recoverable  amount.  An  impairment  loss  is 
+recognised immediately in the statement of Profit 
+and Loss.
+An asset or cash-generating unit impaired in prior 
+years  is  reviewed  at  each  balance  sheet  date 
+to  determine  whether  there  is  any  indication 
+of  a  reversal  of  impairment  loss  recognized  in 
+prior years.
+(i)  Recent accounting pronouncements
+Ministry of Corporate Affairs (“MCA”) notifies new 
+standards or amendments to the existing standards 
+under  Companies  (Indian  Accounting  Standards) 
+Rules as issued from time to time. During the year 
+ended  March  31,  2025,  MCA  has  notified  Ind  AS 
+117 - Insurance Contracts and amendments to Ind 
+As  116  –  Leases,  relating  to  sale  and  lease  back 
+transactions,  applicable  from  April  1,  2024.    The 
+Company has assessed that there is no significant 
+impact on its financial statements.
+On May 9, 2025, MCA notifies the amendments to 
+Ind AS 21 - Effects of Changes in Foreign Exchange 
+Rates.  These  amendments  aim  to  provide  clearer 
+guidance  on  assessing  currency  exchangeability 
+and  estimating  exchange  rates  when  currencies 
+are not readily exchangeable. The amendments are 
+effective  for  annual  periods  beginning  on  or  after 
+April  1,  2025.  The  Company  is  currently  assessing 
+the  probable  impact  of  these  amendments  on  its 
+financial statements.
+3  Property, plant and equipment
+(a)  Accounting policy
+Property,  plant  and  equipment  are  stated  at  cost 
+less  accumulated 
+of  acquisition  or  construction 
+depreciation and impairment, if any.
+Freehold land is measured at cost and is not depreciated.
+Cost  includes  purchase  price,  non-recoverable  taxes 
+and  duties,  labour  cost  and  direct  overheads  for  self-
+constructed assets and other direct costs incurred up to 
+the date the asset is ready for its intended use.
+Subsequent expenditure relating to property, plant and 
+equipment  is  capitalised  only  when  it  is  probable  that 
+future economic benefits associated with these will flow 
+to the Company and the cost of the item can be measured 
+reliably. Repairs and maintenance costs are recognized 
+in the statement of profit and loss when incurred.
+Interest  cost  incurred  is  capitalised  up  to  the  date  the 
+asset is ready for its intended use for qualifying assets, 
+based on borrowings incurred specifically for financing 
+the  asset  or  the  weighted  average  rate  of  all  other 
+borrowings, if no specific borrowings have been incurred 
+for the asset.
+Depreciation  is  provided  on  the  Straight  Line  Method 
+(SLM)  over  the  estimated  useful  lives  of  the  assets 
+considering  the  nature,  estimated  usage,  operating 
+conditions,  past  history  of  replacement,  anticipated 
+technological  changes,  manufacturers’  warranties 
+and  maintenance  support.  Taking  into  account  these 
+factors,  the  Company  has  decided  to  retain  the  useful 
+life hitherto adopted for various categories of property, 
+plant  and  equipments,  which  are  different  from  those 
+prescribed in Schedule II of the Companies Act, 2013.
+Estimated useful lives of assets are as follows:
+Type of Asset
+Buildings, Roads, Bridge and culverts
+Plant, machinery and equipment
+Computers and other IT assets
+Vehicles
+ Estimated useful life 
+(years)
+4 to 60 years
+8 to 20 years
+4 to 6 years
+4 to 10 years
+Furnitures, fixtures and office equipment
+5 to 15 years
+The useful lives are reviewed at each year end. Changes 
+in  expected  useful  lives  are  treated  as  change  in 
+accounting estimates.
+Depreciation is not recorded on capital work-in-progress 
+until construction and installation are complete and the 
+asset is ready for its intended use.
+An item of property, plant and equipment is derecognized 
+on disposal. Any gain or loss arising from derecognition 
+of an item of property, plant and equipment is included 
+in the statement of profit and loss.
+440

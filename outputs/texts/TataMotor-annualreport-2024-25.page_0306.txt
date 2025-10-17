@@ -1,0 +1,137 @@
+e. 
+f. 
+and 
+joint 
+incorporated 
+companies 
+operations 
+companies 
+in 
+India 
+statements/financial 
+whose  financial 
+information  have  been  audited  under 
+the Act nothing has come to our or the 
+other  auditors  notice  that  has  caused 
+us  or  the  other  auditors  to  believe  that 
+the  representations  under  sub-clause 
+(i)  and  (ii)  of  Rule  11(e),  as  provided 
+under  (i)  and  (ii)  above,  contain  any 
+material misstatement.
+The  Board  of  Directors  of  the  Holding 
+Company  and  a  subsidiary  company,  a 
+step-down  subsidiary  company  and  certain 
+associate  companies  incorporated  in  India 
+have  proposed  final  dividend  for  the  year 
+which  is  subject  to  the  approval  of  the 
+respective  members  at  the  ensuing  Annual 
+General Meeting. The dividend declared is in 
+accordance with Section 123 of the Act to the 
+extent it applies to declaration of dividend. The 
+final  dividend  paid  by  the  Holding  Company, 
+certain  subsidiary  companies  and  associate 
+companies  during  the  year,  in  respect  of  the 
+same  declared  for  the  previous  year,  is  in 
+accordance with Section 123 of the Act to the 
+extent it applies to payment of dividend. The 
+interim dividend declared and paid by certain 
+subsidiary companies, a step-down subsidiary 
+company,  an  associate  company  and  a  joint 
+operation company during the year and until 
+the date of this audit report is in compliance 
+with Section 123 of the Act.
+checks, 
+reports 
+Based  on  our  examination,  which  included 
+of 
+considering 
+test 
+independent  auditor’s  in  relation  to  controls 
+at  the  service  organisation  for  accounting 
+softwares  and  the  procedures  performed 
+by  the  respective  auditors  of  the  subsidiary 
+companies, step-down subsidiary companies, 
+associate  company  and 
+joint  operation 
+companies which are companies incorporated 
+in  India  whose  financial  statements/financial 
+information have been audited under the Act, 
+except  for  the  instances  mentioned  below, 
+the  Holding  Company  and 
+its  subsidiary 
+companies, step-down subsidiary companies, 
+associate  company  and 
+joint  operation 
+companies  have  used  accounting  softwares 
+for  maintaining  its  books  of  account  which, 
+along  with  privilege  access  management 
+tools,  wherever  applicable,  have  a  feature 
+of  recording  audit  trail  (edit  log)  facility  and 
+the  same  has  operated  throughout  the  year 
+for  all  relevant  transactions  recorded  in  the 
+respective softwares:
+i. 
+ii. 
+in  respect  of  the  Holding  Company 
+and  its  two  subsidiary  companies,  the 
+feature of recording audit trail (edit log) 
+facility was not enabled at the database 
+level  to  log  any  direct  data  changes 
+for  the  accounting  software  used  for 
+variable 
+maintaining  price  master, 
+marketing expenses and time records for 
+product development cost;
+in  respect  of  the  Holding  Company,  in 
+the  absence  of  coverage  of  audit  trail 
+(edit log) with respect to database level 
+in  the 
+independent  auditor’s  report 
+in  relation  to  controls  at  the  service 
+organisation  for  accounting  software 
+used 
+for  preparation  of  financial 
+statements,  which  is  operated  by  third-
+party  software  service  provider,  we  are 
+unable  to  comment  whether  the  audit 
+trail feature of the database level of the 
+said software was enabled and operated 
+throughout  the  year  for  all  relevant 
+transactions recorded in the software;
+iii. 
+in  respect  of  one 
+joint  operation 
+company  and  its  subsidiary  company 
+for 
+the  accounting  software  used 
+for maintaining:
+• 
+• 
+ its  general  ledger,  the  feature  of 
+recording audit trail (edit log) facility 
+was not enabled from 1 April 2024 
+to  29  January  2025.  Further,  the 
+audit trail feature was not enabled 
+in respect of direct create action at 
+the database level; and
+ payroll  records,  the  feature  of 
+recording  audit  trail 
+log) 
+facility  was  not  enabled  at  the 
+application 
+level  for  the  period 
+from 1 April 2024 to 21 March 2025;
+(edit 
+iv. 
+v. 
+in  respect  of  one 
+joint  operation 
+company, the feature of recording audit 
+trail  (edit  log)  facility  is  not  enabled 
+for  direct  changes  to  data  when  using 
+certain access rights;
+in  respect  of  one  subsidiary  company, 
+due  to  the  absence  of  sufficient  and 
+appropriate  reporting  on  compliance 
+with  the  audit  trail  requirements  at 
+302

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Summary - {{ filename }}</title>
+    <style>
+      body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 40px; }
+      .container { max-width: 900px; margin: 0 auto; }
+      .header { display: flex; align-items: center; justify-content: space-between; }
+      .card { border: 1px solid #ddd; border-radius: 12px; padding: 24px; margin-top: 20px; }
+      h1 { margin: 0; font-size: 1.4rem; }
+      h2 { margin-top: 0; }
+      a.btn { background: #111827; color: #fff; text-decoration: none; padding: 8px 12px; border-radius: 8px; }
+      ol { padding-left: 1.2rem; }
+      li { margin: 6px 0; }
+      pre { white-space: pre-wrap; font-family: inherit; }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>Summary — {{ filename }}</h1>
+        <a class="btn" href="{{ url_for('index') }}">New PDF</a>
+      </div>
+
+      <div class="card">
+        <h2>Summary</h2>
+        <pre>{{ summary }}</pre>
+      </div>
+
+      <div class="card">
+        <h2>Key Points</h2>
+        <ol>
+          {% for kp in key_points %}
+            <li>{{ kp }}</li>
+          {% endfor %}
+        </ol>
+      </div>
+    </div>
+  </body>
+  </html>
+
+

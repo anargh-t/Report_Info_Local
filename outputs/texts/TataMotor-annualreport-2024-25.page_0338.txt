@@ -1,0 +1,58 @@
+Key assumptions
+The assessment of impairment is based on forecasts of future cashflows which are inherently uncertain and are developed 
+using informed assumptions such as historical trends and market information. The key assumptions are:
+i) 
+ii) 
+the recoverable amount is most sensitive;
+involve a significant amount of judgement and estimation; and
+iii)  drive significant changes to the recoverable amount when flexed under reasonably possible outcomes.
+Variable profit per unit and volumes – The approach to determining the forecast variable profit per unit and volumes 
+is  based  on  consideration  of  historical  performance,  the  order  bank,  profit  optimisation  efforts  and  Group  Cycle  Plan 
+assumptions, along with the impact of risks on future cashflows discussed above. A small change in either assumption may 
+have a significant impact to future cashflows and for this reason, as well as the impact of risks associated with supply and 
+inflationary pressures on variable profit and volumes, the directors consider variable profit per unit and volumes to be 
+key assumptions. Further, the variable profit per unit and volumes included in the business plan are largely driven by an 
+updated portfolio, which includes estimates and judgements related to the transition to electrified powertrain, including 
+the introduction of new Jaguar.
+Terminal value capital expenditure – the five year cash flows timing and amount are based on the latest Cycle Plan. The 
+terminal value is based on the best estimate of a maintenance level of capital expenditure which has been derived from 
+depreciation and amortisation expectations and funding requirements in responses to longer-term industry trends and 
+risks informed by those listed above, which are anticipated in the VIU calculation. Due to the judgement and estimation 
+involved in the calculation of terminal value capital expenditure, as well as the sensitivity of the recoverable amount to any 
+change in the value, JLR consider this to be a key assumption.
+Discount rate – the approach to determining the discount rate is based on the Capital Asset Pricing Model and a market 
+participant after tax cost of debt. These inputs are based on a typical build up approach, calculated using country specific 
+premiums without size premium and with an unlevered equity Beta with reference to industry peers. The decrease in the 
+year has mainly been driven by a decrease to the country risk premium. The discount rate is regarded as a key assumption 
+as it is the rate which drives the discounted cashflows used to determine the VIU of the CGU primarily due to the level of 
+judgement and estimation involved and the sensitivity of the recoverable amount to small changes in the percentage.
+The VIU assessment  is sensitive to  certain  assumptions, such  as Sales, General  and  Administration  (SG&A) costs which 
+are not considered to be key assumptions, because significant adverse changes are not considered reasonably possible 
+based on the forecasting methodology, where historical performance has been adjusted for expected future cost savings. 
+Similarly, certain assumptions which involve greater judgement and estimation, such as growth rate, but for which even 
+relatively significant changes have a limited impact on the assessment are not regarded as key assumptions.
+Sensitivity to Key Assumptions
+The value of key assumptions used to calculate the recoverable amount are as follows, presented as a % of Gross Vehicle 
+Revenues (“GVR”) to demonstrate the relative value to the assessment where noted:
+Forecast period (Yr1-5) variable profit
+Pre-tax discount rate
+Terminal value variable profit (%GVR)*
+Terminal value capital expenditures (%GVR)
+* Based on forecast variable profit per unit and volumes
+As at  
+January 31, 2025
+As at  
+January 31, 2024
+27.6%
+11.8%
+27.9%
+8.0%
+27.2%
+11.8%
+24.3%
+8.7%
+Sensitivity to reasonably possible changes to key assumptions
+Given the inherent uncertainty about the timing and amount of any change in key assumptions, as well as the significant 
+portion of the recoverable amount related to the VIU terminal value, JLR consider a net impact on terminal period cash 
+flows to be the best means of indicating the sensitivity of key assumptions.
+334

@@ -1,0 +1,70 @@
+Gain/(loss)    reclassified  from  Hedging  reserve  and  recognized  in  'Revenue  from 
+operations' in the consolidated statement of profit and loss on occurrence of forecast 
+sales
+Gain/(loss)  reclassified  out  of  Hedging  reserve  and  recorded  in  Inventory  in  the 
+Balance sheet on occurrence of forecast purchases
+Gain/(loss)  reclassified  from  Hedging  reserve  and  recognized  in  'Foreign  exchange 
+(gain)/loss (net)' in the consolidated statement of profit and loss for the case where 
+on account of forecast transactions no longer expected to occur
+Gain/(loss)  reclassified  from  Hedging  reserve  and  recognized  in  'Foreign  exchange 
+(gain)/loss  (net)'  in  the  consolidated  statement  of  profit  and  loss  on  account  of 
+repayment of foreign currency denominated borrowings
+Gain/(loss)  reclassified  from  Cost  of  Hedge  reserve  and  recognized  in  'Foreign 
+exchange  (gain)/loss  (net)'  in  the  consolidated  statement  of  profit  and  loss  on 
+account of forecast transactions no longer expected to occur
+Gain/(loss)  reclassified  from  other  comprehensive  income  to  the  consolidated 
+statement of profit and loss and balance sheet
+Gain/(loss)  on  foreign  currency  derivatives  not  hedge  accounted,  recognized  in 
+'Foreign exchange (gain)/loss (net)' in the consolidated statement of profit and loss
+Ineffectiveness recognised in the income statement in 'Exchange (loss)/gain and fair 
+value adjustments
+Year ended       
+March 31 2025
+(₹ in crores)
+Year ended       
+March 31 2024
+2,072
+(51)
+16
+2
+1
+2,040
+(486)
+(49)
+(535)
+(564)
+(29)
+29
+(253)
+2
+(815)
+(1,652)
+-
+(1,652)
+(d)  Financial risk management
+In  the  course  of  its  business,  the  Company  is  exposed  primarily  to  fluctuations  in  foreign  currency  exchange 
+rates,  interest  rates,  equity  prices,  liquidity  and  credit  risk,  which  may  adversely  impact  the  fair  value  of  its 
+financial instruments.
+The Company has a risk management policy which not only covers the foreign exchange risks but also other risks 
+associated with the financial assets and liabilities such as interest rate risks and credit risks. The risk management 
+policy is approved by the board of directors. The risk management framework aims to:
+l 
+Create  a  stable  business  planning  environment  by  reducing  the  impact  of  currency  and  interest  rate 
+fluctuations on the Company’s business plan. 
+l  Achieve  greater  predictability  to  earnings  by  determining  the  financial  value  of  the  expected  earnings 
+in advance.
+(i)  Market risk:
+Market risk is the risk of any loss in future earnings, in realizable fair values or in future cash flows that may 
+result from a change in the price of a financial instrument. The value of a financial instrument may change 
+as  a  result  of  changes  in  the  interest  rates,  foreign  currency  exchange  rates,  equity  price  fluctuations, 
+liquidity and other market changes. Future specific market movements cannot be normally predicted with 
+reasonable accuracy.
+(a)  Foreign exchange currency rate risk:
+ The  fluctuation  in  foreign  currency  exchange  rates  may  have  potential  impact  on  the  consolidated 
+statement of profit and loss, consolidated statement of comprehensive income, consolidated balance 
+sheet, consolidated statement of changes in equity and consolidated statement of cash flows, where 
+any transaction references more than one currency or where assets/liabilities are denominated in a 
+currency other than the functional currency of the respective consolidated entities.
+Considering the countries and economic environment in which the Company operates, its operations are 
+subject  to  risks  arising  from  fluctuations  in  exchange  rates  in  those  countries.  The  risks  primarily  relate 
+394

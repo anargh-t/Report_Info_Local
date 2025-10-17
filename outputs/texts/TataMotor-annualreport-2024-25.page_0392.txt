@@ -1,0 +1,176 @@
+(B) Disclosure on financial instruments
+This section gives an overview of the significance of financial instruments for the Company and provides additional 
+information on balance sheet items that contain financial instruments.
+The details of significant accounting policies, including the criteria for recognition, the basis of measurement and the 
+basis on which income and expenses are recognised, in respect of each class of financial asset, financial liability and 
+equity instrument are disclosed in note 2 to the consolidated financial statements.
+a)  Financial assets and liabilities
+The following table presents the carrying amounts and fair value of each category of financial assets and liabilities as at March 
+31, 2025.
+Financial assets
+Cash and other 
+financial assets 
+at amortised 
+cost
+Non -Derivative 
+Financial assets 
+at fair value
+Derivatives 
+other than 
+in hedging 
+relationship 
+at fair value 
+through profit 
+or loss
+Derivatives 
+in hedging 
+relationship at 
+fair value
+(₹ in crores)
+Total carrying 
+value
+Total fair value
+(a)
+(b)
+(c)
+Investments
+Trade receivables
+Cash and cash equivalents
+(d) Other bank balances
+(e)
+(f)
+Loans
+Other financial assets
+Total
+20,606
+13,248
+34,349
+6,485
+171
+22,730
+97,589
+9,516
+-
+-
+-
+-
+-
+9,516
+-
+-
+-
+-
+-
+208
+208
+-
+-
+-
+-
+-
+8,231
+8,231
+30,122
+13,248
+34,349
+6,485
+171
+31,169
+30,122
+13,248
+34,349
+6,485
+171
+31,169
+1,15,544
+1,15,544
+(₹ in crores)
+Financial liabilities
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+Long-term borrowings 
+(including current 
+maturities of long-term 
+borrowings) (refer note 
+below)
+Lease Liability
+Short-term borrowings
+Trade payables
+Compulsorily 
+Convertible Preference 
+Shares - liability portion
+Other financial liabilities
+Total
+Notes:
+Derivatives 
+other than 
+in hedging 
+relationship at 
+fair value
+Derivatives 
+in hedging 
+relationship at 
+fair value
+Other financial 
+liabilities at fair 
+value
+Other financial 
+liabilities at 
+amortised cost
+Total carrying 
+value
+Total fair value
+-
+-
+-
+-
+-
+766
+766
+-
+-
+-
+-
+-
+-
+-
+-
+56,812
+9,041
+5,687
+97,368
+56,812
+9,041
+5,687
+97,368
+58,413
+9,041
+5,687
+97,368
+-
+1,658
+1,658
+2,464
+-
+2,464
+-
+12,795
+1,81,703
+2,464
+15,219
+1,86,591
+2,464
+15,219
+1,88,192
+ 1
+ 3
+Includes ₹ 4,628 crores designated as hedged item in fair value hedge relationship. This includes a loss of  
+₹ 1,428 crores on account of fair value changes attributable to the hedged interest rate risk.
+2 
+Includes ₹ 18,468 crores (£1,668 million) designated as a hedging instrument in a cash flow hedge relationship.
+Includes ₹ 8,371 crores (£761 million) designated as hedging instrument in net investment hedge relationship.
+388

@@ -1,0 +1,63 @@
+(i) Option outstanding at the beginning of the year
+(ii) Granted during the year
+(iii) Forfeited/Expired during the year
+(iv) Exercised during the year
+(v) Option outstanding at the end of the year
+(vi) Remaining contractual life
+Year ended  
+March 31, 2025
+No. of options
+-
+2,99,918
+(8,953)
+-
+2,90,965
+40 months
+The Company has estimated fair value of options using Black Scholes model. The following assumptions were used for 
+calculation of fair value of options granted.
+Assumption factor
+Risk free rate
+Expected life of option
+Expected volatility
+Share price
+Granted during  
+Year ended  
+March 31, 2025
+PSUs
+ 7.2% 
+ 4 years 
+ 37.9% 
+1,143.10 
+iv)  Long Term Incentive Scheme – Jaguar Land Rover (JLR) 
+During the year ended March 31, 2025, the company introduced a cash-settled Long-Term Incentive Plan (‘LTIP’) for 
+certain employees. The LTIP is based on the value of phantom shares, which mirror the value of the Tata Motors Ltd 
+share price, but does not confer any ownership or voting rights. As the LTIP is cash-settled and based on phantom 
+shares, it is non-dilutive to existing shareholders. The LTIP vests over a three-year period, effective from June 2024. 
+The scheme will provide a cash payment to certain employees based on the Group’s performance against long-term 
+business metrics related to performance and strategic priorities and the share price of Tata Motors Limited over a 
+period of three years. This new LTIP has been accounted for under Ind AS 102 Share-based payments.
+Options outstanding at the beginning of the year
+Granted during the year
+Forfeited during the year
+Options outstanding at the end of the year
+No phantom shares were exercisable as at March 31, 2025.
+Year ended March 
+31, 2025
+No. of options
+-
+30,92,216
+(53,972)
+30,38,244
+The fair value of the phantom shares granted under the LTIP is deemed to be materially equivalent to the market value 
+of the Tata Motors Ltd share price at the current year end. As at March 31, 2025, the fair value of the phantom shares 
+was ₹673.30.
+During the year ended March 31, 2025, ₹ 54 crores was recorded as an expense in Employee Costs in relation to the 
+LTIP. The fair value of the balance sheet liability in respect of the LTIP  at March 31, 2025 was ₹ 54 crores.
+(B)  Employee benefits
+(a)   Accounting policy
+Pension plans
+Jaguar Land Rover operate defined benefit pension plans for certain of its subsidiaries, which are contracted 
+out of the second state pension scheme until April 5, 2016. The assets of the plan are held in separate trustee 
+administered funds. The plans provide for monthly pension after retirement as per salary drawn and service 
+period as set out in rules of each fund.
+366

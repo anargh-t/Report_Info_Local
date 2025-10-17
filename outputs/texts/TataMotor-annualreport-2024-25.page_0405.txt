@@ -1,0 +1,201 @@
+44   Disclosure on Financials instruments designated as hedging instrument in cashflow hedge
+The details of cash flow hedges entered by the Company to hedge interest rate risk arising on floating rate borrowings and 
+by  one  of  the  Company’s  subsidiaries  to  hedge  the  currency  fluctuation  of  its  functional  currency  (GBP)  against  foreign 
+currencies to hedge future cash flows arising from revenue and cost of materials is as follows:
+Outstanding contracts
+Cash flow hedges of foreign exchange 
+risk on forecast transactions
+Foreign currency forwards
+Cash flow hedges - USD
+Sell - USD/ Buy - GBP
+<1 year
+Between 1-5 years
+Buy - USD/ Sell - INR
+<1 year
+Between 1-5 years
+Cash flow hedges - Chinese Yuan
+Sell - Chinese Yuan / Buy - GBP
+<1 year
+Between 1-5 years
+Cash flow hedges -Euro
+Buy - Euro / Sell - GBP
+<1 year
+Between 1-5 years
+Buy - Euro / Sell - INR
+Between 1-5 years
+Cash flow hedges -JPY
+Buy - JPY / Sell - INR
+Between 1-5 years
+Cash flow hedges - Other
+<1 year
+Between 1-5 years
+foreign 
+Cash  flow  hedges  of 
+exchange risk on recognised debt
+Cross currency interest rate swaps
+Buy - USD / Sell - GBP
+<1 year
+Between 1-5 years
+Buy - Euro / Sell - GBP
+<1 year
+Between 1-5 years
+Buy - USD / Sell - INR
+<1 year
+Between 1-5 years
+>5 years
+Total  foreign  currency  derivative 
+instruments
+Cash  flow  hedges  of  commodity 
+price risk on forecast transactions
+Commodities
+<1 year
+Between 1-5 years
+Total commodity derivative 
+instruments
+401
+Average strike rate
+As at  
+March 31, 
+2025
+As at  
+March 31, 
+2024
+Nominal amounts
+(₹ in crores)
+As at  
+March 31, 
+2025
+As at  
+March 31, 
+2024
+Carrying value
+(₹ in crores)
+As at  
+March 31, 
+2025
+As at  
+March 31, 
+2024
+0.78
+0.78
+-
+-
+0.12
+0.12
+1.10
+1.08
+-
+-
+-
+-
+1.30
+1.30
+0.89
+-
+83.52
+-
+0.77
+0.78
+71.86
+83.02
+33,543
+70,031
+40,561
+49,688
+-
+-
+180
+830
+0.12
+0.12
+26,967
+60,455
+29,565
+48,134
+0.93
+0.95
+89.60
+0.56
+-
+-
+-
+1.30
+-
+0.89
+71.86
+83.52
+-
+29,945
+9,908
+-
+-
+10,738
+22,517
+855
+3,632
+4,937
+-
+2,564
+-
+30,531
+12,068
+412
+409
+10,041
+17,434
+-
+6,881
+-
+4,684
+539
+2,502
+-
+288
+365
+-
+-
+1,849
+1,472
+(210)
+(11)
+-
+-
+1,111
+1,395
+22
+233
+(476)
+-
+435
+-
+(999)
+(473)
+(20)
+(7)
+1,218
+1,281
+(147)
+(63)
+5
+17
+473
+630
+-
+614
+-
+(577)
+89
+325
+-
+2,76,092
+2,54,459
+6,473
+2,366
+5,994
+5,192
+11,186
+-
+-
+-
+100
+-

@@ -1,0 +1,110 @@
+Principle 6: Businesses should respect and make efforts to protect and restore the environment
+Essential Indicators
+1.  Details of total energy consumption (in Joules or multiples) and energy intensity:
+Parameter
+From renewable sources
+Total electricity consumption (A) (in GJ)
+Total fuel consumption (B)
+Energy consumption through other sources (C)
+Total energy consumed from renewable  source (A+B+C)
+From non-renewable sources
+Total electricity consumption (D) (in GJ)
+Total fuel consumption (E) (in GJ)
+Energy consumption through other sources (F)
+Total energy consumed from non-renewable sources (D+E+F) (in GJ)
+Total energy consumed (A+B+C+D+E+F) (in GJ)
+Energy intensity per rupee of turnover (GJ/ ₹)
+(Total energy consumption/ Revenue from operations)
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)** (GJ/ $)
+(Total energy consumed / Revenue from operations adjusted for PPP)
+Energy intensity in terms of physical output (GJ/vehicle produced)
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency? If yes, name of the external agency.
+FY 25
+FY 24
+5,32,976
+0
+0
+5,32,976
+6,50,710
+6,03,551
+0
+12,54,262 
+ 17,87,238
+0.000002627
+3,72,058*
+0
+0
+3,72,058*
+8,66,904*
+6,81,508*
+0
+15,48,412*
+19,20,470*
+0.00000267*
+0.00005428
+0.00005459*
+4.72
+4.80*
+Yes, KPMG Assurance and Consulting 
+Services LLP has provided reasonable 
+assurance on data reported under 
+this indicator.
+*The numbers for FY 24 have been restated due to reclassification of green attribute ownership for renewable electricity and enhanced coverage 
+of fuel consumption points. 
+**The intensity adjusted for PPP has been restated following the guidelines set forth in SEBI’s circular dated December 20, 2024, which outlines 
+Industry  Standards  Forum  guidance  for  BRSR  Core.  The  PPP  factor  has  been  sourced  from  IMF  database.    https://www.imf.org/external/
+datamapper/PPPEX@WEO/OEMDC.
+2.  Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and 
+Trade (PAT) Scheme of the Government of India? If Yes, disclose whether targets set under the PAT scheme have been 
+achieved. In case targets have not been achieved, provide the remedial action taken.
+Not Applicable
+3. 
+Provide details of the following disclosures related to water:
+Parameter
+Water withdrawal by source (in kilolitres)
+(i)  
+Surface water
+(ii)   Groundwater
+(iii)   Third party water
+(iv)   Seawater / desalinated water
+(v)   Others
+Total volume of water withdrawal (in kilolitres) (i + ii + iii + iv + v)
+Total volume of water consumption (in kilolitres)
+Water intensity per rupee of turnover  (Kilolitres/ ₹)
+(Water consumed / Revenue from operations)
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)* (Kilolitres/ $)
+(Total water consumption / Revenue from operations adjusted for PPP)
+Water intensity in terms of physical output (Kilolitres/ Vehicles Produced)
+Indicate if any independent assessment/ evaluation/assurance has been carried out by an 
+external agency?) If yes, name of the external agency.
+FY 25
+FY 24
+1,57,280
+ 6,67,560 
+ 20,22,267 
+0
+0
+ 28,47,107 
+ 26,61,542
+0.00000391
+ 1,69,577
+ 5,71,963
+23,42,418
+ 0
+0
+30,83,958
+29,79,832
+0.00000415
+0.00008084
+0.00008470
+7.03
+7.44
+Yes, KPMG Assurance and 
+Consulting Services LLP has 
+provided reasonable assurance on 
+data reported under this indicator.
+* The intensity adjusted for PPP has been restated following the guidelines set forth in SEBI’s circular dated December 20, 2024, which outlines 
+Industry  Standards  Forum  guidance  for  BRSR  Core.  The  PPP  factor  has  been  sourced  from  IMF  database.  https://www.imf.org/external/
+datamapper/PPPEX@WEO/OEMDC.
+225

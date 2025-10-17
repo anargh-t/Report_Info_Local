@@ -1,0 +1,70 @@
+disbursement curve analysis. However, there are no individual assumptions that can be reasonably expected to move 
+over the next financial year to such a degree that it would result in a material adjustment to the warranty provision.
+The Company notes that changes in the automotive environment presents its own significant challenges, particularly 
+due to the lack of maturity and historical data available at this time to help inform estimates for future warranty 
+claims, as well as any associated recoveries from suppliers due to such claims. The related provisions are made with 
+the Company’s best estimate at this time to settle such obligations in the future but will be required to be continually 
+refined as sufficient, real-world data becomes available.  
+The discount on the warranty provision is calculated using a risk-free discount rate as the risks specific to the liability, 
+such as inflation, are included in the base calculation.
+Estimates of the future costs of warranty actions are subject to numerous uncertainties, including the enactment 
+of  new  laws  and  regulations,  the  number  of  vehicles  affected  by  a  service  or  recall  action  and  the  nature  or  final 
+cost of the corrective action. Due to the uncertainty and potential volatility of the inputs to these assumptions, it is 
+reasonably possible that the actual cost expenditure over an extended period of time could be materially different to 
+the estimate in a range of amounts that cannot be reasonably estimated. 
+Estimates are made of the expected reimbursement claim based upon historical levels of recoveries from supplier, 
+adjusted for inflation and applied to the population of vehicles under warranty as on Balance Sheet date. Supplier 
+reimbursements are recognised as separate asset “Recoverable from Suppliers” under Other financial assets. (Refer 
+Notes 11 and 12).
+(b)  Provisions- non current
+(a)
+Employee benefits obligations
+(b) Warranty
+Total
+(c) Provisions- current
+(a)
+Employee benefits obligations
+(b) Warranty
+Total
+ Note:
+Warranty provision movement
+Balance at the beginning
+Provision made during the year
+Provision used during the year
+Impact of discounting
+Balance at the end
+Current
+Non-Current
+(₹ in crores)
+As at
+March 31, 2025
+As at
+March 31, 2024
+ 1,119 
+ 1,103 
+ 2,222 
+ 978 
+ 959 
+ 1,937 
+(₹ in crores)
+As at
+March 31, 2025
+As at
+March 31, 2024
+947
+1,188
+2,135
+778
+356
+1,134
+(₹ in crores)
+Year ended   
+March 31, 2025
+ 1,315 
+ 2,375 
+ (1,545)
+ 146 
+ 2,291 
+ 1,188 
+ 1,103 
+464

@@ -1,0 +1,134 @@
+• 
+• 
+• 
+for  commercial  vehicles. 
+Features  such  as  Driver  Monitoring  System, 
+Passive  Lane  Change  Assist,  Emergency  Stop 
+Signal,  Moving  Off  Information  System  and 
+Blind Spot Information System are particularly 
+important 
+the 
+Company  launched  country’s  first  truck  with 
+ADAS features in 2023 and remains committed 
+to  the  cause  of  safety.  There  is  a  dedicated 
+technology  roadmap  being  followed  and  at 
+the recently concluded Bharat Mobility Expo, 
+the Company demonstrated trucks with level 
+2 ADAS features.
+features, 
+Additionally,  the  implementation  of  AIML 
+projects  have  been  underway,  aimed  at 
+enhancing  product 
+improving 
+processes,  and  driving  efficiency  gains 
+using  AI/Generative  AI  technologies.  the 
+Company’s journey on this front commenced 
+few  years  back  with  Exploration  of  Machine 
+Learning  /  Deep  learning  for  solving  various 
+Engineering 
+and  Product  Development 
+related  use  cases.  These  solutions  span 
+across 
+Process  Optimization,  Quality 
+Predictions,  Connected  Vehicle  Platform, 
+Natural Voice Processing, Industry 4.0 among 
+others  and  are  linked  to  yielding  business 
+benefits.  Many  AIML  applications  have  been 
+implemented/are  under  development  from 
+an Engineering standpoint. 
+research  and  development 
+in 
+Ongoing 
+AMT  technology  are  focused  on  further 
+enhancing  its  adaptability  to  diverse  Indian 
+road  conditions,  improving  fuel  efficiency, 
+and optimizing performance in varying traffic 
+and  terrain.  Engineers  are  working  to  refine 
+automated  gear  shifting  systems  for  even 
+smoother  transitions,  aiming  to  reduce  wear 
+and tear and further increase driver’s comfort 
+and safety. 
+towards 
+coatings 
+research 
+Company’s  efforts 
+in 
+Innovative materials like reinforced composites 
+offers 
+and  Nano-engineered 
+superior  strength  and  corrosion  resistance. 
+Furthermore,  additive  manufacturing  (3D 
+printing)  is  streamlining  the  production  of 
+complex  parts,  reducing  material  waste  and 
+manufacturing  costs.  As  the  industry  moves 
+towards  electrification,  battery  enclosures 
+and 
+thermal  management  systems  are 
+benefiting from high-performance composites 
+and  advanced  ceramics,  ensuring  safety  and 
+efficiency.  These  material  innovations  are 
+paving the way for a more sustainable, high-
+performance future for commercial vehicles.
+ INITIATIVES TOWARDS DIGITAL PRODUCT 
+DEVELOPMENT SYSTEMS:
+Digital  Excellence  through  New  Technology  Adoptions 
+and Digitalization 
+• 
+• 
+• 
+Continuous  adoption  of  new  technologies  in  the 
+digital  product  development  domain  to  improve 
+product  design  &  development  processes 
+contributed  to  two  key  goals  –  Time  to  Market 
+&  World  Class  Quality.  Front  loading  in  design 
+&  development  resulted  in  timely  delivery  and 
+that  new  products  are  developed 
+ensuring 
+with  lower  cost  impacts  due  to  changes.  Niche 
+integration tools, systems and processes continue 
+to  be  enhanced  in  the  areas  of  CAx,  Knowledge 
+Lifecycle 
+Based  Engineering 
+Management  (PLM)  and  Manufacturing  Planning 
+Management (MPM) for more efficient end-to-end 
+delivery of the product development process.
+(KBE),  Product 
+Data  driven  analytics  using  AIML/Gen  AI  play  a 
+significant  role  in  enhancing  business  operations 
+to the next level. Data analytics provide insights of 
+what, where and when about failure/critical events 
+to  focus  on  and  alerts  for  planning  corrective 
+actions  in  advance.  Use  of  predictive  models  in 
+various  aspects  of  product  development  and 
+manufacturing is not only shortening cycle time but 
+also reducing time to converge on early decisions.
+Digital 
+transformation  of  business  processes 
+signifies  a  shift  from  traditional  methods  of 
+managing  repetitive  tasks  to  the  implementation 
+of digital tools and technologies. Journey towards 
+Business  Process  Excellence  continued  with  the 
+digitalization of new business processes using our 
+in-house  developed  business  process  modelling 
+platform.  This  platform  enables  management 
+conduct 
+to 
+anywhere. 
+The 
+integration  of  product  development  and 
+manufacturing  business  processes  has  fostered 
+collaboration  and  quicker  decision-
+better 
+making,  thereby  enhancing  the  productivity  of 
+both  design  and  manufacturing,  and  enabling 
+process innovation.
+anytime, 
+business 
+COMPETENCY DEVELOPMENT
+• 
+The  Future  Capabilities  Development  initiatives 
+have truly transformed the technical expertise and 
+domain  knowledge  of  our  engineers.  Programs 
+focusing  on  Functional  Safety  and  Advanced 
+Driver  Assistance  Systems  (ADAS)  have  equipped 
+174

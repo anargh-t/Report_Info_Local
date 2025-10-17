@@ -1,0 +1,173 @@
+Certain derivative financial assets and financial liabilities are subject to master netting arrangements, whereby in 
+the case of insolvency, derivative financial assets and financial liabilities with the same countries will be settled 
+on a net basis.
+The following table discloses the amounts that have been offset, in arriving at the balance sheet presentation 
+and the amounts that are available for offset only under certain conditions as at March 31, 2025:
+Gross amount 
+recognized
+Gross amount 
+recognised as 
+set off in the 
+balance sheet
+Net amount 
+presented in the 
+balance sheet
+(₹ in crores)
+Net amount 
+after offsetting
+Amounts 
+subject to an 
+enforceable 
+master netting 
+arrangement 
+(Financial 
+Instruments)
+8,439
+13,252
+35,844
+57,535
+2,424
+97,372
+-
+(4)
+(1,495)
+(1,499)
+-
+(4)
+8,439
+13,248
+34,349
+56,036
+2,424
+97,368
+(2,387)
+-
+-
+(2,387)
+(2,387)
+-
+6,052
+13,248
+34,349
+53,649
+37
+97,368
+23,777
+1,23,573
+(1,495)
+(1,499)
+22,282
+1,22,074
+-
+(2,387)
+22,282
+1,19,687
+Financial assets
+(a)
+(b)
+(c)
+Derivative financial instruments
+Trade receivables
+Cash and cash equivalents
+Total
+Financial liabilities
+(a)
+(b)
+(c)
+Derivative financial instruments
+Trade payable
+Loans from banks/financial 
+institutions (short-term & current 
+maturities of long term debt)
+Total
+The following table discloses the amounts that have been offset in arriving at the balance sheet presentation and 
+the amounts that are available for offset only under certain conditions as at March 31, 2024:
+Gross amount 
+recognized
+Gross amount 
+recognised as 
+set off in the 
+balance sheet
+Net amount 
+presented in the 
+balance sheet
+(₹ in crores)
+Net amount 
+after offsetting
+Amounts 
+subject to an 
+enforceable 
+master netting 
+arrangement 
+(Financial 
+Instruments)
+6,269
+16,955
+43,113
+66,337
+4,243
+93,981
+-
+(3)
+(3,098)
+(3,101)
+-
+(3)
+6,269
+16,952
+40,015
+63,236
+4,243
+93,978
+(3,414)
+-
+-
+(3,414)
+(3,414)
+-
+2,855
+16,952
+40,015
+59,822
+829
+93,978
+39,450
+1,37,674
+(3,098)
+(3,101)
+36,352
+1,34,573
+-
+(3,414)
+36,352
+1,31,159
+Financial assets
+(a)
+(b)
+(c)
+Derivative financial instruments
+Trade receivables
+Cash and cash equivalents
+Total
+Financial liabilities
+(a)
+(b)
+(c)
+Derivative financial instruments
+Trade payable
+Loans from banks/financial 
+institutions (short-term & current 
+maturities of long term debt)
+Total
+ (b)
+  Transfer of financial assets
+The  Company  transfers  finance  receivables  through  securitisation  transactions  and  direct  assignments.  In  such 
+transactions the Company surrenders control over the receivables, though it continues to act as an agent for the collection 
+of receivables. Generally in such transactions, the Company also provides credit enhancements to the transferee.
+Because  of  the  existence  of  credit  enhancements  in  such  transactions,  the  Company  continues  to  have  the 
+obligation to pay to the transferee, limited to the extent of credit enhancement provided, even if it does not 
+collect the equivalent amounts from the original asset and hence continues to retain substantially all risks and 
+rewards associated with the receivables, and as a result of which such transfer or assignment does not meet the 
+derecognition criteria, resulting in the transfer not being recorded as sale. Consequently, the proceeds received 
+from such transfers are recorded as collateralized debt obligations.
+392

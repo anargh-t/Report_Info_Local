@@ -1,0 +1,103 @@
+Life Cycle Assessments (LCAs)
+In line with our commitment to sustainability, Tata Motors conducts thorough 
+Life Cycle Assessments (LCAs) to evaluate the environmental impacts of our 
+products. These assessments cover resource use, ecological consequences such 
+as greenhouse gas (GHG) emissions and ecotoxicity, as well as human health 
+considerations including human toxicity and ionising radiation. LCA’s quantify these 
+impacts using metrics such as Global Warming Potential, Acidification Potential, 
+Eutrophication, Abiotic Depletion, Ozone Layer Depletion, and Photochemical 
+Ozone Creation.
+LCA methodology and approach
+Our LCA approach, adhering to ISO 14040 and ISO 14044 standards, 
+comprehensively evaluates the total environmental impacts or ecological burden 
+arising from the entire lifecycle of our products. This includes stages from raw 
+material extraction through manufacturing, usage, and end‑of‑life disposal. 
+We have completed Cradle to Gate LCA analysis for various passenger ICE and 
+EV vehicle models (Tiago, Tigor, Altroz, Punch, Nexon, Curvv, Harrier MCE and 
+Safari MCE, Nexon EV, Tiago EV, Tigor EV, Punch EV, Curvv EV). 
+To understand the life‑cycle impact of EV battery cells, TML has performed 
+Cradle‑to‑Gate LCA analysis with the help of a third party consultant to evaluate 
+global supply chain impact of battery manufacturing and the effect of different 
+manufacturing locations i.e. China and India.
+For our commercial vehicles, we have completed cradle to gate LCA analysis 
+for representative vehicles from SCV, ILMCV & HCV platforms which includes 
+assessments of material usage, energy consumption, and emissions. The transition 
+to alternate fuels is also a very important factor in reducing the carbon footprint 
+of Tata Motors commercial vehicles, and this is also taken into account while 
+conducting LCA analysis.
+These LCA studies help us to identify ‘hotspots’ where environmental impacts 
+are most significant, enabling targeted improvements to reduce product carbon 
+footprint, minimise waste generation and promote use of sustainable materials. 
+We have systematically embedded these objectives in our product development 
+process by setting decarbonisation and material circularity targets for future 
+passenger and commercial vehicle models.
+Nexon ICE - An LCA landmark
+We have established a new benchmark in environmental reporting transparency 
+with the successful third‑party verification of our Cradle‑to‑Grave LCA for Nexon 
+Diesel model by TUV‑Rheinland. The Cradle‑to‑Grave LCA study follows ISO 14040 
+and 14044 method covering all the life cycle phases – material extraction & part 
+manufacturing processes, upstream transport, vehicle production, downstream 
+distribution, fuel consumption and emissions during life of the product, preventive 
+and extensive maintenance, disassembly and treatment of ELV. The outcome of the 
+LCA indicates total life cycle climate change impact for Nexon Diesel as ~0.21 kg 
+CO₂e/km, with key contributions from the use phase, material extraction, and 
+component manufacturing. Third party validation ensures data accuracy and 
+methodological integrity strengthening our ability to make informed decisions and 
+demonstrate commitment to environment to our stakeholders.
+Circularity through design
+We are committed to upholding 
+sustainable practices in our 
+end‑of‑life product management 
+strategies. We continuously 
+strive to improve our products’ 
+circularity quotient by embedding 
+design‑for‑recycling approaches, 
+facilitating easy dismantling and 
+selection of sustainable materials. 
+TML has developed a comprehensive 
+strategy to embed material circularity 
+throughout the lifecycle of our 
+vehicles. This involves a fundamental 
+shift towards modular designs, 
+enabling efficient disassembly and 
+promoting component reuse and 
+remanufacturing. Our design‑for‑
+recycling approach seeks to minimise 
+waste and environmental impact. 
+In order to promote end‑of‑life 
+management of our products, the 
+dismantling information of, Nexon, 
+Altroz, Aria, Indica, Indigo, Indica 
+vista, Harrier, Safari, Nexon EV, Curvv 
+EV, Tigor EV is published on IDIS 
+(International Dismantling Information 
+System) website. This information 
+is useful to dismantlers for the safe 
+disposal of Tata vehicles.
+Sustainable materials encompass use 
+of recyclable materials, encouraging 
+use of recycled materials, restricted 
+use of hazardous materials and 
+use of materials with low carbon 
+intensity. Currently, over 90% of 
+materials used in our commercial and 
+passenger vehicles are recyclable and 
+recoverable. We are continuously 
+striving to enhance use of recycled 
+material content for our vehicles. 
+Our passenger and commercial 
+vehicles use varied percentages of 
+recycled  content in steel, aluminium, 
+glass and polymers. The average 
+recycled content of our passenger and 
+commercial vehicles is in the range 
+of 5 to 8% covering 5 ICE models 
+(Tiago, Tigor, Altroz, Punch, Nexon) and 
+3 CV platforms (SCV, ILMCV and HCV). 
+To further strengthen our efforts, we’re 
+also actively developing closed‑loop 
+recycling systems for critical materials 
+like metals, plastics, oil, and rubber 
+to reduce our dependence on 
+virgin resources. 
+85

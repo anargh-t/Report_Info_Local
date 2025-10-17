@@ -1,0 +1,68 @@
+28  Income taxes
+(a)   Accounting policy
+Income tax expense comprises current tax and deferred tax. Income tax expense is recognised in the statement of 
+Profit  and  Loss  except  when  they  relate  to  items  that  are  recognised  outside  of  profit  and  loss  (whether  in  other 
+comprehensive  income  or  directly  in  equity),  in  which  case  tax  is  also  recognised  outside  profit  and  loss.  Current 
+income taxes are determined based on respective taxable income of each taxable entity.
+Deferred tax assets and liabilities are recognised for the future tax consequences of temporary differences between 
+the carrying values of assets and liabilities and their respective tax bases, and unutilised business loss and depreciation 
+carry-forwards  and  tax  credits.  Such  deferred  tax  assets  and  liabilities  are  computed  separately  for  each  taxable 
+entity. Deferred tax assets are recognised to the extent it is probable that future taxable income will be available 
+against which the deductible temporary differences, unused tax losses, depreciation carry-forwards and unused tax 
+credits could be utilised. The carrying amount of deferred tax assets is reviewed at each reporting date and reduced 
+to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset 
+to be recovered.
+Deferred  tax  assets  and  liabilities  are  measured  based  on  the  tax  rates  that  are  expected  to  apply  in  the  period 
+when the asset is realised or the liability is settled, based on the tax rates and tax laws that have been enacted or 
+substantively enacted by the balance sheet date. Current and deferred tax assets and liabilities are offset when there 
+is a legally enforceable right to set off current tax assets against current tax liabilities and when they relate to income 
+taxes levied by the same taxation authority and the Company intends to settle its current tax assets and liabilities on 
+a net basis. The extent to which deferred tax assets can be recognised is based on an assessment of the probability 
+that future taxable income will be available against which the deductible temporary differences and tax loss carry-
+forwards can be utilised.
+Deferred tax liabilities on taxable temporary differences arising from interests in joint operation are not recognised 
+if the Company is able to control the timing of the reversal and it is probable that the temporary difference will not 
+reverse in the foreseeable future.
+(b)   The reconciliation of income tax expense calculated as per tax rates applicable to individual 
+entities with income tax expense is as follows:
+Profit before tax 
+Income tax expense at tax rates applicable to individual entities
+Undistributed and distributed  earnings of joint operation
+Deferred tax assets recognised on business losses (refer note below)
+Reversal of deferred tax asset created in previous year due to amendment in calculation 
+of capital gains tax
+Previously unrecognised tax losses utilised
+Impact of statutory tax rate changes
+(Reversal)/short of tax provision of earlier years
+Others
+Income tax expense/(credit) reported in statement of profit and loss 
+(₹ in crores)
+Year ended 
+March 31, 2025
+Year ended 
+March 31, 2024
+ 7,352 
+ 1,850 
+ 67 
+ -   
+ 403 
+ -   
+ (333)
+ (45)
+ (42)
+ 1,900 
+ 7,851 
+ 1,976 
+ 65 
+ (1,249)
+ -   
+ (960)
+ -   
+ 27 
+ 90 
+ (51)
+Note:
+During the year ended March 31, 2024, the Company recognised Deferred Tax Assets of ₹1,249 crores on previously 
+unrecognised business loss based on the probability of sufficient taxable profit in future periods against which such 
+business loss would be set off. 
+465

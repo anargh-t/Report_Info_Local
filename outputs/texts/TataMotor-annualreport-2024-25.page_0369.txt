@@ -1,0 +1,78 @@
+measures under this scheme include growth in sales, earnings and free cash flow. The options granted under this 
+scheme is exercisable by employees till one year from date of its vesting. The Company has granted options at 
+an exercise price of ₹338/- for ESOs and ₹2/- for PSUs. Option granted will vest after 3 years from date of grant. 
+Number of shares that will vest range from 0.5 to 1.2 per option granted depending on performance measures.
+PSUs and ESOs are generally excercisable within one year from the date of vesting.
+Reconciliation of outstanding ESOs/PSUs
+(i)  Options outstanding exercisable/vesting at the 
+beginning of the year
+(ii)   Granted/additional vesting during the year
+(iii)   Forfeited during the year
+(iv)   Exercised during the year
+(v)  
+ Options  outstanding  exercisable/vesting  at  the 
+end of the year
+(vii)   Remaining contractual life
+Year ended March 31, 2025
+Year ended March 31, 2024
+ESOs 2021
+PSUs
+ESOs 2021
+PSUs
+No of options
+No of options
+7,04,407
+1,49,107
+(11,377)
+(1,94,204)
+24,14,539
+1,01,697
+(1,18,629)
+(6,01,191)
+7,60,828
+-
+(56,421)
+-
+15,31,406
+9,86,232
+(1,03,099)
+-
+6,47,933
+3 Months
+17,96,416
+26 Months
+7,04,407
+4 Months
+24,14,539
+26 Months
+Share price for options exercised during the year for ESOP 2021/PSP scheme ranges from ₹621 to ₹1,160. 
+The Company has estimated fair value of options using Black Scholes model. The following assumptions were 
+used for calculation of fair value of options granted.
+Assumption factor
+Risk free interest rate
+Expected life of option
+Expected volatility
+Share price
+ Granted During
+Year ended March 
+31, 2024 
+PSUs
+6.9%
+ 4 years 
+49.3%
+514.10 
+Expected  volatility  during  the  expected  term  of  the  options  is  based  on  historical  volatility  of  the  observed 
+market prices of the Company’s publicly-traded equity shares during a period equivalent to the expected term 
+of the options. 
+Weighted average equity share price during the exercise period was ₹888.10 per ordinary share.
+iii)  Share-based Long Term Incentive Scheme 2024
+The Company has granted Performance Stock Units (“PSUs”) to its employees under the Tata Motors Limited Share-
+based Long Term Incentive Scheme 2024 (“TML SLTI Scheme 2024” or “Scheme”).
+As  per  the  scheme,  the  number  of  shares  that  will  be  vest  is  conditional  upon  certain  performance  measures 
+determined by the Nomination and Remuneration Committee (NRC). The performance is measured over the vesting 
+period of the options granted. The performance measures under this scheme include growth in sales, earnings and 
+free cash flow. The options granted under this scheme are exercisable by employees till one year from the date of its 
+vesting. The Company has granted options at an exercise price of ₹2/- for PSUs. Options granted will vest three years 
+after the date of grant. The number of shares that will vest range from 0.5 to 1.2 per option granted depending on 
+performance measures.
+365

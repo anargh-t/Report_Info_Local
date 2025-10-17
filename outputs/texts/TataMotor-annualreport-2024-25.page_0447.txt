@@ -1,0 +1,53 @@
+4   Leases
+(a)   Accounting policy
+Lessee:
+At inception of a contract, the Company assesses whether a contract is, or contain a lease. A contract is, or contains, 
+a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for 
+consideration. To assess whether a contract conveys the right to control the use of an identified asset, the Company 
+assesses whether:
+• 
+• 
+• 
+• 
+• 
+The contract involves the use of an identified asset –this may be specified explicitly or implicitly, and should be 
+physically distinct or represent substantially all of the capacity of a physically distinct asset. If the supplier has a 
+substantive substation right, then the asset is not identified;
+The Company has the right to substantially all of the economic benefits from the use of the asset throughout the 
+period of use; and
+The Company has the right to direct the use of the asset. The Company has this right when it has the decision 
+making rights that are most relevant to changing how and for what purposes the asset is used. In rare cases 
+where the decision about how and for what purpose the asset is used is predetermined, the Company has the 
+right to direct the use of the asset if either:
+The Company has the right to operate the asset; or
+The Company designed the asset in a way that predetermines how and for what purposes it will be used.
+As a practical expedient, accounting standards permit a lessee not to separate non-lease components, and instead 
+account for any lease and associated non-lease components as a single arrangement. The Company has not used this 
+practical expedient. At inception or on reassessment of a contract that contains a lease component, the Company 
+allocates the consideration in the contract to each lease component on the basis of their relative stand-alone prices.
+The Company recognises a right-of-use asset and a lease liability at the lease commencement date. The right-of-use 
+asset is initially measured at cost, which comprises of the initial amount of the lease liability adjusted for any lease 
+payments made at or before the commencement date, plus any initial direct costs incurred and estimated dilapidation 
+costs,  less  any  lease  incentives  received.  The  right-of-use  asset  is  subsequently  amortised  using  the  straight-line 
+method over the shorter of the useful life of the leased asset or the period of lease. If ownership of the leased asset 
+is automatically transferred at the end of the lease term or the exercise of a purchase option is reflected in the lease 
+payments, the right-of-use asset is amortised on a straightline basis over the expected useful life of the leased asset.
+The lease liability is initially measured at the present value of the lease payments that are not paid at commencement 
+date, discounted using the interest rate implicit in the lease or, if that rate cannot be readily determined, the Company’s 
+incremental borrowing rate. The lease liability is measured at amortised cost using the effective interest method. It is 
+re-measured when there is a change in future lease payments.
+Lease  payments  include  fixed  payments,  including  in-substance  fixed  payments,  amounts  expected  to  be  payable 
+under a residual value guarantee, the exercise price of a purchase option if the Company is reasonably certain to 
+exercise that option and payment of penalties for terminating the lease if the lease term considered reflects that 
+the Company shall exercise termination option. The Company also recognises a right of use asset which comprises 
+of amount of initial measurement of the lease liability, any initial direct cost incurred by the Company and estimated 
+dilapidation costs.
+Payment made towards short term leases (leases for which non-cancellable term is 12 months or lesser) and low 
+value assets (lease of assets worth less than ₹0.03 crores) are recognised in the statement of Profit and Loss as rental 
+expenses over the tenor of such leases.   
+Lessor:
+At the inception of a lease, the lease arrangement is classified as either a finance lease or an operating lease, based 
+on contractual terms and substance of the lease arrangement. Whenever the terms of the lease transfer substantially 
+all the risks and rewards of ownership to the lessee, the contract is classified as a finance lease. All other leases are 
+classified as operating leases.
+443

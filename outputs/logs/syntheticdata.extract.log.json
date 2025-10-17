@@ -1,0 +1,9 @@
+{
+  "pdf": "data\\syntheticdata.pdf",
+  "texts_meta": "outputs\\texts\\syntheticdata.texts.json",
+  "num_pages": 2,
+  "tables_extracted": 0,
+  "texts_dir": "outputs\\texts",
+  "tables_dir": "outputs\\tables",
+  "errors": []
+}

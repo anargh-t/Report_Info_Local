@@ -1,0 +1,52 @@
+Lessor:
+At the inception of a lease, the lease arrangement is classified as either a finance lease or an operating lease, based 
+on contractual terms and substance of the lease arrangement. Whenever the terms of the lease transfer substantially 
+all the risks and rewards of ownership to the lessee, the contract is classified as a finance lease. All other leases are 
+classified as operating leases.
+Amounts due from lessees under finance leases are recognised as receivables at the amount of the Company’s net 
+investment in the leases. Finance income is allocated to accounting periods so as to reflect a constant periodic rate of 
+return on the Company’s net investment outstanding in respect of the leases.
+Rental income from operating leases is recognised on a straight-line basis over the term of the relevant lease. Initial 
+direct costs incurred in negotiating and arranging an operating lease are added to the carrying amount of the leased 
+asset and recognised on a straight-line basis over the lease term.
+(B)  The Company leases a number of buildings, plant and equipment, IT hardware and software assets, certain of which 
+have  a  renewal  and/or  purchase  option  in  the  normal  course  of  the  business.  Extension  and  termination  options 
+are included in a number of leases across the Company. The majority of extension and termination options held are 
+exercisable only by the Company and not by the respective lessor. The Company assesses at lease commencement 
+whether it is reasonably certain to exercise the extension or termination option. The Company re-assesses whether it 
+is reasonably certain to exercise options if there is a significant event or significant change in circumstances within its 
+control. It is recognised that there is potential for lease term assumptions to change in the future and this will continue 
+to be monitored by the Company where relevant. The Company’s leases mature between 2026 and 2051.
+When measuring lease liability, the Company discounted lease payments using its incremental borrowing rate. The 
+weighted-average rate applied is 5.32% (2024: 5.89%).
+The following amounts are included in the Balance Sheet :
+Current lease liabilities
+Non-current lease liabilities
+Total lease liabilities 
+(₹ in crores)
+As at
+March 31, 2025
+As at
+March 31, 2024
+1,399
+7,642
+9,041
+1,093
+7,670
+8,763
+The following amounts are recognised in the statement of profit and loss :
+Variable lease payment not included in the measurement of lease liabilities
+Income from sub-leasing of right-of-use assets
+Expenses related to short-term leases
+Expenses related to low-value assets, excluding short-term leases of low-value assets
+*For repayment of lease liabilities during the year refer note 27 (G).
+(₹ in crores)
+For the year ended,
+March 31, 2025
+For the year ended,
+March 31, 2024
+5
+15
+216
+156
+5

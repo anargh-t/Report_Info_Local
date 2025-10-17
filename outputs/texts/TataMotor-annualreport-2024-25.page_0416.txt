@@ -1,0 +1,220 @@
+48  Earnings per Share (“EPS”)
+(A)  Accounting Policy 
+Basic earnings per share has been computed by dividing profit for the year by the weighted average number of shares 
+outstanding during the year. Partly paid-up shares are included as fully paid equivalents according to the fraction paid 
+up. Diluted earnings per share has been computed using the weighted average number of shares and dilutive potential 
+shares, except where the result would be anti-dilutive.
+(B)  EPS from continuing operations
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+(i)
+(j)
+(k)
+(l)
+(m)
+(n)
+(o)
+(p)
+(q)
+(r)
+(s)
+(t)
+Profit for the year from continuing operations
+The weighted average number of Ordinary shares for Basic EPS
+The weighted average number of 'A' Ordinary shares for Basic EPS
+The nominal value per share (Ordinary and 'A' Ordinary)
+Share of profit for Ordinary shares for Basic EPS
+Share of profit for 'A' Ordinary shares for Basic EPS
+Earnings Per Ordinary share (Basic)
+Earnings Per 'A' Ordinary share (Basic)
+Profit after tax for Diluted EPS
+The weighted average number of Ordinary shares for Basic EPS
+Add: Adjustment for shares held in abeyance
+Add: Adjustment for Options relating to ESOPs
+The weighted average number of Ordinary shares for Diluted EPS#
+The weighted average number of 'A' Ordinary shares for Basic EPS
+Add: Adjustment for 'A' Ordinary shares held in abeyance
+The weighted average number of 'A' Ordinary shares for Diluted EPS
+Share of profit for Ordinary shares for Diluted EPS
+Share of profit for 'A' Ordinary shares for Diluted EPS*
+Earnings Per Ordinary share (Diluted)
+Earnings Per 'A' Ordinary share (Diluted)
+₹ crores
+Nos.
+Nos.
+₹
+₹ crores
+₹ crores
+₹
+₹
+₹ crores
+Nos.
+Nos.
+Nos.
+Nos.
+Nos.
+Nos.
+Nos.
+₹ crores
+₹ crores
+₹
+₹
+Year ended  
+March 31, 2025
+22,959
+3,53,14,38,766
+-
+2
+22,959
+NA
+65.01
+NA
+22,959
+3,53,14,38,766
+5,87,378
+19,52,006
+3,53,39,78,150
+-
+-
+-
+22,959
+-
+64.97
+NA
+Year ended  
+March 31, 2024
+32,045
+3,32,22,65,695
+50,85,02,896
+2
+27,787
+4,258
+83.64
+83.74
+32,045
+3,32,22,65,695
+4,92,559
+25,34,495
+3,32,52,92,749
+50,85,02,896
+2,33,214
+50,87,36,110
+27,789
+4,256
+83.56
+83.66
+(C)  EPS from discontinued operation
+Profit for the year from discontinued operation
+The weighted average number of Ordinary shares for Basic EPS
+The weighted average number of 'A' Ordinary shares for Basic EPS
+The nominal value per share (Ordinary and 'A' Ordinary)
+Share of profit for Ordinary shares for Basic EPS
+Share of profit for 'A' Ordinary shares for Basic EPS
+Earnings Per Ordinary share (Basic)
+Earnings Per 'A' Ordinary share (Basic)
+Profit after tax for Diluted EPS
+The weighted average number of Ordinary shares for Basic EPS
+Add: Adjustment for shares held in abeyance
+Add: Adjustment for Options relating to ESOPs
+The weighted average number of Ordinary shares for Diluted EPS#
+The weighted average number of 'A' Ordinary shares for Basic EPS
+Add: Adjustment for 'A' Ordinary shares held in abeyance
+The weighted average number of 'A' Ordinary shares for Diluted EPS
+Share of profit for Ordinary shares for Diluted EPS
+Share of profit for 'A' Ordinary shares for Diluted EPS*
+Earnings Per Ordinary share (Diluted)
+Earnings Per 'A' Ordinary share (Diluted)
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+(i)
+(j)
+(k)
+(l)
+(m)
+(n)
+(o)
+(p)
+(q)
+(r)
+(s)
+(t)
+ * ‘A’ Ordinary shareholders are entitled to receive dividend at 5 percentage points more than the aggregate rate of dividend determined by Tata Motors 
+Limited on Ordinary shares for the financial year.
+₹ crores
+Nos.
+Nos.
+₹
+₹ crores
+₹ crores
+₹
+₹
+₹ crores
+Nos.
+Nos.
+Nos.
+Nos.
+Nos.
+Nos.
+Nos.
+₹ crores
+₹ crores
+₹
+₹
+Year ended  
+March 31, 2025
+4,871
+3,53,14,38,766
+-
+2
+4,871
+-
+13.79
+NA
+4,871
+3,53,14,38,766
+5,87,378
+19,52,006
+3,53,39,78,150
+-
+-
+-
+4,871
+-
+13.78
+NA
+Year ended  
+March 31, 2024
+(646)
+3,32,22,65,695
+50,85,02,896
+2
+(560)
+(86)
+(1.69)
+(1.69)
+(646)
+3,32,22,65,695
+4,92,559
+25,34,495
+3,32,52,92,749
+50,85,02,896
+2,33,214
+50,87,36,110
+(560)
+(86)
+(1.68)
+(1.68)
+#Excludes 18,298 and Nil Performance share units being anti-dilutive for the year ended March 31, 2025 and 2024 respectively.
+412

@@ -1,0 +1,107 @@
+Tata Motors’ continues enduring commitment to future‑readiness by embedding AI, data 
+science, and automation into the heart of our operations, we are creating a more agile, 
+resilient, and value‑driven enterprise one that is equipped to lead the mobility revolution 
+in an increasingly AI driven world.
+Data & AI: Driving an 
+intelligent, agile enterprise
+FY25 was a year of creating a strong 
+enterprise Infrastructure & Data fabric 
+to scale the deployment of AI across 
+critical business functions, enabling 
+real‑time insights, automation, 
+and agility.
+A hybrid private cloud with advanced 
+voice analytics emerged as a powerful 
+agent for sales conversion. Processing 
+over 1,50,000 recorded conversations 
+in multiple languages, our AI engine 
+categorised leads based on intent 
+and sentiment. More than 55,000 
+high‑potential leads were surfaced 
+and prioritised, significantly improving 
+sales response times and boosting 
+conversion efficiency.
+In engineering, AI transformed 
+traditional product development. 
+Predictive models simulate real‑world 
+vehicle behaviour, enabling us to 
+optimise powertrain configurations, 
+improve fuel efficiency, and accelerate 
+design validation. These simulations 
+have reduced reliance on physical 
+testing, delivering substantial time 
+and cost savings while enhancing 
+engineering precision.
+Our N=1 pricing strategies, dynamically 
+tailored discounts and incentives based 
+on customer behaviour and market 
+context to enhance competitiveness, 
+enable sales conversions and 
+improve realisation.
+Together, these initiatives reflect 
+our commitment to embedding 
+data intelligence into the core of 
+our decision‑making processes. 
+By transforming data into actionable 
+insight, Tata Motors is building a 
+responsive, agile enterprise equipped 
+for dynamic market environments.
+59
+Software defined 
+manufacturing: building 
+intelligent, sustainable plants
+Tata Motors is reimagining 
+manufacturing with a focus on digital 
+orchestration, intelligent automation, 
+and sustainable efficiency. In FY25, 
+we expanded the adoption of 
+Industry 4.0 technologies across our 
+production facilities. The commercial 
+vehicle business unit has initiated 
+adoption of SAP S/4HANA to establish 
+a future‑ready, digitally native 
+ERP platform.
+Advanced computer vision and 
+machine learning systems are deployed 
+on the shop floor to proactively 
+identify quality deviations across 
+painting, casting, and assembly 
+processes. Predictive analytics tools 
+monitor sealant gaps, paint thickness, 
+and structural welds, ensuring superior 
+first‑time‑right outcomes.
+Safety has been bolstered through 
+real‑time video analytics that detect 
+PPE non‑compliance, restricted 
+zone access, and operator fatigue. 
+These AI‑led interventions have 
+strengthened shopfloor safety 
+governance across all plants.
+In our Paint shops, a dynamic AI‑based 
+time prediction model has optimised 
+oven startup durations based on daily 
+load profiles. Besides yielding 7% 
+energy savings, it reduced operating 
+costs besides contributing to our 
+sustainability targets.
+Our digital supply chain ecosystem now 
+connects more than 2,000 suppliers 
+across five manufacturing locations. 
+AI‑powered forecasting tools and 
+performance dashboards ensure 
+real‑time material visibility and smart 
+inventory planning. Digitisation of 15 
+warehouses and over 100 line‑side 
+marts supports Just‑in‑Time (JIT) 
+and Just‑in‑Sequence (JIS) inventory 
+management, improving throughput 
+and reducing working capital. 
+A mobile‑based Digital Control Tower 
+with real‑time visibility of production 
+KPIs enables faster decisions.
+Through the convergence of 
+automation, AI, and digital 
+systems, Tata Motors is 
+shaping the next generation of 
+manufacturing‑sustainable, adaptive 
+and digitally enabled.

@@ -1,0 +1,77 @@
+4. 
+Provide the following details related to water discharged:
+Water discharge by destination and level of treatment (in kilolitres)
+(i) 
+To surface water
+- No treatment
+- With treatment – please specify level of treatment
+(ii)   To groundwater
+- No treatment
+- With treatment – please specify level of treatment
+(iii)  To seawater
+- No treatment
+- With treatment – please specify level of treatment
+(iv)  Sent to third-parties
+- No treatment
+- With treatment – please specify level of treatment
+(v)  Others
+- No treatment
+- With treatment – please specify level of treatment
+Total water discharged (in kilolitres)
+Indicate if any independent assessment / evaluation / assurance has been carried out by 
+an external agency? If Yes, name of the external agency
+FY 25
+FY 24
+0
+0
+1,85,565
+(TDS 478 mg/L)
+1,04,126
+(TDS 602 mg/L)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1,85,565
+1,04,126
+Yes, KPMG Assurance and Consulting 
+Services LLP has provided reasonable 
+assurance on data reported under 
+this indicator.
+5.  Has  the  entity  implemented  a  mechanism  for  Zero  Liquid  Discharge?  If  Yes,  provide  details  of  its  coverage 
+and implementation.
+Our  operations  in  India  extend  across  Jharkhand,  Uttar  Pradesh,  Uttarakhand,  Maharashtra,  and  Karnataka.  The 
+management and disposal of treated effluents generated during plant operations are governed by the specific operating 
+consent orders issued by the respective State Pollution Control Boards, which our plants strictly follow.
+In line with these consent orders, several plants have implemented tertiary treatment systems, such as Reverse Osmosis 
+(RO), to recycle treated effluents for reuse in processes. Others adopt a Zero Liquid Discharge (ZLD) approach by repurposing 
+treated effluents for secondary applications, including toilet flushing and supporting greenbelt development within the 
+plant and surrounding areas.
+This  year,  we  have  taken  additional  steps  to  conserve  freshwater  and  optimize  its  usage.  In  Pune  and  Jamshedpur,  for 
+example, we have reduced freshwater consumption by increasing the use of treated effluents in our processes. This includes 
+the installation of tertiary treatment systems with RO membranes and the utilization of treated sewage wastewater for 
+plant process water requirements from nearby sources—such as PCMC’s treated sewage usage at the Pimpri plant and 
+township sewage at the Jamshedpur plant. Furthermore, efforts are underway to enhance water sustainability through 
+rainwater harvesting and recharge initiatives both within and around plant premises. Tata Motors is committed to achieving 
+a ‘Water Positive’ status by 2030 in all its operations and townships.
+Aligned with these consent orders/authorizations, plants have implemented comprehensive tertiary treatment systems, 
+such  as  Reverse  Osmosis,  to  recycle  treated  effluents  for  process  reuse.  Others  ensure  Zero  Liquid  Discharge  by 
+repurposing treated effluents for secondary purposes, such as toilet flushing and/or maintaining greenbelt development 
+within  plant  premises  and  adjacent  green  areas  belonging  to  the  plants.  Moving  forward,  our  approach  will  embrace 
+a  holistic  perspective,  encompassing  all  aspects  of  water  sourcing  and  its  efficient  utilization.  Our  ongoing  efforts  are 
+reducing freshwater usage by increasing treated effluent recycling for our processes and other sanitation purposes. Efforts 
+are ongoing to increase water augmentation through rainwater harvesting and recharge both within and beyond plant 
+premises, as Tata Motors strives toward achieving a ‘Water Positive’ status by the year 2030.
+226

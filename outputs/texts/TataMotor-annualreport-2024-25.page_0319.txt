@@ -1,0 +1,113 @@
+1  Background and operations
+Tata  Motors  Limited  and  its  subsidiaries,  collectively 
+referred  to  as  (“the  Company”  or  “Tata  Motors”), 
+designs,  manufactures  and  sells  a  wide  range  of 
+automotive  vehicles.  The  Company  also  manufactures 
+engines  for  industrial  applications,  aggregates  such 
+as  axles  and  transmissions  for  commercial  vehicles 
+and  factory  automation  equipment,  and  provides 
+information technology services.
+in 
+is  a  public 
+India  and  has 
+limited  company 
+Tata  Motors  Limited 
+incorporated  and  domiciled 
+its 
+registered  office  at  Mumbai,  Maharashtra,  India.  As  at 
+March  31,  2025,  Tata  Sons  Private  Limited,  together 
+with  its  subsidiaries  and  joint  venture  owns  42.51%  of 
+the  Ordinary  shares  and  has  the  ability  to  significantly 
+influence the Company’s operation.
+The  Company’s  subsidiaries  includes  the  Jaguar  Land 
+Rover business (referred to as JLR or Jaguar Land Rover).
+The consolidated financial statements were approved by 
+the Board of Directors and authorised for issue on May 
+13, 2025.
+2  Material accounting policies
+(a)  Statement of compliance
+These  financial  statements  have  been  prepared 
+in  accordance  with  Ind  AS  as  notified  under  the 
+Companies  (Indian  Accounting  Standards)  Rules, 
+2015 read with Section 133 of the Companies Act, 
+2013 (“the Act”) as amended from time to time.
+(b)  Basis of preparation 
+The  consolidated  financial  statements  have 
+been  prepared  on  historical  cost  basis  except  for 
+certain  financial  instruments  which  are  measured 
+at  fair  value  at  the  end  of  each  reporting  period 
+as  explained  in  the  accounting  policies  below. 
+These  consolidated  financial  statements  are 
+presented  in  Indian  Rupees  (INR),  which  is  also 
+the  Company’s  functional  currency.  All  amounts 
+have  been  rounded  to  the  nearest  crores,  unless 
+otherwise indicated. “0” refers to amount less than 
+₹0.50 crore.
+(c)  Basis of consolidation
+Subsidiaries
+The consolidated financial statements include Tata 
+Motors  Limited  and  its  subsidiaries.  Subsidiaries 
+are  entities  controlled  by  the  Company.  Control 
+exists  when  the  Company  (a)  has  power  over 
+315
+the  investee,  (b)  it  is  exposed,  or  has  rights,  to 
+variable  returns  from  its  involvement  with  the 
+investee  and  (c)  has  the  ability  to  affect  those 
+returns  through 
+its  power  to  direct  relevant 
+activities  of  the  investee.  Relevant  activities  are 
+those activities that significantly affect an entity’s 
+returns.  The  Company  reassesses  whether  or  not 
+it  controls  an  investee  if  facts  and  circumstances 
+indicate  that  there  are  changes  to  one  or  more 
+of  the  three  elements  listed  above.  In  assessing 
+control,  potential  voting  rights  that  currently  are 
+exercisable  and  other  contractual  arrangements 
+that may influence control are taken into account. 
+The results of subsidiaries acquired or disposed of 
+during  the  year  are  included  in  the  consolidated 
+financial  statements  from  the  effective  date  of 
+acquisition and up to the effective date of disposal, 
+as appropriate.
+Inter-company 
+balances 
+transactions 
+including  unrealised  profits  are  eliminated  in  full 
+on consolidation.
+and 
+in 
+interests 
+the  net  assets 
+Non-controlling 
+(excluding  goodwill)  of  consolidated  subsidiaries 
+are 
+identified  separately  from  the  Company’s 
+equity. The interest of non-controlling shareholders 
+may  be  initially  measured  either  at  fair  value  or 
+at  the  non-controlling  interests’  proportionate 
+share of the fair value of the acquiree’s identifiable 
+net  assets.  The  choice  of  measurement  basis 
+is  made  on  an  acquisition-by-acquisition  basis. 
+Subsequent  to  acquisition,  the  carrying  amount 
+of  non-controlling  interests  is  the  amount  of 
+those interests at initial recognition plus the non-
+controlling interests’ share of subsequent changes 
+in equity. Total comprehensive income is attributed 
+to non-controlling interests even if it results in the 
+non-controlling  interest  having  a  deficit  balance. 
+Changes in the Company’s interests in subsidiaries 
+that do not result in a loss of control are accounted 
+for as equity transactions. The carrying amount of 
+the  Company’s  interests  and  the  non-controlling 
+interests are adjusted to reflect the changes in their 
+relative interests in the subsidiaries. Any difference 
+between the amount by which the non-controlling 
+interests  are  adjusted  and  the  fair  value  of  the 
+consideration paid or received is recognised directly 
+in equity and attributed to owners of the Company. 
+When  the  Company  loses  control  of  a  subsidiary, 
+the  profit  or  loss  on  disposal  is  calculated  as  the 
+difference  between  (i)  the  aggregate  of  the  fair 
+value of consideration received and the fair value of 
+any retained interest and (ii) the previous carrying 
+amount  of  the  assets  (including  goodwill),  and
