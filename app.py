@@ -29,6 +29,7 @@ except Exception:
     Image = None  # type: ignore
 
 from flask import Flask, request
+import ollama
 
 
 # -------------------- Extraction (no tables) --------------------
@@ -118,7 +119,59 @@ def extract_pages_text(pdf_path: str) -> List[str]:
     return pages
 
 
-# -------------------- Heuristic summarizer --------------------
+# -------------------- AI-powered summarizer with Ollama --------------------
+
+def summarize_with_ollama(pages: List[str], model: str = "tinyllama") -> Dict[str, Any]:
+    """Use Ollama with TinyLlama for AI-powered summarization"""
+    try:
+        # Combine all pages into a single text
+        full_text = "\n\n".join(pages)
+        
+        # Truncate if too long (TinyLlama has context limits)
+        max_chars = 8000  # Conservative limit for TinyLlama
+        if len(full_text) > max_chars:
+            full_text = full_text[:max_chars] + "..."
+        
+        # Create a focused prompt for financial report summarization
+        prompt = f"""You are a financial analyst. Summarize the following annual report text in 2-3 concise paragraphs, focusing on:
+1. Key financial performance metrics
+2. Strategic initiatives and business outlook
+3. Major risks or challenges mentioned
+
+Text to summarize:
+{full_text}
+
+Summary:"""
+
+        # Call Ollama
+        response = ollama.generate(
+            model=model,
+            prompt=prompt,
+            options={
+                'temperature': 0.3,  # Lower temperature for more focused summaries
+                'top_p': 0.9,
+                'max_tokens': 500,  # Limit response length
+            }
+        )
+        
+        ai_summary = response['response'].strip()
+        
+        # Extract key points using the original heuristic method as backup
+        key_points = _pick_top_sentences(full_text, max_sentences=8)
+        
+        return {
+            "summary": ai_summary,
+            "key_points": key_points,
+            "method": "ai_ollama"
+        }
+        
+    except Exception as e:
+        print(f"Ollama summarization failed: {e}")
+        # Fallback to heuristic method
+        return summarize_text_heuristic(pages)
+
+
+# -------------------- Heuristic summarizer (fallback) --------------------
 
 SECTION_PATTERNS = {
     "financials": r"revenue|ebit|ebitda|pat|profit|loss|income|balance sheet|cash flow|financial highlight",
@@ -172,7 +225,7 @@ def _pick_top_sentences(all_text: str, max_sentences: int = 8) -> List[str]:
     return [s for s, _ in scored[:max_sentences]]
 
 
-def summarize_text(pages: List[str]) -> Dict[str, Any]:
+def summarize_text_heuristic(pages: List[str]) -> Dict[str, Any]:
     if not pages:
         return {"summary": "", "key_points": []}
     # Chunk pages by small groups for variety
@@ -195,9 +248,12 @@ def summarize_text(pages: List[str]) -> Dict[str, Any]:
     return {"summary": summary, "key_points": top_points}
 
 
-def run(pdf_path: str) -> Dict[str, Any]:
+def run(pdf_path: str, use_ai: bool = True) -> Dict[str, Any]:
     pages = extract_pages_text(pdf_path)
-    res = summarize_text(pages)
+    if use_ai:
+        res = summarize_with_ollama(pages)
+    else:
+        res = summarize_text_heuristic(pages)
     stem = os.path.splitext(os.path.basename(pdf_path))[0]
     os.makedirs(os.path.join("outputs", "summaries"), exist_ok=True)
     txt_path = os.path.join("outputs", "summaries", f"{stem}.summary.txt")
@@ -239,13 +295,14 @@ pre {{ white-space: pre-wrap; font-family: inherit; }}
 def index():
     body = (
         "<div class='card'>"
-        "<h1>Local PDF Summarizer</h1>"
+        "<h1>AI-Powered PDF Summarizer</h1>"
         "<form action='/summarize' method='post' enctype='multipart/form-data'>"
         "<label>Choose a PDF file</label><br>"
         "<input type='file' name='file' accept='application/pdf' required><br><br>"
+        "<label><input type='checkbox' name='use_ai' checked> Use AI Summarization (TinyLlama)</label><br><br>"
         "<button type='submit'>Summarize</button>"
         "</form>"
-        "<p style='color:#666;'>Processing is fully local. No data leaves your machine.</p>"
+        "<p style='color:#666;'>Processing is fully local with Ollama + TinyLlama. No data leaves your machine.</p>"
         "</div>"
     )
     return _html_page(body)
@@ -254,19 +311,26 @@ def index():
 @app.post("/summarize")
 def summarize():
     file = request.files.get("file")
+    use_ai = request.form.get("use_ai") == "on"  # Checkbox value
+    
     if not file or not file.filename.lower().endswith(".pdf"):
         return _html_page("<div class='card'><p>Please upload a PDF file.</p><a href='/'><button>Go back</button></a></div>")
+    
     with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as tmp:
         file.save(tmp)
         tmp_path = tmp.name
     try:
-        res = run(tmp_path)
+        res = run(tmp_path, use_ai=use_ai)
         summary = (res.get("summary") or "").strip()
         key_points = res.get("key_points") or []
+        method = res.get("method", "heuristic")
         items = "".join([f"<li>{kp}</li>" for kp in key_points])
+        
+        method_badge = f"<span style='background:#10b981;color:white;padding:2px 8px;border-radius:4px;font-size:12px;'>AI-Powered</span>" if method == "ai_ollama" else f"<span style='background:#6b7280;color:white;padding:2px 8px;border-radius:4px;font-size:12px;'>Heuristic</span>"
+        
         body = (
             "<div class='card'>"
-            f"<h2>Summary — {file.filename}</h2>"
+            f"<h2>Summary — {file.filename} {method_badge}</h2>"
             f"<pre>{summary}</pre>"
             "<h3>Key Points</h3>"
             f"<ol>{items}</ol>"
@@ -283,10 +347,13 @@ def summarize():
 
 if __name__ == "__main__":
     # If a PDF path is provided: run CLI; otherwise start Flask server
-    if len(sys.argv) == 2 and os.path.isfile(sys.argv[1]):
-        out = run(sys.argv[1])
+    if len(sys.argv) >= 2 and os.path.isfile(sys.argv[1]):
+        use_ai = "--ai" in sys.argv or "-a" in sys.argv
+        out = run(sys.argv[1], use_ai=use_ai)
         print(json.dumps(out, ensure_ascii=False, indent=2))
     else:
+        print("Starting AI-Powered PDF Summarizer...")
+        print("Available models:", ollama.list()['models'] if 'ollama' in globals() else "Ollama not available")
         app.run(host="127.0.0.1", port=5000, debug=False)
 
 

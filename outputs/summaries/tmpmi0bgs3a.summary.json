@@ -1,0 +1,15 @@
+{
+  "company": "tmpmi0bgs3a",
+  "summary": "The annual report for Synthesic CXO (Quarterly Business Update – Q1 FY26) provides a summary of the company's financial performance, strategic initiatives, and business outlook. The report highlights key financial performance metrics, such as revenues, net profit, total contract value (TCV), and employee attendance, as well as highlighting the company's cost structure, attribution to AI/ML skillset, and customer feedback. The report also includes information on the company's global bank subsidiary, retail market, automotive industry, healthcare sector, and customer feedback. Overall, the report provides a comprehensive overview of the company's performance and future plans.",
+  "key_points": [
+    "Synthetic CXO Report Quarterly Business Update – Q1 FY26 Company: TCS • Revenue: ₹62,300 Cr • Net Profit: ₹11,200 Cr • YoY Growth: 6.5% • Total Contract Value (TCV): USD 12.2 Billion • Attrition Rate: 13.3% Highlights: • BFSI and Cloud continue to drive revenue. • Costs increased due to higher software licensing and infra spend. • Attrition remains above target, especially in AI/ML skilled workforce.",
+    "Regional Performance • North America: ₹30,000 Cr (Growth 5.2%) → Strong BFSI demand. • Europe: ₹18,000 Cr (Flat YoY) → Macro slowdown, pricing pressure. • APAC: ₹9,500 Cr (Growth 8.3%) → Cloud deals accelerating. • India: ₹4,800 Cr (Growth 6.9%) → Growth from Government contracts.",
+    "Employee Metrics • Total Employees: 602,000 • Attrition: 13.2% • Training Hours/Employee: 45 • Skills Mix: • AI/ML – 12% • Cloud – 22% • Cybersecurity – 8% • Legacy Systems – 35% • Others – 23% Gap in AI/ML skills could delay GenAI project delivery.",
+    "Fleet / Operations • CityRide Cabs → 1,200 Diesel vehicles, avg age 4 years. • QuickLogistics → 800 Petrol trucks, avg age 6 years. • FreshMart Delivery → 300 CNG vans, avg age 2 years.",
+    "R&D / Innovation • 5 patents filed in AI model compression. • Prototype launched for AI-powered fraud detection. • Upcoming: Generative AI lab expansion in Pune (Q3 FY26).",
+    "Customer Feedback (NPS) • GlobalBank → NPS 68 → Positive: Service quality, Negative: Pricing. • RetailMart → NPS 42 → Neutral: Speed good, Pricing concerns. • AutoWorks → NPS 55 → Positive: Delivery, Negative: Lack of innovation.",
+    "Competitor Moves • Infosys acquired NeuroLogic AI ($750M). • Cognizant completed Belcan acquisition ($1.3B). • IBM announced $7.5B in Generative AI deals.",
+    "Procurement Spend – Q1 FY26 • Microsoft: $35M • SAP: $22M • Adobe: $10M • AWS: $50M | Azure: $42M | GCP: $18M Note: Potential savings of 12–15% via centralized procurement."
+  ],
+  "method": "ai_ollama"
+}
